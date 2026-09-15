@@ -1,2 +1,2 @@
 # lolasalem.github.io
-Personal website of Lola Salem — musicologist, writer, and cultural consultant.
+Personal website of Lola Salem — researcher, writer and institutional strategist working across policy, culture, education and philanthropy.
