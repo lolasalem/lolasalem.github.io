@@ -1,2 +1,495 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sources & Partners — SIDONIE</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600&display=swap" rel="stylesheet"><style>
-:root{--paper:#f2efea;--carbon:#171717;--muted:#68655f;--line:rgba(23,23,23,.20)}*{box-sizing:border-box}body{margin:0;background-color:var(--paper);background-image:linear-gradient(rgba(242,239,234,.84),rgba(242,239,234,.84)),url("../assets/paper-texture.jpg");background-size:auto,1100px auto;color:var(--carbon);font-family:"Public Sans",Arial,sans-serif}.shell{max-width:1060px;margin:auto;padding:24px 36px 70px}a{color:inherit}.top{display:flex;justify-content:space-between;padding:8px 0 18px;border-bottom:1px solid var(--line)}.brand,h1,h2{font-family:"Tiempos Headline","Iowan Old Style",Baskerville,Georgia,serif}.brand{font-size:25px;letter-spacing:.18em;text-decoration:none}.hero{position:relative;min-height:360px;padding:70px 0 45px;border-bottom:1px solid var(--line);overflow:hidden}.hero img{position:absolute;right:2%;top:30px;width:min(28vw,250px);mix-blend-mode:multiply;opacity:.64;filter:grayscale(1) contrast(1.1)}.eyebrow,.role,.logo-label{font-size:9px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}h1{position:relative;z-index:1;margin:10px 0 18px;font-size:clamp(54px,8vw,88px);line-height:.92;font-weight:500}.intro{position:relative;z-index:1;max-width:660px;font-size:14px;line-height:1.65}.group{padding:38px 0 12px}.group-title{margin:0 0 18px;font-size:34px}.logo-row{display:flex;gap:50px;align-items:end;padding:25px 0 35px;border-top:1px solid var(--line)}.logo-block{flex:1}.logo-label{margin-bottom:14px}.logo-block img{display:block;max-height:58px;max-width:210px;width:auto;height:auto;object-fit:contain;object-position:left center}.logo-block .ev{max-width:235px;filter:grayscale(1) brightness(0);opacity:.82}.entry{display:grid;grid-template-columns:150px minmax(0,1fr);gap:32px;padding:26px 0;border-top:1px solid var(--line)}.entry h2{margin:0 0 8px;font-size:27px}.entry h2 a{text-decoration:none}.entry h2 a:hover{text-decoration:underline;text-underline-offset:4px}.entry p{max-width:650px;margin:0;color:var(--muted);font-size:12px;line-height:1.65}footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);display:flex;justify-content:space-between;color:var(--muted);font-size:10px}@media(max-width:700px){.shell{padding:18px}.hero img{width:190px;right:-45px;opacity:.35}.entry{grid-template-columns:1fr;gap:10px}.logo-row{flex-direction:column;align-items:flex-start}footer{flex-direction:column;gap:8px}}</style></head><body><div class="shell"><div class="top"><a class="brand" href="../../">SIDONIE</a><a href="../">Back to Guide</a></div><section class="hero"><img src="../assets/sidonie-stamp.jpg" alt=""><div class="eyebrow">SIDONIE · Transparency</div><h1>Sources &amp; partners.</h1><p class="intro">SIDONIE distinguishes between formal partners, financial supporters, and the editorial or discovery sources used to find cultural events. A source relationship does not by itself make an event a SIDONIE recommendation.</p></section><section class="group"><h2 class="group-title">Partners &amp; supporters</h2><div class="logo-row"><div class="logo-block"><div class="logo-label">Partner</div><a href="https://verdur.in/" target="_blank" rel="noopener"><img src="../../assets/verdurin.png" alt="Verdurin"></a></div><div class="logo-block"><div class="logo-label">Supported by</div><a href="https://www.mercatus.org/emergent-ventures" target="_blank" rel="noopener"><img class="ev" src="../../assets/emergent-ventures.png" alt="Emergent Ventures"></a></div></div><article class="entry"><div class="role">Partner</div><div><h2><a href="https://verdur.in/" target="_blank" rel="noopener">Verdurin</a></h2><p>A cultural project in East London and a core SIDONIE partner. Partner programming is identified as such in the Guide and remains distinct from SIDONIE’s own editorial selections.</p></div></article><article class="entry"><div class="role">Supported by</div><div><h2><a href="https://www.mercatus.org/emergent-ventures" target="_blank" rel="noopener">Emergent Ventures</a></h2><p>SIDONIE has received support from Emergent Ventures, the fellowship and grant programme administered by the Mercatus Center at George Mason University.</p></div></article></section><section class="group"><h2 class="group-title">Editorial &amp; discovery sources</h2><article class="entry"><div class="role">Discovery source</div><div><h2><a href="https://www.continuoconnect.com/events" target="_blank" rel="noopener">Continuo Connect</a></h2><p>Used to discover London concert and early-music listings. Events sourced through Continuo are not automatically SIDONIE selections.</p></div></article><article class="entry"><div class="role">Trusted criticism source</div><div><h2><a href="https://petitpoi.net/notes-and-notices/" target="_blank" rel="noopener">Petit Poi / Pierre d’Alancaisez</a></h2><p>Used as a screening source for exhibitions. The current rule considers London exhibitions rated four stars or more while they remain open; the rating remains the critic’s judgement, not SIDONIE’s.</p></div></article></section><footer><span>SIDONIE</span><span>Sources · partners · supporters</span></footer></div></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sources & Partners — SIDONIE</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --paper: #f2efea;
+      --green: #8e9277;
+      --gold: #d0b776;
+      --carbon: #171717;
+      --muted: #68655f;
+      --line: rgba(23,23,23,.20);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--carbon);
+      font-family: "Public Sans", "Helvetica Neue", Arial, sans-serif;
+      font-weight: 300;
+      background-color: var(--paper);
+      background-image:
+        linear-gradient(rgba(242,239,234,.84), rgba(242,239,234,.84)),
+        url("../assets/paper-texture.jpg");
+      background-size: auto, 1100px auto;
+      background-attachment: fixed;
+    }
+
+    a:link,
+    a:visited { color: inherit; }
+
+    .shell {
+      max-width: 1060px;
+      margin: auto;
+      padding: 24px 36px 70px;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 0 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .wordmark,
+    h1,
+    h2,
+    h3 {
+      font-family: "Tiempos Headline", "Iowan Old Style", Baskerville, Georgia, serif;
+      font-weight: 500;
+    }
+
+    .wordmark {
+      font-size: 25px;
+      letter-spacing: .18em;
+      text-decoration: none;
+    }
+
+    nav {
+      display: flex;
+      gap: 22px;
+      font-size: 10px;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    nav a { text-decoration: none; }
+
+    .hero {
+      position: relative;
+      min-height: 350px;
+      padding: 70px 0 45px;
+      border-bottom: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .hero-stamp {
+      position: absolute;
+      right: 2%;
+      top: 28px;
+      width: min(28vw, 250px);
+      mix-blend-mode: multiply;
+      opacity: .62;
+      filter: grayscale(1) contrast(1.1);
+    }
+
+    .eyebrow,
+    .role,
+    .partner-label {
+      color: var(--muted);
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      position: relative;
+      z-index: 1;
+      margin: 10px 0 18px;
+      max-width: 760px;
+      font-size: clamp(54px, 8vw, 88px);
+      line-height: .92;
+      letter-spacing: -.025em;
+    }
+
+    .intro {
+      position: relative;
+      z-index: 1;
+      max-width: 660px;
+      margin: 0;
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    .partners {
+      padding: 42px 0 26px;
+    }
+
+    .section-title {
+      margin: 0 0 30px;
+      font-size: 35px;
+    }
+
+    .partner-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      align-items: center;
+    }
+
+    .partner-item {
+      min-height: 160px;
+      padding: 20px 44px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .partner-item + .partner-item {
+      border-left: 1px solid var(--line);
+    }
+
+    .partner-label {
+      margin-bottom: 24px;
+    }
+
+    .partner-logo-link {
+      width: 100%;
+      min-height: 70px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+
+    .partner-logo {
+      display: block;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+
+    .verdurin-logo {
+      max-width: 310px;
+      max-height: 72px;
+    }
+
+    .ev-logo {
+      max-width: 250px;
+      max-height: 68px;
+      filter: grayscale(1) brightness(0);
+      opacity: .86;
+    }
+
+    .sources {
+      padding: 38px 0 10px;
+      border-top: 1px solid var(--line);
+    }
+
+    .source-entry {
+      display: grid;
+      grid-template-columns: 180px minmax(0,1fr);
+      gap: 34px;
+      padding: 27px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .source-entry:first-of-type {
+      border-top: 0;
+    }
+
+    .source-entry h3 {
+      margin: 0 0 8px;
+      font-size: 27px;
+      line-height: 1.08;
+    }
+
+    .source-entry h3 a {
+      text-decoration: none;
+    }
+
+    .source-entry h3 a:hover {
+      color: #3f4437;
+      text-decoration: underline;
+      text-underline-offset: 4px;
+    }
+
+    .source-entry p {
+      max-width: 650px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.65;
+    }
+
+    .rule {
+      display: inline-block;
+      margin-top: 11px;
+      padding: 5px 8px;
+      border: 1px solid rgba(142,146,119,.45);
+      background: rgba(142,146,119,.08);
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    footer {
+      margin-top: 44px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    @media (max-width: 700px) {
+      .shell { padding: 18px; }
+
+      header {
+        align-items: flex-start;
+        gap: 18px;
+      }
+
+      nav {
+        gap: 12px;
+        font-size: 9px;
+      }
+
+      .hero {
+        min-height: 330px;
+        padding-top: 55px;
+      }
+
+      .hero-stamp {
+        width: 190px;
+        right: -45px;
+        opacity: .34;
+      }
+
+      .partner-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .partner-item {
+        min-height: 130px;
+        padding: 25px 12px;
+      }
+
+      .partner-item + .partner-item {
+        border-left: 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .verdurin-logo { max-width: 260px; }
+      .ev-logo { max-width: 220px; }
+
+      .source-entry {
+        grid-template-columns: 1fr;
+        gap: 10px;
+      }
+
+      footer {
+        flex-direction: column;
+        gap: 8px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="shell">
+
+    <header>
+      <a class="wordmark" href="../../">SIDONIE</a>
+
+      <nav>
+        <a href="../">Guide</a>
+        <a href="../../#culture-at-work">Culture at Work</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <img class="hero-stamp" src="../assets/sidonie-stamp.jpg" alt="">
+
+      <div class="eyebrow">SIDONIE · Transparency</div>
+
+      <h1>Sources &amp; partners.</h1>
+
+      <p class="intro">
+        SIDONIE distinguishes between formal partners, financial supporters,
+        and the editorial or discovery sources used to find cultural events.
+        A source relationship does not by itself make an event a SIDONIE selection.
+      </p>
+    </section>
+
+    <section class="partners">
+      <h2 class="section-title">Partners &amp; supporters</h2>
+
+      <div class="partner-grid">
+        <div class="partner-item">
+          <div class="partner-label">Partner</div>
+
+          <a class="partner-logo-link"
+             href="https://verdur.in/"
+             target="_blank"
+             rel="noopener"
+             aria-label="Verdurin">
+            <img class="partner-logo verdurin-logo"
+                 src="../../assets/verdurin.png"
+                 alt="Verdurin">
+          </a>
+        </div>
+
+        <div class="partner-item">
+          <div class="partner-label">Supported by</div>
+
+          <a class="partner-logo-link"
+             href="https://www.mercatus.org/emergent-ventures"
+             target="_blank"
+             rel="noopener"
+             aria-label="Emergent Ventures">
+            <img class="partner-logo ev-logo"
+                 src="../../assets/emergent-ventures.png"
+                 alt="Emergent Ventures">
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="sources">
+      <h2 class="section-title">Editorial &amp; discovery sources</h2>
+
+      <article class="source-entry">
+        <div class="role">Discovery source</div>
+
+        <div>
+          <h3>
+            <a href="https://www.continuoconnect.com/events"
+               target="_blank"
+               rel="noopener">
+              Continuo Connect
+            </a>
+          </h3>
+
+          <p>
+            Used to discover London concert and early-music listings.
+            Events found through Continuo are screened separately by SIDONIE;
+            appearing on the source does not itself constitute a SIDONIE selection.
+          </p>
+        </div>
+      </article>
+
+      <article class="source-entry">
+        <div class="role">Main partner</div>
+
+        <div>
+          <h3>
+            <a href="https://petitpoi.net/notes-and-notices/"
+               target="_blank"
+               rel="noopener">
+              Petit Poi / Pierre d’Alancaisez
+            </a>
+          </h3>
+
+          <p>
+            Used to identify exhibitions for possible inclusion in the Guide.
+            Pierre d’Alancaisez’s rating remains his judgement rather than SIDONIE’s.
+          </p>
+        </div>
+      </article>
+
+      <article class="source-entry">
+        <div class="role">Discovery source</div>
+
+        <div>
+          <h3>
+            <a href="https://thebasecreates.co.uk/"
+               target="_blank"
+               rel="noopener">
+              The Base
+            </a>
+          </h3>
+
+          <p>
+            A source for theatre, performance, training and permanent creative projects.
+            SIDONIE can draw both dated programming from The Base and continuing work such
+            as Project 39, its filmed Shakespeare project.
+          </p>
+        </div>
+      </article>
+
+      <article class="source-entry">
+        <div class="role">Discovery source</div>
+
+        <div>
+          <h3>
+            <a href="https://thecritic.co.uk/"
+               target="_blank"
+               rel="noopener">
+              The Critic
+            </a>
+          </h3>
+
+          <p>
+            A source for criticism and recommendations across the arts, with particular
+            attention to regular cultural columnists and critics, including Robert Thicknesse
+            on opera.
+          </p>
+        </div>
+      </article>
+
+      <article class="source-entry">
+        <div class="role">Discovery source</div>
+
+        <div>
+          <h3>
+            <a href="https://engelsbergideas.com/reviews/"
+               target="_blank"
+               rel="noopener">
+              Engelsberg Ideas
+            </a>
+          </h3>
+
+          <p>
+            A source for substantial reviews of books, art, culture and ideas. Relevant
+            reviews can feed the Guide when they point towards exhibitions, performances,
+            books or other cultural work that SIDONIE wants to surface.
+          </p>
+        </div>
+      </article>
+
+      <article class="source-entry">
+        <div class="role">Discovery source</div>
+
+        <div>
+          <h3>
+            <a href="https://artreview.com/author/j-j-charlesworth/"
+               target="_blank"
+               rel="noopener">
+              J.J. Charlesworth / ArtReview
+            </a>
+          </h3>
+
+          <p>
+            A discovery source for contemporary art criticism, exhibitions and artists.
+            SIDONIE uses Charlesworth’s writing as a lead rather than reproducing the review
+            stream wholesale: only work that SIDONIE positively selects is surfaced in the Guide.
+          </p>
+        </div>
+      </article>
+
+    </section>
+
+    <footer>
+      <span>SIDONIE</span>
+      <span>Sources · partners · supporters</span>
+    </footer>
+
+  </div>
+</body>
+</html>
