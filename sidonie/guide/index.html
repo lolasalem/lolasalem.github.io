@@ -1,1 +1,599 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <title>The Guide — SIDONIE</title>
+
+  <style>
+    :root {
+      --paper: #f2efea;
+      --blue: #899aa9;
+      --green: #8e9277;
+      --gold: #d0b776;
+      --carbon: #171717;
+      --muted: #68655f;
+      --line: rgba(23,23,23,.20);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--carbon);
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      font-weight: 300;
+    }
+
+    .shell {
+      max-width: 1180px;
+      margin: auto;
+      padding: 24px 36px 60px;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--line);
+      padding: 8px 0 18px;
+    }
+
+    .wordmark {
+      font-family: Baskerville, "Times New Roman", serif;
+      font-size: 25px;
+      letter-spacing: .18em;
+      color: inherit;
+      text-decoration: none;
+    }
+
+    nav {
+      display: flex;
+      gap: 24px;
+      font-size: 11px;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+    }
+
+    nav a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .hero {
+      padding: 75px 0 45px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .kicker,
+    .meta {
+      font-size: 10px;
+      line-height: 1.4;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+
+    h1, h2, h3 {
+      font-family: Baskerville, "Times New Roman", serif;
+      font-weight: 500;
+    }
+
+    h1 {
+      margin: 10px 0 20px;
+      font-size: clamp(58px, 8vw, 96px);
+      line-height: .94;
+      letter-spacing: -.025em;
+    }
+
+    .intro {
+      max-width: 650px;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    .toolbar {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+      padding: 25px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .filters,
+    .views {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    button {
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--carbon);
+      padding: 10px 14px;
+      min-height: 42px;
+      font-size: 10px;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+
+    button.active {
+      background: var(--carbon);
+      color: var(--paper);
+    }
+
+    button:disabled {
+      cursor: default;
+      opacity: .45;
+    }
+
+    .section-heading {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      padding: 38px 0 12px;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+      font-size: 35px;
+    }
+
+    .event {
+      display: grid;
+      grid-template-columns: 100px minmax(0,1fr) auto;
+      gap: 24px;
+      padding: 24px 0;
+      border-top: 1px solid var(--line);
+      align-items: start;
+    }
+
+    .date {
+      font-size: 10px;
+      line-height: 1.6;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+
+    .event h3 {
+      margin: 0 0 5px;
+      font-size: 27px;
+      line-height: 1.05;
+    }
+
+    .artist {
+      margin-bottom: 9px;
+      font-size: 11px;
+      letter-spacing: .09em;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+
+    .details {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.55;
+    }
+
+    .price {
+      border: 1px solid var(--line);
+      padding: 8px 10px;
+      white-space: nowrap;
+      font-size: 10px;
+    }
+
+    .source {
+      display: inline-block;
+      margin-top: 9px;
+      color: var(--muted);
+      font-size: 9px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    footer {
+      margin-top: 55px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    @media (max-width: 700px) {
+      .shell { padding: 18px; }
+
+      .event {
+        grid-template-columns: 72px minmax(0,1fr);
+        gap: 14px;
+      }
+
+      .price {
+        grid-column: 2;
+        justify-self: start;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="shell">
+
+  <header>
+
+    <a class="wordmark" href="../">
+      SIDONIE
+    </a>
+
+    <nav>
+      <a href="./">Guide</a>
+      <a href="../#culture-at-work">Culture at Work</a>
+    </nav>
+
+  </header>
+
+
+  <section class="hero">
+
+    <div class="kicker">
+      The SIDONIE Guide · London
+    </div>
+
+    <h1>
+      See better things.
+    </h1>
+
+    <p class="intro">
+      Exhibitions, concerts, plays, films, operas, and ideas,
+      selected by SIDONIE.
+    </p>
+
+  </section>
+
+
+  <section class="toolbar">
+
+    <div class="filters">
+
+      <button class="active" data-filter="all">
+        All
+      </button>
+
+      <button data-filter="concert">
+        Concerts
+      </button>
+
+      <button data-filter="opera">
+        Opera
+      </button>
+
+      <button disabled title="Coming as more sources are added">
+        Exhibitions
+      </button>
+
+      <button disabled title="Coming as more sources are added">
+        Film
+      </button>
+
+      <button disabled title="Coming as more sources are added">
+        Ideas
+      </button>
+
+    </div>
+
+
+    <div class="views">
+
+      <button class="active">
+        List
+      </button>
+
+      <button disabled title="Map view is being connected to venue data">
+        Map · Soon
+      </button>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <div class="section-heading">
+
+      <h2>
+        Coming up
+      </h2>
+
+      <span class="meta">
+        London
+      </span>
+
+    </div>
+
+
+    <div id="events">
+
+      <article class="event" data-type="concert">
+
+        <div class="date">
+          Wed 16 Sep<br>
+          7.30pm
+        </div>
+
+        <div>
+
+          <h3>
+            CPE Bach, Haydn, Martínez and Mozart
+          </h3>
+
+          <div class="artist">
+            Dunedin Consort
+          </div>
+
+          <div class="details">
+            Wigmore Hall<br>
+            Early Music at Wigmore Hall
+          </div>
+
+          <span class="source">
+            Discovered via Continuo Connect
+          </span>
+
+        </div>
+
+        <div class="price">
+          £18–£50
+        </div>
+
+      </article>
+
+
+      <article class="event" data-type="concert">
+
+        <div class="date">
+          Fri 18 Sep<br>
+          7.30pm
+        </div>
+
+        <div>
+
+          <h3>
+            Monteverdi Vespers
+          </h3>
+
+          <div class="artist">
+            ECSE | I Fagiolini
+          </div>
+
+          <div class="details">
+            Kings Place<br>
+            Early Music at Kings Place
+          </div>
+
+          <span class="source">
+            Discovered via Continuo Connect
+          </span>
+
+        </div>
+
+        <div class="price">
+          £28–£70
+        </div>
+
+      </article>
+
+
+      <article class="event" data-type="concert">
+
+        <div class="date">
+          Sun 27 Sep<br>
+          2pm
+        </div>
+
+        <div>
+
+          <h3>
+            Goldberg Variations
+          </h3>
+
+          <div class="artist">
+            Jean Rondeau
+          </div>
+
+          <div class="details">
+            Queen Elizabeth Hall · Southbank Centre
+          </div>
+
+          <span class="source">
+            Discovered via Continuo Connect
+          </span>
+
+        </div>
+
+        <div class="price">
+          From £24
+        </div>
+
+      </article>
+
+
+      <article class="event" data-type="opera">
+
+        <div class="date">
+          Tue 29 Sep<br>
+          7.30pm
+        </div>
+
+        <div>
+
+          <h3>
+            Purcell: Dido &amp; Aeneas
+          </h3>
+
+          <div class="artist">
+            Early Opera Company
+          </div>
+
+          <div class="details">
+            Temple Church<br>
+            Temple Music Foundation
+          </div>
+
+          <span class="source">
+            Discovered via Continuo Connect
+          </span>
+
+        </div>
+
+        <div class="price">
+          £15–£55
+        </div>
+
+      </article>
+
+
+      <article class="event" data-type="concert">
+
+        <div class="date">
+          Thu 1 Oct<br>
+          7pm
+        </div>
+
+        <div>
+
+          <h3>
+            Fretwork 40th Anniversary
+          </h3>
+
+          <div class="artist">
+            Fretwork
+          </div>
+
+          <div class="details">
+            Wigmore Hall
+          </div>
+
+          <span class="source">
+            Discovered via Continuo Connect
+          </span>
+
+        </div>
+
+        <div class="price">
+          £18–£50
+        </div>
+
+      </article>
+
+
+      <article class="event" data-type="concert">
+
+        <div class="date">
+          Thu 8 Oct<br>
+          7.30pm
+        </div>
+
+        <div>
+
+          <h3>
+            The Gesualdo Six Friends’ Concert
+          </h3>
+
+          <div class="artist">
+            The Gesualdo Six
+          </div>
+
+          <div class="details">
+            St Peter’s, Eaton Square
+          </div>
+
+          <span class="source">
+            Discovered via Continuo Connect
+          </span>
+
+        </div>
+
+        <div class="price">
+          £25
+        </div>
+
+      </article>
+
+    </div>
+
+  </section>
+
+
+  <footer>
+
+    <span>
+      SIDONIE
+    </span>
+
+    <span>
+      London · Research prototype
+    </span>
+
+  </footer>
+
+</div>
+
+
+<script>
+
+  const filterButtons =
+    document.querySelectorAll("[data-filter]");
+
+  const events =
+    document.querySelectorAll(".event");
+
+
+  filterButtons.forEach(button => {
+
+    button.addEventListener("click", () => {
+
+      filterButtons.forEach(b =>
+        b.classList.remove("active")
+      );
+
+      button.classList.add("active");
+
+      const filter =
+        button.dataset.filter;
+
+
+      events.forEach(event => {
+
+        if (
+          filter === "all" ||
+          event.dataset.type === filter
+        ) {
+
+          event.style.display = "grid";
+
+        } else {
+
+          event.style.display = "none";
+
+        }
+
+      });
+
+    });
+
+  });
+
+</script>
+
+</body>
+</html>
