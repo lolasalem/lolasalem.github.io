@@ -3,241 +3,260 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sources & Partners — SIDONIE</title>
+  <title>The Guide — SIDONIE</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
   <style>
     :root {
       --paper: #f2efea;
+      --blue: #899aa9;
       --green: #8e9277;
       --gold: #d0b776;
       --carbon: #171717;
       --muted: #68655f;
-      --line: rgba(23,23,23,.20);
+      --line: rgba(23, 23, 23, .20);
     }
 
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
+      background: var(--paper);
       color: var(--carbon);
-      font-family: "Public Sans", "Helvetica Neue", Arial, sans-serif;
+      font-family: "Helvetica Neue", Arial, sans-serif;
       font-weight: 300;
-      background-color: var(--paper);
-      background-image:
-        linear-gradient(rgba(242,239,234,.84), rgba(242,239,234,.84)),
-        url("../assets/paper-texture.jpg");
-      background-size: auto, 1100px auto;
-      background-attachment: fixed;
     }
 
-    a:link,
-    a:visited { color: inherit; }
-
     .shell {
-      max-width: 1060px;
+      max-width: 1180px;
       margin: auto;
-      padding: 24px 36px 70px;
+      padding: 24px 36px 60px;
     }
 
     header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 8px 0 18px;
       border-bottom: 1px solid var(--line);
-    }
-
-    .wordmark,
-    h1,
-    h2,
-    h3 {
-      font-family: "Tiempos Headline", "Iowan Old Style", Baskerville, Georgia, serif;
-      font-weight: 500;
+      padding: 8px 0 18px;
     }
 
     .wordmark {
+      font-family: Baskerville, "Times New Roman", serif;
       font-size: 25px;
       letter-spacing: .18em;
+      color: inherit;
       text-decoration: none;
     }
 
     nav {
       display: flex;
-      gap: 22px;
-      font-size: 10px;
-      letter-spacing: .12em;
+      gap: 24px;
+      font-size: 11px;
+      letter-spacing: .11em;
       text-transform: uppercase;
     }
 
-    nav a { text-decoration: none; }
+    nav a {
+      color: inherit;
+      text-decoration: none;
+    }
 
     .hero {
-      position: relative;
-      min-height: 350px;
-      padding: 70px 0 45px;
+      padding: 75px 0 45px;
       border-bottom: 1px solid var(--line);
-      overflow: hidden;
     }
 
-    .hero-stamp {
-      position: absolute;
-      right: 2%;
-      top: 28px;
-      width: min(28vw, 250px);
-      mix-blend-mode: multiply;
-      opacity: .62;
-      filter: grayscale(1) contrast(1.1);
-    }
-
-    .eyebrow,
-    .role,
-    .partner-label {
-      color: var(--muted);
-      font-size: 9px;
-      font-weight: 600;
+    .kicker, .meta {
+      font-size: 10px;
+      line-height: 1.4;
       letter-spacing: .14em;
       text-transform: uppercase;
+      font-weight: 500;
+    }
+
+    h1, h2, h3 {
+      font-family: Baskerville, "Times New Roman", serif;
+      font-weight: 500;
     }
 
     h1 {
-      position: relative;
-      z-index: 1;
-      margin: 10px 0 18px;
-      max-width: 760px;
-      font-size: clamp(54px, 8vw, 88px);
-      line-height: .92;
+      margin: 10px 0 20px;
+      font-size: clamp(58px, 8vw, 96px);
+      line-height: .94;
       letter-spacing: -.025em;
     }
 
     .intro {
-      position: relative;
-      z-index: 1;
-      max-width: 660px;
+      max-width: 650px;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    .toolbar {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+      padding: 25px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .filters, .views {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    button {
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--carbon);
+      padding: 10px 14px;
+      min-height: 42px;
+      font-size: 10px;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+
+    button.active {
+      background: var(--carbon);
+      color: var(--paper);
+    }
+
+    button:disabled {
+      cursor: default;
+      opacity: .45;
+    }
+
+    .section-heading {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      padding: 38px 0 12px;
+    }
+
+    .section-heading h2 {
       margin: 0;
-      font-size: 14px;
-      line-height: 1.65;
-    }
-
-    .partners {
-      padding: 42px 0 26px;
-    }
-
-    .section-title {
-      margin: 0 0 30px;
       font-size: 35px;
     }
 
-    .partner-grid {
+    #events[hidden], #map-container[hidden] {
+      display: none !important;
+    }
+
+    .event {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      align-items: center;
-    }
-
-    .partner-item {
-      min-height: 160px;
-      padding: 20px 44px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-    }
-
-    .partner-item + .partner-item {
-      border-left: 1px solid var(--line);
-    }
-
-    .partner-label {
-      margin-bottom: 24px;
-    }
-
-    .partner-logo-link {
-      width: 100%;
-      min-height: 70px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-decoration: none;
-    }
-
-    .partner-logo {
-      display: block;
-      width: auto;
-      height: auto;
-      object-fit: contain;
-    }
-
-    .verdurin-logo {
-      max-width: 310px;
-      max-height: 72px;
-    }
-
-    .ev-logo {
-      max-width: 250px;
-      max-height: 68px;
-      filter: grayscale(1) brightness(0);
-      opacity: .86;
-    }
-
-    .sources {
-      padding: 38px 0 10px;
+      grid-template-columns: 100px minmax(0, 1fr) auto;
+      gap: 24px;
+      padding: 24px 0;
       border-top: 1px solid var(--line);
+      align-items: start;
     }
 
-    .source-entry {
-      display: grid;
-      grid-template-columns: 180px minmax(0,1fr);
-      gap: 34px;
-      padding: 27px 0;
-      border-top: 1px solid var(--line);
+    .date {
+      font-size: 10px;
+      line-height: 1.6;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+      font-weight: 500;
     }
 
-    .source-entry:first-of-type {
-      border-top: 0;
-    }
-
-    .source-entry h3 {
-      margin: 0 0 8px;
+    .event h3 {
+      margin: 0 0 5px;
       font-size: 27px;
-      line-height: 1.08;
+      line-height: 1.05;
     }
 
-    .source-entry h3 a {
-      text-decoration: none;
+    .artist {
+      margin-bottom: 9px;
+      font-size: 11px;
+      letter-spacing: .09em;
+      text-transform: uppercase;
+      font-weight: 500;
     }
 
-    .source-entry h3 a:hover {
-      color: #3f4437;
-      text-decoration: underline;
-      text-underline-offset: 4px;
-    }
-
-    .source-entry p {
-      max-width: 650px;
-      margin: 0;
+    .details {
       color: var(--muted);
       font-size: 12px;
-      line-height: 1.65;
+      line-height: 1.55;
     }
 
-    .rule {
+    .price {
+      border: 1px solid var(--line);
+      padding: 8px 10px;
+      white-space: nowrap;
+      font-size: 10px;
+    }
+
+    .source {
       display: inline-block;
-      margin-top: 11px;
-      padding: 5px 8px;
-      border: 1px solid rgba(142,146,119,.45);
-      background: rgba(142,146,119,.08);
+      margin-top: 9px;
+      color: var(--muted);
       font-size: 9px;
-      font-weight: 600;
       letter-spacing: .08em;
       text-transform: uppercase;
     }
 
+    #map-container {
+      margin-top: 28px;
+    }
+
+    #map {
+      width: 100%;
+      height: 620px;
+      min-height: 500px;
+      border: 1px solid var(--line);
+      background: var(--blue);
+    }
+
+    .sidonie-marker {
+      background: transparent;
+      border: 0;
+    }
+
+    .sidonie-marker span {
+      display: block;
+      width: 18px;
+      height: 18px;
+      background: var(--gold);
+      border: 2px solid var(--carbon);
+      border-radius: 50%;
+      box-shadow: 0 0 0 4px rgba(208, 183, 118, .22);
+    }
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 0;
+      background: var(--paper);
+      color: var(--carbon);
+      box-shadow: none;
+      border: 1px solid var(--line);
+    }
+
+    .leaflet-popup-tip {
+      background: var(--paper);
+    }
+
+    .sidonie-popup strong {
+      font-family: Baskerville, "Times New Roman", serif;
+      font-size: 19px;
+      font-weight: 500;
+    }
+
+    .sidonie-popup ul {
+      margin: 9px 0 0;
+      padding-left: 16px;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
     footer {
-      margin-top: 44px;
+      margin-top: 55px;
       padding-top: 18px;
       border-top: 1px solid var(--line);
       display: flex;
@@ -249,247 +268,705 @@
 
     @media (max-width: 700px) {
       .shell { padding: 18px; }
-
-      header {
-        align-items: flex-start;
-        gap: 18px;
+      header { align-items: flex-start; gap: 20px; }
+      nav { gap: 14px; font-size: 9px; }
+      .hero { padding: 55px 0 35px; }
+      h1 { font-size: clamp(52px, 18vw, 78px); }
+      .event {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 14px;
       }
-
-      nav {
-        gap: 12px;
-        font-size: 9px;
-      }
-
-      .hero {
-        min-height: 330px;
-        padding-top: 55px;
-      }
-
-      .hero-stamp {
-        width: 190px;
-        right: -45px;
-        opacity: .34;
-      }
-
-      .partner-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .partner-item {
-        min-height: 130px;
-        padding: 25px 12px;
-      }
-
-      .partner-item + .partner-item {
-        border-left: 0;
-        border-top: 1px solid var(--line);
-      }
-
-      .verdurin-logo { max-width: 260px; }
-      .ev-logo { max-width: 220px; }
-
-      .source-entry {
-        grid-template-columns: 1fr;
-        gap: 10px;
-      }
-
-      footer {
-        flex-direction: column;
-        gap: 8px;
-      }
+      .price { grid-column: 2; justify-self: start; }
+      #map { height: 68vh; min-height: 440px; }
+      footer { flex-direction: column; gap: 8px; }
     }
-  </style>
+  
+body{font-family:"Public Sans","Helvetica Neue",Arial,sans-serif;background-image:linear-gradient(rgba(242,239,234,.84),rgba(242,239,234,.84)),url("assets/paper-texture.jpg");background-size:auto,1100px auto;background-attachment:fixed}
+.wordmark,h1,h2,h3,.popup-title{font-family:"Tiempos Headline","Iowan Old Style",Baskerville,Georgia,serif}
+.hero{position:relative;overflow:hidden;min-height:430px}
+.hero-stamp{position:absolute;right:1%;top:25px;width:min(31vw,300px);mix-blend-mode:multiply;opacity:.76;filter:grayscale(1) contrast(1.12)}
+.hero-brush{position:absolute;right:10%;bottom:22px;width:245px;mix-blend-mode:multiply;opacity:.78}
+.hero .kicker,.hero h1,.hero .intro{position:relative;z-index:2}
+.event:nth-child(3n+2){background:linear-gradient(90deg,transparent,rgba(137,154,169,.07),transparent)}
+.event h3 a{text-decoration:none}.event h3 a:hover{text-decoration:underline;text-underline-offset:4px}
+.source a{font-weight:600;text-underline-offset:3px}
+.leaflet-popup-content{margin:16px 18px;min-width:270px;max-width:340px}
+.popup-venue{font:600 9px/1.4 "Public Sans",sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);padding-bottom:8px;border-bottom:1px solid var(--line);margin-bottom:12px}
+.popup-event+.popup-event{border-top:1px solid var(--line);margin-top:13px;padding-top:13px}
+.popup-title{font-size:19px;line-height:1.05;margin-bottom:5px}.popup-title a{text-decoration:none}
+.popup-artist{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.07em;margin-bottom:7px}
+.popup-meta{font-size:11px;line-height:1.5;color:var(--muted)}.popup-price{font-weight:600;color:var(--carbon)}
+.popup-source{font-size:9px;text-transform:uppercase;letter-spacing:.06em;margin-top:8px}.popup-source a{font-weight:600}
+.source-strip{margin-top:45px;padding:26px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);display:grid;grid-template-columns:1fr 2fr;gap:30px}
+.source-strip h3{font-size:27px;margin:0}.source-strip p{margin:0;font-size:12px;line-height:1.65;color:var(--muted)}.source-strip a{font-weight:600;text-underline-offset:3px}
+@media(max-width:700px){.hero-stamp{width:210px;right:-55px;top:40px;opacity:.4}.hero-brush{width:180px;right:-25px}.source-strip{grid-template-columns:1fr}}
+
+
+.partner-badge{display:inline-block;margin-top:8px;padding:4px 7px;border:1px solid rgba(208,183,118,.72);background:rgba(208,183,118,.14);font-size:8px;font-weight:600;letter-spacing:.1em;text-transform:uppercase}
+.popup-partner{display:inline-block;margin:7px 0 2px;padding:3px 6px;border:1px solid rgba(208,183,118,.72);font:600 8px/1.3 "Public Sans",sans-serif;letter-spacing:.08em;text-transform:uppercase}
+
+
+/* SIDONIE semantic colour system */
+.event{
+  position:relative;
+  margin:10px 0;
+  padding:24px 18px;
+  border-top:0;
+  border-left:3px solid transparent;
+}
+.event[data-source="verdurin"]{
+  background:rgba(24,26,28,.045);
+  border-left-color:rgba(24,26,28,.28);
+}
+.event:not([data-source="verdurin"]){
+  background:rgba(142,146,119,.095);
+  border-left-color:rgba(142,146,119,.58);
+}
+.event:nth-child(3n+2){background:rgba(137,154,169,.095)}
+.event[data-source="verdurin"]:nth-child(3n+2){background:rgba(24,26,28,.045)}
+.event h3 a{
+  display:inline;
+  text-decoration:none;
+  text-decoration-thickness:1px;
+  text-underline-offset:4px;
+}
+.event h3 a:hover{text-decoration:underline}
+.partner-badge{
+  display:inline-block;
+  margin-top:8px;
+  padding:4px 7px;
+  border:1px solid rgba(24,26,28,.28);
+  background:rgba(24,26,28,.055);
+  color:rgba(24,26,28,.72);
+  font-size:8px;
+  font-weight:600;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+}
+.price{background:rgba(242,239,234,.62)}
+.sidonie-marker span{
+  background:var(--green);
+  border-color:var(--carbon);
+  box-shadow:0 0 0 4px rgba(142,146,119,.20);
+}
+
+
+/* Links inherit SIDONIE's carbon rather than browser hyperlink blue. */
+a:link,
+a:visited { color: inherit; }
+
+.event h3 a:link,
+.event h3 a:visited,
+.source a:link,
+.source a:visited,
+.popup-title a:link,
+.popup-title a:visited,
+.popup-source a:link,
+.popup-source a:visited,
+.source-strip a:link,
+.source-strip a:visited,
+nav a:link,
+nav a:visited {
+  color: var(--carbon);
+}
+
+.source a,
+.popup-source a,
+.source-strip a {
+  text-decoration-color: rgba(24,26,28,.38);
+}
+
+.event h3 a:hover,
+.source a:hover,
+.popup-title a:hover,
+.popup-source a:hover,
+.source-strip a:hover {
+  color: #3f4437;
+}
+
+
+/* Scrollable Leaflet popups for venues with several events */
+.leaflet-popup-content-wrapper {
+  max-height: min(72vh, 520px);
+  overflow: hidden;
+}
+
+.leaflet-popup-content {
+  max-height: min(64vh, 440px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 10px;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(24,26,28,.35) transparent;
+}
+
+.leaflet-popup-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.leaflet-popup-content::-webkit-scrollbar-thumb {
+  background: rgba(24,26,28,.28);
+  border-radius: 6px;
+}
+
+.leaflet-popup-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@media (max-width: 700px) {
+  .leaflet-popup-content-wrapper {
+    max-height: 66vh;
+  }
+
+  .leaflet-popup-content {
+    max-height: 57vh;
+    min-width: 220px;
+    max-width: 280px;
+  }
+}
+
+.acknowledgements{margin-top:46px;padding:38px 0 10px;border-top:1px solid var(--line)}
+.ack-title{margin:0 0 30px;font-family:"Tiempos Headline","Iowan Old Style",Baskerville,Georgia,serif;font-size:35px;font-weight:500}
+.ack-grid{display:grid;grid-template-columns:1fr 1fr;align-items:center}
+.ack-item{min-height:150px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px 42px;text-align:center}
+.ack-item+.ack-item{border-left:1px solid var(--line)}
+.ack-label{margin-bottom:22px;color:var(--muted);font-size:9px;font-weight:600;letter-spacing:.14em;text-transform:uppercase}
+.ack-logo-link{display:flex;align-items:center;justify-content:center;width:100%;min-height:68px;text-decoration:none}
+.ack-logo{display:block;width:auto;height:auto;object-fit:contain;object-position:center}
+.ack-logo--verdurin{max-width:310px;max-height:72px}
+.ack-logo--ev{max-width:250px;max-height:68px;filter:grayscale(1) brightness(0);opacity:.86}
+@media(max-width:700px){.ack-title{font-size:30px;margin-bottom:18px}.ack-grid{grid-template-columns:1fr}.ack-item{min-height:125px;padding:24px 12px}.ack-item+.ack-item{border-left:0;border-top:1px solid var(--line)}.ack-logo--verdurin{max-width:260px}.ack-logo--ev{max-width:220px}}
+
+/* Worth knowing: ongoing work rather than a dated event */
+.worth-knowing{
+  margin-top:52px;
+  padding-top:36px;
+  border-top:1px solid var(--line);
+}
+.worth-heading{
+  display:flex;
+  justify-content:space-between;
+  align-items:end;
+  gap:20px;
+  margin-bottom:14px;
+}
+.worth-heading h2{
+  margin:0;
+  font-size:35px;
+}
+.worth-intro{
+  max-width:520px;
+  margin:0 0 26px;
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.6;
+}
+.ongoing-card{
+  display:grid;
+  grid-template-columns:110px minmax(0,1fr) auto;
+  gap:26px;
+  padding:27px 18px;
+  border-left:3px solid rgba(142,146,119,.58);
+  background:rgba(142,146,119,.095);
+  align-items:start;
+}
+.ongoing-label{
+  font-size:9px;
+  line-height:1.5;
+  font-weight:600;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+.ongoing-card h3{
+  margin:0 0 7px;
+  font-size:28px;
+  line-height:1.04;
+}
+.ongoing-card h3 a{
+  color:inherit;
+  text-decoration:none;
+}
+.ongoing-card h3 a:hover{
+  color:#3f4437;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+.ongoing-card p{
+  max-width:700px;
+  margin:9px 0 0;
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.65;
+}
+.ongoing-source{
+  display:inline-block;
+  margin-top:11px;
+  color:var(--muted);
+  font-size:9px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+.ongoing-source a{
+  color:var(--carbon);
+  font-weight:600;
+  text-underline-offset:3px;
+}
+.ongoing-action{
+  border:1px solid var(--line);
+  padding:9px 11px;
+  white-space:nowrap;
+  font-size:9px;
+  font-weight:600;
+  letter-spacing:.09em;
+  text-transform:uppercase;
+  text-decoration:none;
+}
+@media(max-width:700px){
+  .worth-heading{align-items:start;flex-direction:column}
+  .ongoing-card{grid-template-columns:72px minmax(0,1fr);gap:14px}
+  .ongoing-action{grid-column:2;justify-self:start}
+}
+
+
+.ongoing-list{display:grid;gap:10px}
+.ongoing-card + .ongoing-card{margin-top:0}
+
+</style>
 </head>
 
 <body>
   <div class="shell">
-
     <header>
-      <a class="wordmark" href="../../">SIDONIE</a>
-
+      <a class="wordmark" href="../">SIDONIE</a>
       <nav>
-        <a href="../">Guide</a>
-        <a href="../../#culture-at-work">Culture at Work</a>
+        <a href="./">Guide</a>
+        <a href="../#culture-at-work">Culture at Work</a>
+        <a href="sources/">Sources</a>
       </nav>
     </header>
 
     <section class="hero">
-      <img class="hero-stamp" src="../assets/sidonie-stamp.jpg" alt="">
-
-      <div class="eyebrow">SIDONIE · Transparency</div>
-
-      <h1>Sources &amp; partners.</h1>
-
+      <img class="hero-stamp" src="assets/sidonie-stamp.jpg" alt="">
+      <img class="hero-brush" src="assets/gold-brush.jpg" alt="">
+      <div class="kicker">The SIDONIE Guide · London</div>
+      <h1>See better things.</h1>
       <p class="intro">
-        SIDONIE distinguishes between formal partners, financial supporters,
-        and the editorial or discovery sources used to find cultural events.
-        A source relationship does not by itself make an event a SIDONIE selection.
+        Exhibitions, concerts, plays, films, operas, and ideas,
+        selected by SIDONIE.
       </p>
     </section>
 
-    <section class="partners">
-      <h2 class="section-title">Partners &amp; supporters</h2>
+    <section class="toolbar">
+      <div class="filters">
+        <button class="active" data-filter="all">All</button>
+        <button data-filter="concert">Concerts</button>
+        <button data-filter="opera">Opera</button>
+        <button disabled title="Coming as more sources are added">Exhibitions</button>
+        <button data-filter="film">Film</button>
+        <button data-filter="ideas">Ideas</button>
+      </div>
 
-      <div class="partner-grid">
-        <div class="partner-item">
-          <div class="partner-label">Partner</div>
-
-          <a class="partner-logo-link"
-             href="https://verdur.in/"
-             target="_blank"
-             rel="noopener"
-             aria-label="Verdurin">
-            <img class="partner-logo verdurin-logo"
-                 src="../../assets/verdurin.png"
-                 alt="Verdurin">
-          </a>
-        </div>
-
-        <div class="partner-item">
-          <div class="partner-label">Supported by</div>
-
-          <a class="partner-logo-link"
-             href="https://www.mercatus.org/emergent-ventures"
-             target="_blank"
-             rel="noopener"
-             aria-label="Emergent Ventures">
-            <img class="partner-logo ev-logo"
-                 src="../../assets/emergent-ventures.png"
-                 alt="Emergent Ventures">
-          </a>
-        </div>
+      <div class="views">
+        <button class="active" id="list-view">List</button>
+        <button id="map-view">Map</button>
       </div>
     </section>
 
-    <section class="sources">
-      <h2 class="section-title">Editorial &amp; discovery sources</h2>
+    <section>
+      <div class="section-heading">
+        <h2>Coming up</h2>
+        <span class="meta">London</span>
+      </div>
 
-      <article class="source-entry">
-        <div class="role">Discovery source</div>
+      <div id="map-container" hidden>
+        <div id="map"></div>
+      </div>
 
-        <div>
-          <h3>
-            <a href="https://www.continuoconnect.com/events"
-               target="_blank"
-               rel="noopener">
-              Continuo Connect
-            </a>
-          </h3>
+      <div id="events">
 
-          <p>
-            Used to discover London concert and early-music listings.
-            Events found through Continuo are screened separately by SIDONIE;
-            appearing on the source does not itself constitute a SIDONIE selection.
-          </p>
-        </div>
-      </article>
+        <article class="event" data-type="concert">
 
-      <article class="source-entry">
-        <div class="role">Main partner</div>
+          <div class="date">
+            Wed 16 Sep<br>
+            7.30pm
+          </div>
 
-        <div>
-          <h3>
-            <a href="https://petitpoi.net/notes-and-notices/"
-               target="_blank"
-               rel="noopener">
-              Petit Poi / Pierre d’Alancaisez
-            </a>
-          </h3>
+          <div>
 
-          <p>
-            Used to identify exhibitions for possible inclusion in the Guide.
-            Pierre d’Alancaisez’s rating remains his judgement rather than SIDONIE’s.
-          </p>
-        </div>
-      </article>
+            <h3><a href="https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026" target="_blank" rel="noopener" title="Open event page">CPE Bach, Haydn, Martínez and Mozart</a></h3>
 
-      <article class="source-entry">
-        <div class="role">Discovery source</div>
+            <div class="artist">
+              Dunedin Consort
+            </div>
 
-        <div>
-          <h3>
-            <a href="https://thebasecreates.co.uk/"
-               target="_blank"
-               rel="noopener">
-              The Base
-            </a>
-          </h3>
+            <div class="details">
+              Wigmore Hall<br>
+              Early Music at Wigmore Hall
+            </div>
 
-          <p>
-            A source for theatre, performance, training and permanent creative projects.
-            SIDONIE can draw both dated programming from The Base and continuing work such
-            as Project 39, its filmed Shakespeare project.
-          </p>
-        </div>
-      </article>
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
 
-      <article class="source-entry">
-        <div class="role">Discovery source</div>
+          </div>
 
-        <div>
-          <h3>
-            <a href="https://thecritic.co.uk/"
-               target="_blank"
-               rel="noopener">
-              The Critic
-            </a>
-          </h3>
+          <div class="price">
+            £18–£50
+          </div>
 
-          <p>
-            A source for criticism and recommendations across the arts, with particular
-            attention to regular cultural columnists and critics, including Robert Thicknesse
-            on opera.
-          </p>
-        </div>
-      </article>
+        </article>
 
-      <article class="source-entry">
-        <div class="role">Discovery source</div>
 
-        <div>
-          <h3>
-            <a href="https://engelsbergideas.com/reviews/"
-               target="_blank"
-               rel="noopener">
-              Engelsberg Ideas
-            </a>
-          </h3>
+        <article class="event" data-type="concert">
 
-          <p>
-            A source for substantial reviews of books, art, culture and ideas. Relevant
-            reviews can feed the Guide when they point towards exhibitions, performances,
-            books or other cultural work that SIDONIE wants to surface.
-          </p>
-        </div>
-      </article>
+          <div class="date">
+            Fri 18 Sep<br>
+            7.30pm
+          </div>
 
-      <article class="source-entry">
-        <div class="role">Discovery source</div>
+          <div>
 
-        <div>
-          <h3>
-            <a href="https://artreview.com/author/j-j-charlesworth/"
-               target="_blank"
-               rel="noopener">
-              J.J. Charlesworth / ArtReview
-            </a>
-          </h3>
+            <h3><a href="https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026" target="_blank" rel="noopener" title="Open event page">Monteverdi Vespers</a></h3>
 
-          <p>
-            A discovery source for contemporary art criticism, exhibitions and artists.
-            SIDONIE uses Charlesworth’s writing as a lead rather than reproducing the review
-            stream wholesale: only work that SIDONIE positively selects is surfaced in the Guide.
-          </p>
-        </div>
-      </article>
+            <div class="artist">
+              ECSE | I Fagiolini
+            </div>
 
+            <div class="details">
+              Kings Place<br>
+              Early Music at Kings Place
+            </div>
+
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
+
+          </div>
+
+          <div class="price">
+            £28–£70
+          </div>
+
+        </article>
+
+
+        <article class="event" data-type="concert">
+
+          <div class="date">
+            Sun 27 Sep<br>
+            2pm
+          </div>
+
+          <div>
+
+            <h3><a href="https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre" target="_blank" rel="noopener" title="Open event page">Goldberg Variations</a></h3>
+
+            <div class="artist">
+              Jean Rondeau
+            </div>
+
+            <div class="details">
+              Queen Elizabeth Hall · Southbank Centre
+            </div>
+
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
+
+          </div>
+
+          <div class="price">
+            From £24
+          </div>
+
+        </article>
+
+
+        <article class="event" data-type="opera">
+
+          <div class="date">
+            Tue 29 Sep<br>
+            7.30pm
+          </div>
+
+          <div>
+
+            <h3><a href="https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026" target="_blank" rel="noopener" title="Open event page">Purcell: Dido &amp; Aeneas</a></h3>
+
+            <div class="artist">
+              Early Opera Company
+            </div>
+
+            <div class="details">
+              Temple Church<br>
+              Temple Music Foundation
+            </div>
+
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
+
+          </div>
+
+          <div class="price">
+            £15–£55
+          </div>
+
+        </article>
+
+
+        <article class="event" data-type="concert">
+
+          <div class="date">
+            Thu 1 Oct<br>
+            7pm
+          </div>
+
+          <div>
+
+            <h3><a href="https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent" target="_blank" rel="noopener" title="Open event page">Fretwork 40th Anniversary</a></h3>
+
+            <div class="artist">
+              Fretwork
+            </div>
+
+            <div class="details">
+              Wigmore Hall
+            </div>
+
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
+
+          </div>
+
+          <div class="price">
+            £18–£50
+          </div>
+
+        </article>
+
+
+        <article class="event" data-type="concert">
+
+          <div class="date">
+            Thu 8 Oct<br>
+            7.30pm
+          </div>
+
+          <div>
+
+            <h3><a href="https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1" target="_blank" rel="noopener" title="Open event page">The Gesualdo Six Friends’ Concert</a></h3>
+
+            <div class="artist">
+              The Gesualdo Six
+            </div>
+
+            <div class="details">
+              St Peter’s, Eaton Square
+            </div>
+
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
+
+          </div>
+
+          <div class="price">
+            £25
+          </div>
+
+        </article>
+
+        <article class="event" data-type="ideas" data-source="verdurin">
+          <div class="date">Sat 3 Oct<br>2–6pm</div>
+          <div>
+            <h3><a href="https://verdur.in/event/the-instant-of-my-death/" target="_blank" rel="noopener" title="Open event page">The Instant of My Death</a></h3>
+            <div class="artist">Symposium</div>
+            <div class="details">Verdurin<br>2 Clunbury Street · London N1 6TT</div>
+            <span class="partner-badge">Core Partner · Verdurin</span><br>
+            <span class="source">Partner · <a href="https://verdur.in/event/the-instant-of-my-death/" target="_blank" rel="noopener">Verdurin</a> · <a href="sources/">About partner</a></span>
+          </div>
+          <div class="price">£12</div>
+        </article>
+
+
+        <article class="event" data-type="film" data-source="verdurin">
+          <div class="date">Mon 5 Oct<br>7pm</div>
+          <div>
+            <h3><a href="https://verdur.in/event/the-blue-express-nitrate-film/" target="_blank" rel="noopener" title="Open event page">Nitrate Film: The Blue Express</a></h3>
+            <div class="artist">with Zinovy Zinik</div>
+            <div class="details">Verdurin<br>2 Clunbury Street · London N1 6TT</div>
+            <span class="partner-badge">Core Partner · Verdurin</span><br>
+            <span class="source">Partner · <a href="https://verdur.in/event/the-blue-express-nitrate-film/" target="_blank" rel="noopener">Verdurin</a> · <a href="sources/">About partner</a></span>
+          </div>
+          <div class="price">£10</div>
+        </article>
+
+
+        <article class="event" data-type="ideas" data-source="verdurin">
+          <div class="date">Tue 13 Oct<br>7pm</div>
+          <div>
+            <h3><a href="https://verdur.in/event/trauma-fiction/" target="_blank" rel="noopener" title="Open event page">Trauma Fiction</a></h3>
+            <div class="artist">Edward McLaren · Joshua Knapp · Jaspreet Singh Boparai</div>
+            <div class="details">Verdurin<br>2 Clunbury Street · London N1 6TT</div>
+            <span class="partner-badge">Core Partner · Verdurin</span><br>
+            <span class="source">Partner · <a href="https://verdur.in/event/trauma-fiction/" target="_blank" rel="noopener">Verdurin</a> · <a href="sources/">About partner</a></span>
+          </div>
+          <div class="price">£10</div>
+        </article>
+
+
+        <article class="event" data-type="ideas" data-source="verdurin">
+          <div class="date">Wed 28 Oct<br>7pm</div>
+          <div>
+            <h3><a href="https://verdur.in/event/disenchantment/" target="_blank" rel="noopener" title="Open event page">Disenchantment</a></h3>
+            <div class="artist">Peter Rollins</div>
+            <div class="details">Verdurin<br>2 Clunbury Street · London N1 6TT</div>
+            <span class="partner-badge">Core Partner · Verdurin</span><br>
+            <span class="source">Partner · <a href="https://verdur.in/event/disenchantment/" target="_blank" rel="noopener">Verdurin</a> · <a href="sources/">About partner</a></span>
+          </div>
+          <div class="price">£10</div>
+        </article>
+
+
+        <article class="event" data-type="ideas" data-source="verdurin">
+          <div class="date">Sat 14 Nov<br>2–6pm</div>
+          <div>
+            <h3><a href="https://verdur.in/event/after-therapy/" target="_blank" rel="noopener" title="Open event page">After Therapy</a></h3>
+            <div class="artist">Symposium</div>
+            <div class="details">Verdurin<br>2 Clunbury Street · London N1 6TT</div>
+            <span class="partner-badge">Core Partner · Verdurin</span><br>
+            <span class="source">Partner · <a href="https://verdur.in/event/after-therapy/" target="_blank" rel="noopener">Verdurin</a> · <a href="sources/">About partner</a></span>
+          </div>
+          <div class="price">£12</div>
+        </article>
+
+      </div>
     </section>
 
+    
+    <section class="worth-knowing" id="worth-knowing">
+      <div class="worth-heading">
+        <h2>Worth knowing</h2>
+        <span class="meta">Ongoing</span>
+      </div>
+
+      <p class="worth-intro">
+        Performances, books, recordings and projects worth returning to beyond a single date in the calendar.
+      </p>
+
+      <div class="ongoing-list">
+<article class="ongoing-card" data-type="theatre">
+        <div class="ongoing-label">Ongoing<br>Performance</div>
+
+        <div>
+          <h3>
+            <a href="https://thebasecreates.co.uk/project-39/"
+               target="_blank"
+               rel="noopener">
+              Project 39
+            </a>
+          </h3>
+
+          <div class="artist">The Base</div>
+
+          <p>
+            An ongoing dramatic project centred on Shakespeare’s 39 plays:
+            a continuing body of filmed performance rather than a one-night event.
+          </p>
+
+          <span class="ongoing-source">
+            Discovery source ·
+            <a href="https://thebasecreates.co.uk/"
+               target="_blank"
+               rel="noopener">The Base</a>
+            · <a href="sources/">About source</a>
+          </span>
+        </div>
+
+        <a class="ongoing-action"
+           href="https://thebasecreates.co.uk/project-39/"
+           target="_blank"
+           rel="noopener">
+          Explore project
+        </a>
+      </article>
+
+      <article class="ongoing-card" data-type="opera">
+        <div class="ongoing-label">Worth<br>hearing</div>
+        <div>
+          <h3><a href="https://thecritic.co.uk/issues/july-2026/wilde-times-at-the-country-house/" target="_blank" rel="noopener">The Importance of Being Earnest</a></h3>
+          <div class="artist">Gerald Barry</div>
+          <p>
+            Robert Thicknesse’s review singles out Barry’s operatic treatment of Wilde as a work worth knowing beyond the life of a single production.
+          </p>
+          <span class="ongoing-source">Discovery source · <a href="https://thecritic.co.uk/issues/july-2026/wilde-times-at-the-country-house/" target="_blank" rel="noopener">The Critic · Robert Thicknesse</a> · <a href="sources/">About source</a></span>
+        </div>
+        <a class="ongoing-action" href="https://thecritic.co.uk/issues/july-2026/wilde-times-at-the-country-house/" target="_blank" rel="noopener">Read review</a>
+      </article>
+
+      <article class="ongoing-card" data-type="books">
+        <div class="ongoing-label">Worth<br>reading</div>
+        <div>
+          <h3><a href="https://engelsbergideas.com/reviews/russia-1917-18-what-rhoda-power-saw/" target="_blank" rel="noopener">In the Storm</a></h3>
+          <div class="artist">Rhoda Power</div>
+          <p>
+            A firsthand account of revolutionary Russia, newly returned to print; Jeremy Jennings calls it a remarkable eyewitness record deserving a new generation of readers.
+          </p>
+          <span class="ongoing-source">Discovery source · <a href="https://engelsbergideas.com/reviews/russia-1917-18-what-rhoda-power-saw/" target="_blank" rel="noopener">Engelsberg Ideas</a> · <a href="sources/">About source</a></span>
+        </div>
+        <a class="ongoing-action" href="https://engelsbergideas.com/reviews/russia-1917-18-what-rhoda-power-saw/" target="_blank" rel="noopener">Read review</a>
+      </article>
+
+      </div>
+    </section>
+
+<section class="source-strip">
+      <h3>Where these listings come from</h3>
+      <p>Concert listings are discovered via <a href="https://www.continuoconnect.com/events" target="_blank" rel="noopener">Continuo Connect</a>; Verdurin events are shown as programming from a <a href="https://verdur.in/" target="_blank" rel="noopener">core partner</a>. Source or partner status is separate from SIDONIE’s own editorial selection. <a href="sources/">See all sources &amp; partners →</a></p>
+    </section>
+
+    <section class="acknowledgements" aria-label="Partners and supporters">
+      <h2 class="ack-title">Partners &amp; supporters</h2>
+      <div class="ack-grid">
+        <div class="ack-item">
+          <div class="ack-label">Partner</div>
+          <a class="ack-logo-link" href="https://verdur.in/" target="_blank" rel="noopener"><img class="ack-logo ack-logo--verdurin" src="../assets/verdurin.png" alt="Verdurin"></a>
+        </div>
+        <div class="ack-item">
+          <div class="ack-label">Supported by</div>
+          <a class="ack-logo-link" href="https://www.mercatus.org/emergent-ventures" target="_blank" rel="noopener"><img class="ack-logo ack-logo--ev" src="../assets/emergent-ventures.png" alt="Emergent Ventures"></a>
+        </div>
+      </div>
+    </section>
     <footer>
       <span>SIDONIE</span>
-      <span>Sources · partners · supporters</span>
+      <span>London · Research prototype</span>
     </footer>
-
   </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+const data=[{"type": "concert", "title": "CPE Bach, Haydn, Martínez and Mozart", "artist": "Dunedin Consort", "date": "Wed 16 Sep", "time": "7.30pm", "venue": "Wigmore Hall", "context": "Early Music at Wigmore Hall", "price": "£18–£50", "url": "https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026", "lat": 51.5166, "lng": -0.14822, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026", "partner": false}, {"type": "concert", "title": "Monteverdi Vespers", "artist": "ECSE | I Fagiolini", "date": "Fri 18 Sep", "time": "7.30pm", "venue": "Kings Place", "context": "Early Music at Kings Place", "price": "£28–£70", "url": "https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026", "lat": 51.53497, "lng": -0.12167, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026", "partner": false}, {"type": "concert", "title": "Goldberg Variations", "artist": "Jean Rondeau", "date": "Sun 27 Sep", "time": "2pm", "venue": "Queen Elizabeth Hall", "context": "Southbank Centre", "price": "From £24", "url": "https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre", "lat": 51.50663, "lng": -0.11638, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre", "partner": false}, {"type": "opera", "title": "Purcell: Dido & Aeneas", "artist": "Early Opera Company", "date": "Tue 29 Sep", "time": "7.30pm", "venue": "Temple Church", "context": "Temple Music Foundation", "price": "£15–£55", "url": "https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026", "lat": 51.51336, "lng": -0.11075, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026", "partner": false}, {"type": "concert", "title": "Fretwork 40th Anniversary", "artist": "Fretwork", "date": "Thu 1 Oct", "time": "7pm", "venue": "Wigmore Hall", "context": "Early Music at Wigmore Hall", "price": "£18–£50", "url": "https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent", "lat": 51.5166, "lng": -0.14822, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent", "partner": false}, {"type": "concert", "title": "The Gesualdo Six Friends’ Concert", "artist": "The Gesualdo Six", "date": "Thu 8 Oct", "time": "7.30pm", "venue": "St Peter’s, Eaton Square", "context": "", "price": "£25", "url": "https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1", "lat": 51.49793, "lng": -0.14908, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1", "partner": false}, {"type": "ideas", "title": "The Instant of My Death", "artist": "Symposium", "date": "Sat 3 Oct", "time": "2–6pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£12", "url": "https://verdur.in/event/the-instant-of-my-death/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "film", "title": "Nitrate Film: The Blue Express", "artist": "with Zinovy Zinik", "date": "Mon 5 Oct", "time": "7pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£10", "url": "https://verdur.in/event/the-blue-express-nitrate-film/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "ideas", "title": "Trauma Fiction", "artist": "Edward McLaren · Joshua Knapp · Jaspreet Singh Boparai", "date": "Tue 13 Oct", "time": "7pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£10", "url": "https://verdur.in/event/trauma-fiction/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "ideas", "title": "Disenchantment", "artist": "Peter Rollins", "date": "Wed 28 Oct", "time": "7pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£10", "url": "https://verdur.in/event/disenchantment/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "ideas", "title": "After Therapy", "artist": "Symposium", "date": "Sat 14 Nov", "time": "2–6pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£12", "url": "https://verdur.in/event/after-therapy/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}];
+const filterButtons=[...document.querySelectorAll("[data-filter]")], eventEls=[...document.querySelectorAll(".event")];
+const listButton=document.getElementById("list-view"), mapButton=document.getElementById("map-view"), eventsList=document.getElementById("events"), mapContainer=document.getElementById("map-container");
+let activeFilter="all";
+const map=L.map("map",{zoomControl:true,scrollWheelZoom:false}).setView([51.515,-0.135],13);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
+const icon=L.divIcon({className:"sidonie-marker",html:"<span></span>",iconSize:[20,20],iconAnchor:[10,10],popupAnchor:[0,-10]});
+const groups={}; data.forEach(e=>{const k=e.venue+"|"+e.lat+"|"+e.lng;(groups[k]??={venue:e.venue,lat:e.lat,lng:e.lng,events:[]}).events.push(e)});
+const records=Object.values(groups).map(g=>{
+  const body=g.events.map(e=>{
+    const partner=e.partner?`<div class="popup-partner">Core Partner · Verdurin</div>`:"";
+    const source=e.source||"Continuo Connect";
+    const sourceUrl=e.source_url||e.url;
+    return `<div class="popup-event">
+      <div class="popup-title"><a href="${e.url}" target="_blank" rel="noopener">${e.title}</a></div>
+      <div class="popup-artist">${e.artist}</div>
+      ${partner}
+      <div class="popup-meta">${e.date} · ${e.time}<br>${e.context||e.venue}<br><span class="popup-price">${e.price}</span></div>
+      <div class="popup-source">${e.partner?"Partner":"Source"} · <a href="${sourceUrl}" target="_blank" rel="noopener">${source}</a> · <a href="sources/">About ${e.partner?"partner":"source"}</a></div>
+    </div>`;
+  }).join("");
+  return {group:g,marker:L.marker([g.lat,g.lng],{icon}).bindPopup(`<div class="popup-venue">${g.venue}</div>${body}`)};
+});
+function visible(e){return activeFilter==="all"||e.type===activeFilter}
+function updateMarkers(){records.forEach(r=>{const show=r.group.events.some(visible);if(show&&!map.hasLayer(r.marker))r.marker.addTo(map);if(!show&&map.hasLayer(r.marker))map.removeLayer(r.marker)})}
+function applyFilter(f){activeFilter=f;filterButtons.forEach(b=>b.classList.toggle("active",b.dataset.filter===f));eventEls.forEach(el=>el.style.display=f==="all"||el.dataset.type===f?"grid":"none");updateMarkers()}
+filterButtons.forEach(b=>b.addEventListener("click",()=>applyFilter(b.dataset.filter)));
+listButton.addEventListener("click",()=>{eventsList.hidden=false;mapContainer.hidden=true;listButton.classList.add("active");mapButton.classList.remove("active")});
+mapButton.addEventListener("click",()=>{eventsList.hidden=true;mapContainer.hidden=false;mapButton.classList.add("active");listButton.classList.remove("active");updateMarkers();requestAnimationFrame(()=>{map.invalidateSize();const ms=records.filter(r=>r.group.events.some(visible)).map(r=>r.marker);if(ms.length)map.fitBounds(L.featureGroup(ms).getBounds().pad(.18),{maxZoom:14})})});
+updateMarkers();
+</script>
 </body>
 </html>
