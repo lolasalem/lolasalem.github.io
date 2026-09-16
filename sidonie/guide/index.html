@@ -1,17 +1,12 @@
 <!doctype html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>The Guide — SIDONIE</title>
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  integrity="sha256-p4NxAoJBhIINfQ3ynHTC9MZq7x7K1Z2cYqGxQ+R2r1oM="
-  crossorigin=""
->
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
   <style>
     :root {
       --paper: #f2efea;
@@ -23,9 +18,7 @@
       --line: rgba(23, 23, 23, .20);
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
@@ -75,8 +68,7 @@
       border-bottom: 1px solid var(--line);
     }
 
-    .kicker,
-    .meta {
+    .kicker, .meta {
       font-size: 10px;
       line-height: 1.4;
       letter-spacing: .14em;
@@ -84,9 +76,7 @@
       font-weight: 500;
     }
 
-    h1,
-    h2,
-    h3 {
+    h1, h2, h3 {
       font-family: Baskerville, "Times New Roman", serif;
       font-weight: 500;
     }
@@ -113,8 +103,7 @@
       border-bottom: 1px solid var(--line);
     }
 
-    .filters,
-    .views {
+    .filters, .views {
       display: flex;
       gap: 8px;
       flex-wrap: wrap;
@@ -154,9 +143,8 @@
       font-size: 35px;
     }
 
-    #events[hidden],
-    #map-container[hidden] {
-      display: none;
+    #events[hidden], #map-container[hidden] {
+      display: none !important;
     }
 
     .event {
@@ -212,89 +200,56 @@
       text-transform: uppercase;
     }
 
-    /* Map */
-
     #map-container {
       margin-top: 28px;
     }
 
     #map {
-      position: relative;
       width: 100%;
       height: 620px;
       min-height: 500px;
-      overflow: hidden;
       border: 1px solid var(--line);
-      background:
-        linear-gradient(rgba(242,239,234,.93), rgba(242,239,234,.93)),
-        var(--blue);
+      background: var(--blue);
     }
 
-    /* SIDONIE map markers */
-
-.sidonie-marker {
-  background: transparent;
-  border: 0;
-}
-
-.sidonie-marker span {
-  display: block;
-  width: 18px;
-  height: 18px;
-  background: var(--gold);
-  border: 2px solid var(--carbon);
-  border-radius: 50%;
-  box-shadow: 0 0 0 4px rgba(208, 183, 118, .22);
-}
-
-.leaflet-popup-content-wrapper {
-  border-radius: 0;
-  background: var(--paper);
-  color: var(--carbon);
-  box-shadow: none;
-  border: 1px solid var(--line);
-}
-
-.leaflet-popup-tip {
-  background: var(--paper);
-}
-
-.sidonie-popup strong {
-  font-family: Baskerville, "Times New Roman", serif;
-  font-size: 19px;
-  font-weight: 500;
-}
-
-.sidonie-popup ul {
-  margin: 9px 0 0;
-  padding-left: 16px;
-  font-size: 12px;
-  line-height: 1.5;
-}
-    
-    .map-note {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: min(420px, 80%);
-      transform: translate(-50%, -50%);
-      text-align: center;
+    .sidonie-marker {
+      background: transparent;
+      border: 0;
     }
 
-    .map-note strong {
+    .sidonie-marker span {
       display: block;
-      margin-bottom: 10px;
+      width: 18px;
+      height: 18px;
+      background: var(--gold);
+      border: 2px solid var(--carbon);
+      border-radius: 50%;
+      box-shadow: 0 0 0 4px rgba(208, 183, 118, .22);
+    }
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 0;
+      background: var(--paper);
+      color: var(--carbon);
+      box-shadow: none;
+      border: 1px solid var(--line);
+    }
+
+    .leaflet-popup-tip {
+      background: var(--paper);
+    }
+
+    .sidonie-popup strong {
       font-family: Baskerville, "Times New Roman", serif;
-      font-size: 35px;
+      font-size: 19px;
       font-weight: 500;
     }
 
-    .map-note span {
-      color: var(--muted);
-      font-size: 11px;
-      line-height: 1.6;
-      letter-spacing: .08em;
-      text-transform: uppercase;
+    .sidonie-popup ul {
+      margin: 9px 0 0;
+      padding-left: 16px;
+      font-size: 12px;
+      line-height: 1.5;
     }
 
     footer {
@@ -309,163 +264,66 @@
     }
 
     @media (max-width: 700px) {
-
-      .shell {
-        padding: 18px;
-      }
-
-      header {
-        align-items: flex-start;
-        gap: 20px;
-      }
-
-      nav {
-        gap: 14px;
-        font-size: 9px;
-      }
-
-      .hero {
-        padding: 55px 0 35px;
-      }
-
-      h1 {
-        font-size: clamp(52px, 18vw, 78px);
-      }
-
+      .shell { padding: 18px; }
+      header { align-items: flex-start; gap: 20px; }
+      nav { gap: 14px; font-size: 9px; }
+      .hero { padding: 55px 0 35px; }
+      h1 { font-size: clamp(52px, 18vw, 78px); }
       .event {
         grid-template-columns: 72px minmax(0, 1fr);
         gap: 14px;
       }
-
-      .price {
-        grid-column: 2;
-        justify-self: start;
-      }
-
-      #map {
-        height: 68vh;
-        min-height: 440px;
-      }
-
-      footer {
-        flex-direction: column;
-        gap: 8px;
-      }
+      .price { grid-column: 2; justify-self: start; }
+      #map { height: 68vh; min-height: 440px; }
+      footer { flex-direction: column; gap: 8px; }
     }
   </style>
 </head>
 
 <body>
-
   <div class="shell">
-
     <header>
-
-      <a class="wordmark" href="../">
-        SIDONIE
-      </a>
-
+      <a class="wordmark" href="../">SIDONIE</a>
       <nav>
         <a href="./">Guide</a>
         <a href="../#culture-at-work">Culture at Work</a>
       </nav>
-
     </header>
 
-
     <section class="hero">
-
-      <div class="kicker">
-        The SIDONIE Guide · London
-      </div>
-
-      <h1>
-        See better things.
-      </h1>
-
+      <div class="kicker">The SIDONIE Guide · London</div>
+      <h1>See better things.</h1>
       <p class="intro">
         Exhibitions, concerts, plays, films, operas, and ideas,
         selected by SIDONIE.
       </p>
-
     </section>
-
 
     <section class="toolbar">
-
       <div class="filters">
-
-        <button class="active" data-filter="all">
-          All
-        </button>
-
-        <button data-filter="concert">
-          Concerts
-        </button>
-
-        <button data-filter="opera">
-          Opera
-        </button>
-
-        <button disabled title="Coming as more sources are added">
-          Exhibitions
-        </button>
-
-        <button disabled title="Coming as more sources are added">
-          Film
-        </button>
-
-        <button disabled title="Coming as more sources are added">
-          Ideas
-        </button>
-
+        <button class="active" data-filter="all">All</button>
+        <button data-filter="concert">Concerts</button>
+        <button data-filter="opera">Opera</button>
+        <button disabled title="Coming as more sources are added">Exhibitions</button>
+        <button disabled title="Coming as more sources are added">Film</button>
+        <button disabled title="Coming as more sources are added">Ideas</button>
       </div>
-
 
       <div class="views">
-
-        <button class="active" id="list-view">
-          List
-        </button>
-
-        <button id="map-view">
-          Map
-        </button>
-
+        <button class="active" id="list-view">List</button>
+        <button id="map-view">Map</button>
       </div>
-
     </section>
 
-
     <section>
-
       <div class="section-heading">
-
-        <h2>
-          Coming up
-        </h2>
-
-        <span class="meta">
-          London
-        </span>
-
+        <h2>Coming up</h2>
+        <span class="meta">London</span>
       </div>
-
 
       <div id="map-container" hidden>
-
-        <div id="map">
-          <div class="map-note">
-            <strong>London</strong>
-            <span>
-              Map view is being prepared.<br>
-              The selected events will appear here by venue.
-            </span>
-          </div>
-        </div>
-
+        <div id="map"></div>
       </div>
-
 
       <div id="events">
 
@@ -676,179 +534,156 @@
         </article>
 
       </div>
-
     </section>
 
-
     <footer>
-
-      <span>
-        SIDONIE
-      </span>
-
-      <span>
-        London · Research prototype
-      </span>
-
+      <span>SIDONIE</span>
+      <span>London · Research prototype</span>
     </footer>
-
   </div>
 
-</div>
-
-<script
-  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-  crossorigin="">
-</script>
-
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
-    const filterButtons = document.querySelectorAll("[data-filter]");
-    const events = document.querySelectorAll(".event");
-
+    const filterButtons = [...document.querySelectorAll("[data-filter]")];
+    const eventElements = [...document.querySelectorAll(".event")];
     const listButton = document.getElementById("list-view");
     const mapButton = document.getElementById("map-view");
-
     const eventsList = document.getElementById("events");
     const mapContainer = document.getElementById("map-container");
-/* LONDON MAP */
 
-const map = L.map("map", {
-  zoomControl: true,
-  scrollWheelZoom: false
-}).setView([51.515, -0.14], 12);
+    let activeFilter = "all";
 
-L.tileLayer(
-  "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-  {
-    maxZoom: 19,
-    attribution: "&copy; OpenStreetMap contributors"
-  }
-).addTo(map);
+    const venues = [
+      {
+        name: "Wigmore Hall",
+        lat: 51.5166,
+        lng: -0.14822,
+        types: ["concert"],
+        events: [
+          "CPE Bach, Haydn, Martínez and Mozart",
+          "Fretwork 40th Anniversary"
+        ]
+      },
+      {
+        name: "Kings Place",
+        lat: 51.53497,
+        lng: -0.12167,
+        types: ["concert"],
+        events: ["Monteverdi Vespers"]
+      },
+      {
+        name: "Queen Elizabeth Hall",
+        lat: 51.50663,
+        lng: -0.11638,
+        types: ["concert"],
+        events: ["Goldberg Variations"]
+      },
+      {
+        name: "Temple Church",
+        lat: 51.51336,
+        lng: -0.11075,
+        types: ["opera"],
+        events: ["Purcell: Dido & Aeneas"]
+      },
+      {
+        name: "St Peter’s, Eaton Square",
+        lat: 51.49793,
+        lng: -0.14908,
+        types: ["concert"],
+        events: ["The Gesualdo Six Friends’ Concert"]
+      }
+    ];
 
+    const map = L.map("map", {
+      zoomControl: true,
+      scrollWheelZoom: false
+    }).setView([51.515, -0.135], 13);
 
-/* SIDONIE VENUES */
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: "&copy; OpenStreetMap contributors"
+    }).addTo(map);
 
-const venues = [
-  {
-    name: "Wigmore Hall",
-    lat: 51.5166,
-    lng: -0.14822,
-    events: [
-      "CPE Bach, Haydn, Martínez and Mozart",
-      "Fretwork 40th Anniversary"
-    ]
-  },
-  {
-    name: "Kings Place",
-    lat: 51.53497,
-    lng: -0.12167,
-    events: [
-      "Monteverdi Vespers"
-    ]
-  },
-  {
-    name: "Queen Elizabeth Hall",
-    lat: 51.50663,
-    lng: -0.11638,
-    events: [
-      "Goldberg Variations"
-    ]
-  },
-  {
-    name: "St Peter’s, Eaton Square",
-    lat: 51.49793,
-    lng: -0.14908,
-    events: [
-      "The Gesualdo Six Friends’ Concert"
-    ]
-  }
-];
+    const sidonieMarker = L.divIcon({
+      className: "sidonie-marker",
+      html: "<span></span>",
+      iconSize: [20, 20],
+      iconAnchor: [10, 10],
+      popupAnchor: [0, -10]
+    });
 
+    const markerRecords = venues.map(venue => {
+      const eventList = venue.events.map(title => `<li>${title}</li>`).join("");
+      const marker = L.marker([venue.lat, venue.lng], { icon: sidonieMarker })
+        .bindPopup(`
+          <div class="sidonie-popup">
+            <strong>${venue.name}</strong>
+            <ul>${eventList}</ul>
+          </div>
+        `);
 
-/* SIDONIE MARKERS */
+      return { venue, marker };
+    });
 
-const sidonieMarker = L.divIcon({
-  className: "sidonie-marker",
-  html: "<span></span>",
-  iconSize: [20, 20],
-  iconAnchor: [10, 10]
-});
+    function updateMarkers() {
+      markerRecords.forEach(({ venue, marker }) => {
+        const visible = activeFilter === "all" || venue.types.includes(activeFilter);
+        if (visible) {
+          if (!map.hasLayer(marker)) marker.addTo(map);
+        } else {
+          if (map.hasLayer(marker)) map.removeLayer(marker);
+        }
+      });
+    }
 
+    function applyFilter(filter) {
+      activeFilter = filter;
 
-venues.forEach(venue => {
-
-  const eventList =
-    venue.events
-      .map(event => `<li>${event}</li>`)
-      .join("");
-
-  L.marker(
-    [venue.lat, venue.lng],
-    { icon: sidonieMarker }
-  )
-  .addTo(map)
-  .bindPopup(`
-    <div class="sidonie-popup">
-      <strong>${venue.name}</strong>
-      <ul>${eventList}</ul>
-    </div>
-  `);
-
-});
-
-    /* FILTERS */
-
-    filterButtons.forEach(button => {
-
-      button.addEventListener("click", () => {
-
-        filterButtons.forEach(otherButton => {
-          otherButton.classList.remove("active");
-        });
-
-        button.classList.add("active");
-
-        const filter = button.dataset.filter;
-
-        events.forEach(event => {
-
-          const shouldShow =
-            filter === "all" ||
-            event.dataset.type === filter;
-
-          event.style.display = shouldShow ? "grid" : "none";
-
-        });
-
+      filterButtons.forEach(button => {
+        button.classList.toggle("active", button.dataset.filter === filter);
       });
 
+      eventElements.forEach(event => {
+        event.style.display =
+          filter === "all" || event.dataset.type === filter ? "grid" : "none";
+      });
+
+      updateMarkers();
+    }
+
+    filterButtons.forEach(button => {
+      button.addEventListener("click", () => applyFilter(button.dataset.filter));
     });
-
-
-    /* LIST / MAP */
 
     listButton.addEventListener("click", () => {
-
       eventsList.hidden = false;
       mapContainer.hidden = true;
-
       listButton.classList.add("active");
       mapButton.classList.remove("active");
-
     });
 
-
     mapButton.addEventListener("click", () => {
-
       eventsList.hidden = true;
       mapContainer.hidden = false;
-
       mapButton.classList.add("active");
       listButton.classList.remove("active");
 
-    });
-  </script>
+      updateMarkers();
 
+      requestAnimationFrame(() => {
+        map.invalidateSize();
+        const visibleMarkers = markerRecords
+          .filter(({ venue }) => activeFilter === "all" || venue.types.includes(activeFilter))
+          .map(({ marker }) => marker);
+
+        if (visibleMarkers.length) {
+          const group = L.featureGroup(visibleMarkers);
+          map.fitBounds(group.getBounds().pad(0.18), { maxZoom: 14 });
+        }
+      });
+    });
+
+    updateMarkers();
+  </script>
 </body>
 </html>
