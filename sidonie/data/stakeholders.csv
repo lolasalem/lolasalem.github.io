@@ -1,0 +1,4 @@
+stakeholder_id,name,stakeholder_type,relationship_to_sidonie,website_url,active,notes
+st-verdurin,Verdurin,cultural_organisation,core_partner,https://verdur.in/,TRUE,Core partner
+st-continuo,Continuo Connect,event_platform,discovery_source,https://www.continuoconnect.com/events,TRUE,London concert discovery source
+st-petitpoi,Petit Poi / Pierre d'Alancaisez,critic,trusted_criticism_source,https://petitpoi.net/notes-and-notices/,TRUE,Exhibition source with minimum 4/5 screening rule
