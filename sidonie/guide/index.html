@@ -565,6 +565,7 @@ nav a:visited {
         <button disabled title="Coming as more sources are added">Exhibitions</button>
         <button data-filter="film">Film</button>
         <button data-filter="ideas">Ideas</button>
+        <button data-filter="books">Books</button>
       </div>
 
       <div class="views">
@@ -585,7 +586,7 @@ nav a:visited {
 
       <div id="events">
 
-        <article class="event" data-type="concert">
+        <article class="event filterable" data-type="concert">
 
           <div class="date">
             Wed 16 Sep<br>
@@ -616,7 +617,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="concert">
+        <article class="event filterable" data-type="concert">
 
           <div class="date">
             Fri 18 Sep<br>
@@ -647,7 +648,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="concert">
+        <article class="event filterable" data-type="concert">
 
           <div class="date">
             Sun 27 Sep<br>
@@ -677,7 +678,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="opera">
+        <article class="event filterable" data-type="opera">
 
           <div class="date">
             Tue 29 Sep<br>
@@ -708,7 +709,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="concert">
+        <article class="event filterable" data-type="concert">
 
           <div class="date">
             Thu 1 Oct<br>
@@ -738,7 +739,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="concert">
+        <article class="event filterable" data-type="concert">
 
           <div class="date">
             Thu 8 Oct<br>
@@ -767,7 +768,7 @@ nav a:visited {
 
         </article>
 
-        <article class="event" data-type="ideas" data-source="verdurin">
+        <article class="event filterable" data-type="ideas" data-source="verdurin">
           <div class="date">Sat 3 Oct<br>2–6pm</div>
           <div>
             <h3><a href="https://verdur.in/event/the-instant-of-my-death/" target="_blank" rel="noopener" title="Open event page">The Instant of My Death</a></h3>
@@ -780,7 +781,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="film" data-source="verdurin">
+        <article class="event filterable" data-type="film" data-source="verdurin">
           <div class="date">Mon 5 Oct<br>7pm</div>
           <div>
             <h3><a href="https://verdur.in/event/the-blue-express-nitrate-film/" target="_blank" rel="noopener" title="Open event page">Nitrate Film: The Blue Express</a></h3>
@@ -793,7 +794,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="ideas" data-source="verdurin">
+        <article class="event filterable" data-type="ideas" data-source="verdurin">
           <div class="date">Tue 13 Oct<br>7pm</div>
           <div>
             <h3><a href="https://verdur.in/event/trauma-fiction/" target="_blank" rel="noopener" title="Open event page">Trauma Fiction</a></h3>
@@ -806,7 +807,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="ideas" data-source="verdurin">
+        <article class="event filterable" data-type="ideas" data-source="verdurin">
           <div class="date">Wed 28 Oct<br>7pm</div>
           <div>
             <h3><a href="https://verdur.in/event/disenchantment/" target="_blank" rel="noopener" title="Open event page">Disenchantment</a></h3>
@@ -819,7 +820,7 @@ nav a:visited {
         </article>
 
 
-        <article class="event" data-type="ideas" data-source="verdurin">
+        <article class="event filterable" data-type="ideas" data-source="verdurin">
           <div class="date">Sat 14 Nov<br>2–6pm</div>
           <div>
             <h3><a href="https://verdur.in/event/after-therapy/" target="_blank" rel="noopener" title="Open event page">After Therapy</a></h3>
@@ -846,7 +847,7 @@ nav a:visited {
       </p>
 
       <div class="ongoing-list">
-<article class="ongoing-card" data-type="theatre">
+<article class="ongoing-card filterable" data-type="theatre">
         <div class="ongoing-label">Ongoing<br>Performance</div>
 
         <div>
@@ -882,7 +883,7 @@ nav a:visited {
         </a>
       </article>
 
-      <article class="ongoing-card" data-type="opera">
+      <article class="ongoing-card filterable" data-type="opera">
         <div class="ongoing-label">Worth<br>hearing</div>
         <div>
           <h3><a href="https://thecritic.co.uk/issues/july-2026/wilde-times-at-the-country-house/" target="_blank" rel="noopener">The Importance of Being Earnest</a></h3>
@@ -895,7 +896,7 @@ nav a:visited {
         <a class="ongoing-action" href="https://thecritic.co.uk/issues/july-2026/wilde-times-at-the-country-house/" target="_blank" rel="noopener">Read review</a>
       </article>
 
-      <article class="ongoing-card" data-type="books">
+      <article class="ongoing-card filterable" data-type="books">
         <div class="ongoing-label">Worth<br>reading</div>
         <div>
           <h3><a href="https://engelsbergideas.com/reviews/russia-1917-18-what-rhoda-power-saw/" target="_blank" rel="noopener">In the Storm</a></h3>
@@ -938,7 +939,7 @@ nav a:visited {
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
 const data=[{"type": "concert", "title": "CPE Bach, Haydn, Martínez and Mozart", "artist": "Dunedin Consort", "date": "Wed 16 Sep", "time": "7.30pm", "venue": "Wigmore Hall", "context": "Early Music at Wigmore Hall", "price": "£18–£50", "url": "https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026", "lat": 51.5166, "lng": -0.14822, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026", "partner": false}, {"type": "concert", "title": "Monteverdi Vespers", "artist": "ECSE | I Fagiolini", "date": "Fri 18 Sep", "time": "7.30pm", "venue": "Kings Place", "context": "Early Music at Kings Place", "price": "£28–£70", "url": "https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026", "lat": 51.53497, "lng": -0.12167, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026", "partner": false}, {"type": "concert", "title": "Goldberg Variations", "artist": "Jean Rondeau", "date": "Sun 27 Sep", "time": "2pm", "venue": "Queen Elizabeth Hall", "context": "Southbank Centre", "price": "From £24", "url": "https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre", "lat": 51.50663, "lng": -0.11638, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre", "partner": false}, {"type": "opera", "title": "Purcell: Dido & Aeneas", "artist": "Early Opera Company", "date": "Tue 29 Sep", "time": "7.30pm", "venue": "Temple Church", "context": "Temple Music Foundation", "price": "£15–£55", "url": "https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026", "lat": 51.51336, "lng": -0.11075, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026", "partner": false}, {"type": "concert", "title": "Fretwork 40th Anniversary", "artist": "Fretwork", "date": "Thu 1 Oct", "time": "7pm", "venue": "Wigmore Hall", "context": "Early Music at Wigmore Hall", "price": "£18–£50", "url": "https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent", "lat": 51.5166, "lng": -0.14822, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent", "partner": false}, {"type": "concert", "title": "The Gesualdo Six Friends’ Concert", "artist": "The Gesualdo Six", "date": "Thu 8 Oct", "time": "7.30pm", "venue": "St Peter’s, Eaton Square", "context": "", "price": "£25", "url": "https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1", "lat": 51.49793, "lng": -0.14908, "source": "Continuo Connect", "source_url": "https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1", "partner": false}, {"type": "ideas", "title": "The Instant of My Death", "artist": "Symposium", "date": "Sat 3 Oct", "time": "2–6pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£12", "url": "https://verdur.in/event/the-instant-of-my-death/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "film", "title": "Nitrate Film: The Blue Express", "artist": "with Zinovy Zinik", "date": "Mon 5 Oct", "time": "7pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£10", "url": "https://verdur.in/event/the-blue-express-nitrate-film/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "ideas", "title": "Trauma Fiction", "artist": "Edward McLaren · Joshua Knapp · Jaspreet Singh Boparai", "date": "Tue 13 Oct", "time": "7pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£10", "url": "https://verdur.in/event/trauma-fiction/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "ideas", "title": "Disenchantment", "artist": "Peter Rollins", "date": "Wed 28 Oct", "time": "7pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£10", "url": "https://verdur.in/event/disenchantment/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}, {"type": "ideas", "title": "After Therapy", "artist": "Symposium", "date": "Sat 14 Nov", "time": "2–6pm", "venue": "Verdurin", "context": "2 Clunbury Street · London N1 6TT", "price": "£12", "url": "https://verdur.in/event/after-therapy/", "lat": 51.53202, "lng": -0.08533, "source": "Verdurin", "partner": true}];
-const filterButtons=[...document.querySelectorAll("[data-filter]")], eventEls=[...document.querySelectorAll(".event")];
+const filterButtons=[...document.querySelectorAll("[data-filter]")], eventEls=[...document.querySelectorAll(".filterable")];
 const listButton=document.getElementById("list-view"), mapButton=document.getElementById("map-view"), eventsList=document.getElementById("events"), mapContainer=document.getElementById("map-container");
 let activeFilter="all";
 const map=L.map("map",{zoomControl:true,scrollWheelZoom:false}).setView([51.515,-0.135],13);
@@ -962,11 +963,20 @@ const records=Object.values(groups).map(g=>{
 });
 function visible(e){return activeFilter==="all"||e.type===activeFilter}
 function updateMarkers(){records.forEach(r=>{const show=r.group.events.some(visible);if(show&&!map.hasLayer(r.marker))r.marker.addTo(map);if(!show&&map.hasLayer(r.marker))map.removeLayer(r.marker)})}
-function applyFilter(f){activeFilter=f;filterButtons.forEach(b=>b.classList.toggle("active",b.dataset.filter===f));eventEls.forEach(el=>el.style.display=f==="all"||el.dataset.type===f?"grid":"none");updateMarkers()}
+function applyFilter(f){activeFilter=f;filterButtons.forEach(b=>b.classList.toggle("active",b.dataset.filter===f));eventEls.forEach(el=>{const show=f==="all"||el.dataset.type===f;el.style.display=show?"grid":"none"});updateMarkers();updateSections()}
+function updateSections(){
+  const datedVisible=[...document.querySelectorAll("#events .event")].some(el=>el.style.display!=="none");
+  const ongoingVisible=[...document.querySelectorAll(".ongoing-card")].some(el=>el.style.display!=="none");
+  const worth=document.querySelector(".worth-knowing");
+  if(worth) worth.style.display=ongoingVisible?"block":"none";
+  const comingHeading=document.querySelector(".section-heading");
+  if(comingHeading) comingHeading.style.display=datedVisible?"flex":"none";
+}
 filterButtons.forEach(b=>b.addEventListener("click",()=>applyFilter(b.dataset.filter)));
 listButton.addEventListener("click",()=>{eventsList.hidden=false;mapContainer.hidden=true;listButton.classList.add("active");mapButton.classList.remove("active")});
 mapButton.addEventListener("click",()=>{eventsList.hidden=true;mapContainer.hidden=false;mapButton.classList.add("active");listButton.classList.remove("active");updateMarkers();requestAnimationFrame(()=>{map.invalidateSize();const ms=records.filter(r=>r.group.events.some(visible)).map(r=>r.marker);if(ms.length)map.fitBounds(L.featureGroup(ms).getBounds().pad(.18),{maxZoom:14})})});
 updateMarkers();
+updateSections();
 </script>
 </body>
 </html>
