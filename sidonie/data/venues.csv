@@ -1,0 +1,24 @@
+venue_id,name,address,city,postcode,country,latitude,longitude,coordinate_status,notes
+venue-wigmore-hall,Wigmore Hall,36 Wigmore Street,London,W1U 2BP,United Kingdom,51.5166,-0.14822,verified,
+venue-kings-place,Kings Place,90 York Way,London,N1 9AG,United Kingdom,51.53497,-0.12167,verified,
+venue-rocketvan-studio,Rocketvan Studio,92 Brandon Street,London,SE17 1AL,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-cadogan-hall,Cadogan Hall,5 Sloane Terrace,London,SW1X 9DQ,United Kingdom,51.49380,-0.15724,verified,
+venue-st-sepulchre,St Sepulchre-without-Newgate,Holborn Viaduct,London,EC1A 2DQ,United Kingdom,51.51667,-0.10224,verified,
+venue-st-georges-hanover-square,St George's Hanover Square,St George Street,London,W1S 1FX,United Kingdom,51.51257,-0.14279,verified,
+venue-queen-elizabeth-hall,Queen Elizabeth Hall,Belvedere Road,London,SE1 8XX,United Kingdom,51.50663,-0.11638,verified,
+venue-kenwood-house,Kenwood House,Hampstead Lane,London,NW3 7JR,United Kingdom,51.57155,-0.16736,verified,
+venue-all-saints-blackheath,All Saints Blackheath,All Saints Drive,London,SE3 0TY,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-golden-hinde,The Golden Hinde,St Mary Overie's Dock Cathedral Street,London,SE1 9DE,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-water-rats,The Water Rats,328 Gray's Inn Road,London,WC1X 8BZ,United Kingdom,51.52899,-0.11965,verified,
+venue-handel-hendrix-house,Handel Hendrix House,25 Brook Street,London,W1K 4HB,United Kingdom,51.51298,-0.14592,verified,
+venue-temple-church,Temple Church,Temple,London,EC4Y 7BB,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-westminster-abbey,Westminster Abbey,Dean's Yard,London,SW1P 3PA,United Kingdom,51.49927,-0.12748,verified,
+venue-fidelio-cafe,Fidelio,91-95 Clerkenwell Road,London,EC1R 5BX,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-st-martin-in-the-fields,St Martin-in-the-Fields,Trafalgar Square,London,WC2N 4JJ,United Kingdom,51.50883,-0.12668,verified,
+venue-chiswick-house,Chiswick House,Burlington Lane,London,W4 2RP,United Kingdom,51.48328,-0.25870,verified,
+venue-st-peters-belize-park,St Peter's Belsize Park,Belsize Square,London,NW3,United Kingdom,,,unverified,Venue name inherited from Continuo data; verify spelling and exact address
+venue-dukes-hall-ram,Duke's Hall Royal Academy of Music,1-5 York Gate Marylebone Road,London,NW1 5HT,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-st-jamess-spanish-place,St James's Spanish Place,22 George Street,London,W1U 3QY,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-st-peters-eaton-square,St Peter's Eaton Square,119 Eaton Square,London,SW1W 9AL,United Kingdom,51.49793,-0.14908,verified,
+venue-stone-nest,Stone Nest,136 Shaftesbury Avenue,London,W1D 5EZ,United Kingdom,,,address_verified,Coordinates to verify before map publication
+venue-queens-house-greenwich,Queen's House,Romney Road,London,SE10 9NF,United Kingdom,,,address_verified,Coordinates to verify before map publication
