@@ -5,7 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Guide — SIDONIE</title>
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
   <style>
     :root {
@@ -277,7 +280,28 @@
       #map { height: 68vh; min-height: 440px; }
       footer { flex-direction: column; gap: 8px; }
     }
-  </style>
+  
+body{font-family:"Public Sans","Helvetica Neue",Arial,sans-serif;background-image:linear-gradient(rgba(242,239,234,.84),rgba(242,239,234,.84)),url("assets/paper-texture.jpg");background-size:auto,1100px auto;background-attachment:fixed}
+.wordmark,h1,h2,h3,.popup-title{font-family:"Tiempos Headline","Iowan Old Style",Baskerville,Georgia,serif}
+.hero{position:relative;overflow:hidden;min-height:430px}
+.hero-stamp{position:absolute;right:1%;top:25px;width:min(31vw,300px);mix-blend-mode:multiply;opacity:.76;filter:grayscale(1) contrast(1.12)}
+.hero-brush{position:absolute;right:10%;bottom:22px;width:245px;mix-blend-mode:multiply;opacity:.78}
+.hero .kicker,.hero h1,.hero .intro{position:relative;z-index:2}
+.event:nth-child(3n+2){background:linear-gradient(90deg,transparent,rgba(137,154,169,.07),transparent)}
+.event h3 a{text-decoration:none}.event h3 a:hover{text-decoration:underline;text-underline-offset:4px}
+.source a{font-weight:600;text-underline-offset:3px}
+.leaflet-popup-content{margin:16px 18px;min-width:270px;max-width:340px}
+.popup-venue{font:600 9px/1.4 "Public Sans",sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);padding-bottom:8px;border-bottom:1px solid var(--line);margin-bottom:12px}
+.popup-event+.popup-event{border-top:1px solid var(--line);margin-top:13px;padding-top:13px}
+.popup-title{font-size:19px;line-height:1.05;margin-bottom:5px}.popup-title a{text-decoration:none}
+.popup-artist{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.07em;margin-bottom:7px}
+.popup-meta{font-size:11px;line-height:1.5;color:var(--muted)}.popup-price{font-weight:600;color:var(--carbon)}
+.popup-source{font-size:9px;text-transform:uppercase;letter-spacing:.06em;margin-top:8px}.popup-source a{font-weight:600}
+.source-strip{margin-top:45px;padding:26px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);display:grid;grid-template-columns:1fr 2fr;gap:30px}
+.source-strip h3{font-size:27px;margin:0}.source-strip p{margin:0;font-size:12px;line-height:1.65;color:var(--muted)}.source-strip a{font-weight:600;text-underline-offset:3px}
+@media(max-width:700px){.hero-stamp{width:210px;right:-55px;top:40px;opacity:.4}.hero-brush{width:180px;right:-25px}.source-strip{grid-template-columns:1fr}}
+
+</style>
 </head>
 
 <body>
@@ -287,10 +311,13 @@
       <nav>
         <a href="./">Guide</a>
         <a href="../#culture-at-work">Culture at Work</a>
+        <a href="sources/">Sources</a>
       </nav>
     </header>
 
     <section class="hero">
+      <img class="hero-stamp" src="assets/sidonie-stamp.jpg" alt="">
+      <img class="hero-brush" src="assets/gold-brush.jpg" alt="">
       <div class="kicker">The SIDONIE Guide · London</div>
       <h1>See better things.</h1>
       <p class="intro">
@@ -336,9 +363,7 @@
 
           <div>
 
-            <h3>
-              CPE Bach, Haydn, Martínez and Mozart
-            </h3>
+            <h3><a href="https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026" target="_blank" rel="noopener">CPE Bach, Haydn, Martínez and Mozart</a></h3>
 
             <div class="artist">
               Dunedin Consort
@@ -349,9 +374,7 @@
               Early Music at Wigmore Hall
             </div>
 
-            <span class="source">
-              Discovered via Continuo Connect
-            </span>
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
 
           </div>
 
@@ -371,9 +394,7 @@
 
           <div>
 
-            <h3>
-              Monteverdi Vespers
-            </h3>
+            <h3><a href="https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026" target="_blank" rel="noopener">Monteverdi Vespers</a></h3>
 
             <div class="artist">
               ECSE | I Fagiolini
@@ -384,9 +405,7 @@
               Early Music at Kings Place
             </div>
 
-            <span class="source">
-              Discovered via Continuo Connect
-            </span>
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
 
           </div>
 
@@ -406,9 +425,7 @@
 
           <div>
 
-            <h3>
-              Goldberg Variations
-            </h3>
+            <h3><a href="https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre" target="_blank" rel="noopener">Goldberg Variations</a></h3>
 
             <div class="artist">
               Jean Rondeau
@@ -418,9 +435,7 @@
               Queen Elizabeth Hall · Southbank Centre
             </div>
 
-            <span class="source">
-              Discovered via Continuo Connect
-            </span>
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
 
           </div>
 
@@ -440,9 +455,7 @@
 
           <div>
 
-            <h3>
-              Purcell: Dido &amp; Aeneas
-            </h3>
+            <h3><a href="https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026" target="_blank" rel="noopener">Purcell: Dido &amp; Aeneas</a></h3>
 
             <div class="artist">
               Early Opera Company
@@ -453,9 +466,7 @@
               Temple Music Foundation
             </div>
 
-            <span class="source">
-              Discovered via Continuo Connect
-            </span>
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
 
           </div>
 
@@ -475,9 +486,7 @@
 
           <div>
 
-            <h3>
-              Fretwork 40th Anniversary
-            </h3>
+            <h3><a href="https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent" target="_blank" rel="noopener">Fretwork 40th Anniversary</a></h3>
 
             <div class="artist">
               Fretwork
@@ -487,9 +496,7 @@
               Wigmore Hall
             </div>
 
-            <span class="source">
-              Discovered via Continuo Connect
-            </span>
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
 
           </div>
 
@@ -509,9 +516,7 @@
 
           <div>
 
-            <h3>
-              The Gesualdo Six Friends’ Concert
-            </h3>
+            <h3><a href="https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1" target="_blank" rel="noopener">The Gesualdo Six Friends’ Concert</a></h3>
 
             <div class="artist">
               The Gesualdo Six
@@ -521,9 +526,7 @@
               St Peter’s, Eaton Square
             </div>
 
-            <span class="source">
-              Discovered via Continuo Connect
-            </span>
+            <span class="source">Source · <a href="https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></span>
 
           </div>
 
@@ -536,6 +539,11 @@
       </div>
     </section>
 
+    <section class="source-strip">
+      <h3>Where these listings come from</h3>
+      <p>This first concert selection is discovered via <a href="https://www.continuoconnect.com/events" target="_blank" rel="noopener">Continuo Connect</a>. Source status is separate from SIDONIE’s own editorial selection. <a href="sources/">See all sources &amp; partners →</a></p>
+    </section>
+
     <footer>
       <span>SIDONIE</span>
       <span>London · Research prototype</span>
@@ -544,146 +552,22 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
-    const filterButtons = [...document.querySelectorAll("[data-filter]")];
-    const eventElements = [...document.querySelectorAll(".event")];
-    const listButton = document.getElementById("list-view");
-    const mapButton = document.getElementById("map-view");
-    const eventsList = document.getElementById("events");
-    const mapContainer = document.getElementById("map-container");
-
-    let activeFilter = "all";
-
-    const venues = [
-      {
-        name: "Wigmore Hall",
-        lat: 51.5166,
-        lng: -0.14822,
-        types: ["concert"],
-        events: [
-          "CPE Bach, Haydn, Martínez and Mozart",
-          "Fretwork 40th Anniversary"
-        ]
-      },
-      {
-        name: "Kings Place",
-        lat: 51.53497,
-        lng: -0.12167,
-        types: ["concert"],
-        events: ["Monteverdi Vespers"]
-      },
-      {
-        name: "Queen Elizabeth Hall",
-        lat: 51.50663,
-        lng: -0.11638,
-        types: ["concert"],
-        events: ["Goldberg Variations"]
-      },
-      {
-        name: "Temple Church",
-        lat: 51.51336,
-        lng: -0.11075,
-        types: ["opera"],
-        events: ["Purcell: Dido & Aeneas"]
-      },
-      {
-        name: "St Peter’s, Eaton Square",
-        lat: 51.49793,
-        lng: -0.14908,
-        types: ["concert"],
-        events: ["The Gesualdo Six Friends’ Concert"]
-      }
-    ];
-
-    const map = L.map("map", {
-      zoomControl: true,
-      scrollWheelZoom: false
-    }).setView([51.515, -0.135], 13);
-
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 19,
-      attribution: "&copy; OpenStreetMap contributors"
-    }).addTo(map);
-
-    const sidonieMarker = L.divIcon({
-      className: "sidonie-marker",
-      html: "<span></span>",
-      iconSize: [20, 20],
-      iconAnchor: [10, 10],
-      popupAnchor: [0, -10]
-    });
-
-    const markerRecords = venues.map(venue => {
-      const eventList = venue.events.map(title => `<li>${title}</li>`).join("");
-      const marker = L.marker([venue.lat, venue.lng], { icon: sidonieMarker })
-        .bindPopup(`
-          <div class="sidonie-popup">
-            <strong>${venue.name}</strong>
-            <ul>${eventList}</ul>
-          </div>
-        `);
-
-      return { venue, marker };
-    });
-
-    function updateMarkers() {
-      markerRecords.forEach(({ venue, marker }) => {
-        const visible = activeFilter === "all" || venue.types.includes(activeFilter);
-        if (visible) {
-          if (!map.hasLayer(marker)) marker.addTo(map);
-        } else {
-          if (map.hasLayer(marker)) map.removeLayer(marker);
-        }
-      });
-    }
-
-    function applyFilter(filter) {
-      activeFilter = filter;
-
-      filterButtons.forEach(button => {
-        button.classList.toggle("active", button.dataset.filter === filter);
-      });
-
-      eventElements.forEach(event => {
-        event.style.display =
-          filter === "all" || event.dataset.type === filter ? "grid" : "none";
-      });
-
-      updateMarkers();
-    }
-
-    filterButtons.forEach(button => {
-      button.addEventListener("click", () => applyFilter(button.dataset.filter));
-    });
-
-    listButton.addEventListener("click", () => {
-      eventsList.hidden = false;
-      mapContainer.hidden = true;
-      listButton.classList.add("active");
-      mapButton.classList.remove("active");
-    });
-
-    mapButton.addEventListener("click", () => {
-      eventsList.hidden = true;
-      mapContainer.hidden = false;
-      mapButton.classList.add("active");
-      listButton.classList.remove("active");
-
-      updateMarkers();
-
-      requestAnimationFrame(() => {
-        map.invalidateSize();
-        const visibleMarkers = markerRecords
-          .filter(({ venue }) => activeFilter === "all" || venue.types.includes(activeFilter))
-          .map(({ marker }) => marker);
-
-        if (visibleMarkers.length) {
-          const group = L.featureGroup(visibleMarkers);
-          map.fitBounds(group.getBounds().pad(0.18), { maxZoom: 14 });
-        }
-      });
-    });
-
-    updateMarkers();
-  </script>
+const data=[{"type": "concert", "title": "CPE Bach, Haydn, Martínez and Mozart", "artist": "Dunedin Consort", "date": "Wed 16 Sep", "time": "7.30pm", "venue": "Wigmore Hall", "context": "Early Music at Wigmore Hall", "price": "£18–£50", "url": "https://www.continuoconnect.com/events/angela-hewitt-cpe-bach-haydn-martinez-and-mozart-wigmore-hall-2026", "lat": 51.5166, "lng": -0.14822}, {"type": "concert", "title": "Monteverdi Vespers", "artist": "ECSE | I Fagiolini", "date": "Fri 18 Sep", "time": "7.30pm", "venue": "Kings Place", "context": "Early Music at Kings Place", "price": "£28–£70", "url": "https://www.continuoconnect.com/events/i-fagiolini-monteverdi-vespers-kings-place-london-2026", "lat": 51.53497, "lng": -0.12167}, {"type": "concert", "title": "Goldberg Variations", "artist": "Jean Rondeau", "date": "Sun 27 Sep", "time": "2pm", "venue": "Queen Elizabeth Hall", "context": "Southbank Centre", "price": "From £24", "url": "https://www.continuoconnect.com/events/jean-rondeau-goldberg-variations-southbank-centre-2026?r=1&slug=southbank-centre", "lat": 51.50663, "lng": -0.11638}, {"type": "opera", "title": "Purcell: Dido & Aeneas", "artist": "Early Opera Company", "date": "Tue 29 Sep", "time": "7.30pm", "venue": "Temple Church", "context": "Temple Music Foundation", "price": "£15–£55", "url": "https://www.continuoconnect.com/events/early-opera-company-purcell-dido-and-aeneas-temple-church-london-2026", "lat": 51.51336, "lng": -0.11075}, {"type": "concert", "title": "Fretwork 40th Anniversary", "artist": "Fretwork", "date": "Thu 1 Oct", "time": "7pm", "venue": "Wigmore Hall", "context": "Early Music at Wigmore Hall", "price": "£18–£50", "url": "https://www.continuoconnect.com/events/fretwork-40th-anniversary-london-2026?r=1&slug=the-battle-between-carnival-and-lent", "lat": 51.5166, "lng": -0.14822}, {"type": "concert", "title": "The Gesualdo Six Friends’ Concert", "artist": "The Gesualdo Six", "date": "Thu 8 Oct", "time": "7.30pm", "venue": "St Peter’s, Eaton Square", "context": "", "price": "£25", "url": "https://www.continuoconnect.com/events/the-gesualdo-six-friends-concert-london-2026?r=1", "lat": 51.49793, "lng": -0.14908}];
+const filterButtons=[...document.querySelectorAll("[data-filter]")], eventEls=[...document.querySelectorAll(".event")];
+const listButton=document.getElementById("list-view"), mapButton=document.getElementById("map-view"), eventsList=document.getElementById("events"), mapContainer=document.getElementById("map-container");
+let activeFilter="all";
+const map=L.map("map",{zoomControl:true,scrollWheelZoom:false}).setView([51.515,-0.135],13);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap contributors"}).addTo(map);
+const icon=L.divIcon({className:"sidonie-marker",html:"<span></span>",iconSize:[20,20],iconAnchor:[10,10],popupAnchor:[0,-10]});
+const groups={}; data.forEach(e=>{const k=e.venue+"|"+e.lat+"|"+e.lng;(groups[k]??={venue:e.venue,lat:e.lat,lng:e.lng,events:[]}).events.push(e)});
+const records=Object.values(groups).map(g=>{const body=g.events.map(e=>`<div class="popup-event"><div class="popup-title"><a href="${e.url}" target="_blank" rel="noopener">${e.title}</a></div><div class="popup-artist">${e.artist}</div><div class="popup-meta">${e.date} · ${e.time}<br>${e.context||e.venue}<br><span class="popup-price">${e.price}</span></div><div class="popup-source">Source · <a href="${e.url}" target="_blank" rel="noopener">Continuo Connect</a> · <a href="sources/">About source</a></div></div>`).join("");return{group:g,marker:L.marker([g.lat,g.lng],{icon}).bindPopup(`<div class="popup-venue">${g.venue}</div>${body}`)}});
+function visible(e){return activeFilter==="all"||e.type===activeFilter}
+function updateMarkers(){records.forEach(r=>{const show=r.group.events.some(visible);if(show&&!map.hasLayer(r.marker))r.marker.addTo(map);if(!show&&map.hasLayer(r.marker))map.removeLayer(r.marker)})}
+function applyFilter(f){activeFilter=f;filterButtons.forEach(b=>b.classList.toggle("active",b.dataset.filter===f));eventEls.forEach(el=>el.style.display=f==="all"||el.dataset.type===f?"grid":"none");updateMarkers()}
+filterButtons.forEach(b=>b.addEventListener("click",()=>applyFilter(b.dataset.filter)));
+listButton.addEventListener("click",()=>{eventsList.hidden=false;mapContainer.hidden=true;listButton.classList.add("active");mapButton.classList.remove("active")});
+mapButton.addEventListener("click",()=>{eventsList.hidden=true;mapContainer.hidden=false;mapButton.classList.add("active");listButton.classList.remove("active");updateMarkers();requestAnimationFrame(()=>{map.invalidateSize();const ms=records.filter(r=>r.group.events.some(visible)).map(r=>r.marker);if(ms.length)map.fitBounds(L.featureGroup(ms).getBounds().pad(.18),{maxZoom:14})})});
+updateMarkers();
+</script>
 </body>
 </html>
