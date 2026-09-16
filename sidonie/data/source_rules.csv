@@ -1,0 +1,4 @@
+rule_id,stakeholder_id,content_type,geography,future_or_open_only,minimum_source_rating,auto_candidate,auto_publish,partner_badge,notes
+rule-continuo-london,st-continuo,concert,London,TRUE,,TRUE,FALSE,FALSE,Future London concerts become candidates but are not automatically recommended
+rule-verdurin-london,st-verdurin,event,London,TRUE,,TRUE,FALSE,TRUE,Future London core-partner events become candidates and retain partner status
+rule-petitpoi-london-4plus,st-petitpoi,exhibition,London,TRUE,4,TRUE,FALSE,FALSE,Only open London exhibitions rated 4/5 or 5/5 by Pierre become candidates
