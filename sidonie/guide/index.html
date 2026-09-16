@@ -230,6 +230,48 @@
         var(--blue);
     }
 
+    /* SIDONIE map markers */
+
+.sidonie-marker {
+  background: transparent;
+  border: 0;
+}
+
+.sidonie-marker span {
+  display: block;
+  width: 18px;
+  height: 18px;
+  background: var(--gold);
+  border: 2px solid var(--carbon);
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px rgba(208, 183, 118, .22);
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 0;
+  background: var(--paper);
+  color: var(--carbon);
+  box-shadow: none;
+  border: 1px solid var(--line);
+}
+
+.leaflet-popup-tip {
+  background: var(--paper);
+}
+
+.sidonie-popup strong {
+  font-family: Baskerville, "Times New Roman", serif;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.sidonie-popup ul {
+  margin: 9px 0 0;
+  padding-left: 16px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+    
     .map-note {
       position: absolute;
       top: 50%;
@@ -669,7 +711,91 @@
 
     const eventsList = document.getElementById("events");
     const mapContainer = document.getElementById("map-container");
+/* LONDON MAP */
 
+const map = L.map("map", {
+  zoomControl: true,
+  scrollWheelZoom: false
+}).setView([51.515, -0.14], 12);
+
+L.tileLayer(
+  "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  {
+    maxZoom: 19,
+    attribution: "&copy; OpenStreetMap contributors"
+  }
+).addTo(map);
+
+
+/* SIDONIE VENUES */
+
+const venues = [
+  {
+    name: "Wigmore Hall",
+    lat: 51.5166,
+    lng: -0.14822,
+    events: [
+      "CPE Bach, Haydn, Martínez and Mozart",
+      "Fretwork 40th Anniversary"
+    ]
+  },
+  {
+    name: "Kings Place",
+    lat: 51.53497,
+    lng: -0.12167,
+    events: [
+      "Monteverdi Vespers"
+    ]
+  },
+  {
+    name: "Queen Elizabeth Hall",
+    lat: 51.50663,
+    lng: -0.11638,
+    events: [
+      "Goldberg Variations"
+    ]
+  },
+  {
+    name: "St Peter’s, Eaton Square",
+    lat: 51.49793,
+    lng: -0.14908,
+    events: [
+      "The Gesualdo Six Friends’ Concert"
+    ]
+  }
+];
+
+
+/* SIDONIE MARKERS */
+
+const sidonieMarker = L.divIcon({
+  className: "sidonie-marker",
+  html: "<span></span>",
+  iconSize: [20, 20],
+  iconAnchor: [10, 10]
+});
+
+
+venues.forEach(venue => {
+
+  const eventList =
+    venue.events
+      .map(event => `<li>${event}</li>`)
+      .join("");
+
+  L.marker(
+    [venue.lat, venue.lng],
+    { icon: sidonieMarker }
+  )
+  .addTo(map)
+  .bindPopup(`
+    <div class="sidonie-popup">
+      <strong>${venue.name}</strong>
+      <ul>${eventList}</ul>
+    </div>
+  `);
+
+});
 
     /* FILTERS */
 
