@@ -1,1 +1,31 @@
-
+source_id,target_id,relationship,flow_type,amount_label
+parliament,treasury,authorises / scrutinises,governance,
+treasury,dcms,spending settlement,funding,
+parliament,dcms,legislation / scrutiny,governance,
+dcms,ace,sponsors / grant-in-aid,funding,£495.33m · 2023/24
+dcms,bfi,sponsors / grant-in-aid,funding,£25.205m · 2023/24
+dcms,he,sponsors / grant-in-aid,funding,£102.456m · 2023/24
+dcms,museums,sponsors / grant-in-aid,funding,
+dcms,nldf,policy / financial directions,governance,
+nldf,ace,Lottery distribution,lottery,
+nldf,bfi,Lottery distribution,lottery,
+nldf,nlhf,Lottery distribution,lottery,
+ace,npos,portfolio grants,funding,
+ace,independent,project grants / development,funding,
+localgov,localculture,funds / operates,funding,~£1.1bn/yr
+localgov,independent,grants / commissioning,funding,
+charity,charities,registers / regulates,regulation,
+hmrc,charities,tax relief / Gift Aid,tax,
+donors,charities,donations,private,
+foundations,charities,grants,private,
+foundations,independent,grants,private,
+corporate,independent,sponsorship / in-kind,private,
+audiences,independent,tickets / memberships,earned,
+audiences,museums,visits / memberships,earned,
+education,workforce,training,talent,
+workforce,independent,creates / works for,labour,
+workforce,museums,works for / leads,labour,
+media,independent,reviews / attention,attention,
+media,museums,reviews / scrutiny,attention,
+he,localgov,heritage / planning advice,regulation,
+nlhf,localculture,heritage grants,lottery,

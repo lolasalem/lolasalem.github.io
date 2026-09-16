@@ -1,1 +1,24 @@
-
+entity_id,name,layer
+parliament,UK Parliament,Government & law
+treasury,HM Treasury,Government & law
+dcms,DCMS,Government & law
+hmrc,HMRC,Tax & charity framework
+charity,Charity Commission,Tax & charity framework
+localgov,Local government,Local & place
+nldf,National Lottery Distribution Fund,National Lottery
+ace,Arts Council England,Arm's-length bodies
+bfi,British Film Institute,Arm's-length bodies
+he,Historic England,Arm's-length bodies
+nlhf,National Lottery Heritage Fund,Arm's-length bodies
+museums,DCMS-sponsored museums & galleries,Cultural institutions
+npos,ACE National Portfolio Organisations,Cultural institutions
+localculture,Local cultural services & institutions,Cultural institutions
+independent,Independent cultural organisations,Cultural institutions
+charities,Cultural charities,Cultural institutions
+foundations,Foundations & trusts,Private & philanthropic capital
+donors,Individual philanthropists & donors,Private & philanthropic capital
+corporate,Corporate sponsors & partners,Private & philanthropic capital
+audiences,Audiences & members,Earned income & demand
+education,"Universities, conservatoires & art schools",Education & talent
+workforce,Artists & cultural workforce,Education & talent
+media,"Media, criticism & cultural publications",Ideas & attention
