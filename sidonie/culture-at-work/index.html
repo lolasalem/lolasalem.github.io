@@ -492,4 +492,20 @@ if(typeof showPanel==="function"){
  const c8ShowPanelBase=showPanel;
  showPanel=function(id){c8ShowPanelBase(id);appendSystemDeepDive(id);};
 }
+
+Object.assign(SYSTEM_DEEP_DIVES,{"parliament": {"title": "Get closer to Parliament", "intro": "Parliament sits upstream of cultural bodies in several different ways: legislation, Supply, scrutiny and delegated authority.", "cells": [["LAW", "Acts and statutory instruments create, abolish or alter cultural bodies, regulators, duties and powers."], ["SUPPLY", "Parliament authorises departmental expenditure through the Estimates/Supply process."], ["SCRUTINY", "Select committees, PAC, debates and laid accounts create separate accountability routes."], ["DELEGATION", "Public bodies operate within spending delegations whose limits ultimately sit inside the parliamentary/Treasury finance system."], ["NOT MANAGEMENT", "Parliamentary authority does not mean Parliament manages day-to-day cultural programming."], ["NEXT DATA", "Add Culture, Media and Sport Committee; PAC; Estimates/Supply documents; statutory-instrument chains."]]}, "treasury": {"title": "Get closer to HM Treasury", "intro": "Treasury influence is strongest through the public-finance architecture, not through cultural programming.", "cells": [["SPENDING CONTROL", "Approves or sets public-spending settlements and Managing Public Money framework."], ["DELEGATIONS", "Spending above delegated limits can require Treasury approval; novel/contentious/repercussive spending may require approval even within limits."], ["DCMS", "Treasury controls are generally mediated through the department/accounting-officer structure rather than direct cultural management."], ["LOTTERY", "Treasury determines NLDF investment principles."], ["EVIDENCE", "DCMS accounts and Accounting Officer System Statement provide the current administrative trail; upstream Treasury instruments remain to be fully ingested."], ["NEXT DATA", "Map Spending Reviews, Estimates, delegation letters and Managing Public Money provisions relevant to cultural ALBs."]]}});
+
+const DOWNSTREAM_QUEUE={
+ artscouncil:["National Portfolio Organisations","Investment Principles Support / project grants","Museums & libraries development funding"],
+ bfi:["National Lottery film awards","Skills / audience / production programmes","BFI subsidiaries and group flows"],
+ lottery:["ACE distributions","BFI distributions","National Lottery Heritage Fund distributions","Other statutory distributors"]
+};
+const c9ToggleBase=toggleSystemAnatomy;
+toggleSystemAnatomy=function(id,btn){
+ c9ToggleBase(id,btn);
+ const box=document.getElementById("system-anatomy-"+id);
+ if(box && box.innerHTML && DOWNSTREAM_QUEUE[id]){
+   box.insertAdjacentHTML("beforeend",`<div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--line)"><div style="font-size:7px;font-weight:600;letter-spacing:.09em;text-transform:uppercase;margin-bottom:5px">Next downstream layer</div><div style="font-size:8px;line-height:1.55;color:var(--muted)">${DOWNSTREAM_QUEUE[id].map(x=>"→ "+x).join("<br>")}</div></div>`);
+ }
+};
 </script></body></html>
