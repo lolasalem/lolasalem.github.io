@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": {
+    "area_organisation_total": 990,
+    "discipline_organisation_total": 990,
+    "area_joiner_total": 276,
+    "discipline_joiner_total": 276,
+    "area_annual_investment_gbp": 446264485,
+    "discipline_annual_investment_gbp": 446264485
+  },
+  "recipient_level_import_status": "BLOCKED \u2014 no official machine-readable 990-row recipient file was discoverable through the current official ACE/data.gov.uk public surfaces. No third-party reconstruction has been promoted to SIDONIE evidence.",
+  "important_distinction": "The \u00a3446,264,485 is annual programme investment. It must not be confused with the 2023/24 audited cash actually received across all ACE programmes in Pass 1.",
+  "canonical_html_modified": false
+}

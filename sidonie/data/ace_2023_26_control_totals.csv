@@ -1,0 +1,10 @@
+metric_id,metric,value,unit,source_document_id,locator
+portfolio_total,All 2023–26 Investment Programme organisations,990,organisations,doc-ace-2023-26-factsheet,p.1
+npo_count,National Portfolio Organisations,950,organisations,doc-ace-2023-26-factsheet,p.1
+ipso_count,Investment Principles Support Organisations,40,organisations,doc-ace-2023-26-factsheet,p.1
+annual_investment,Annual investment,446264485,GBP/year,doc-ace-2023-26-factsheet,p.2–3
+joiners,New joiners,276,organisations,doc-ace-2023-26-factsheet,p.1
+transfer_total,Transfer programme organisations,24,organisations,doc-ace-2023-26-factsheet,p.1
+transfer_npo,Transfer programme NPOs,18,organisations,doc-ace-2023-26-factsheet,p.1
+transfer_ipso,Transfer programme IPSOs,6,organisations,doc-ace-2023-26-factsheet,p.1
+lucp_investment,Annual investment in 78 Levelling Up for Culture Places,43500000,GBP/year,doc-ace-2023-26-factsheet,p.1
