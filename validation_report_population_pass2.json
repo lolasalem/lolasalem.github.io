@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "people_role_rows": 21,
+  "career_movement_rows": 11,
+  "national_theatre_director_sequence_rows": 7,
+  "rsc_artistic_leadership_rows": 6,
+  "institution_population_queue": 12,
+  "local_authority_schema_fields": 13,
+  "rules": [
+    "Career movement is recorded descriptively; no PMC classification is assigned to a person.",
+    "Appointment route is left at the strongest documented level available; institutional appointment is not silently converted into ministerial appointment.",
+    "Local-authority national financing shares are never assigned to individual councils.",
+    "Charity/public-dependence calculations remain blocked until audited-note public income is reconciled institution by institution."
+  ],
+  "next_build_ready": true
+}
