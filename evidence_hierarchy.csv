@@ -1,0 +1,9 @@
+code,evidence_class,examples,weight,use_rule
+A1,PRIMARY — CONSTITUTIVE / STATUTORY,Act of Parliament; Royal Charter; founding deed/bequest; statutory instrument,Highest,"Use to establish legal existence, powers, duties, Board constitution and statutory purpose."
+A2,PRIMARY — PARLIAMENTARY / GOVERNMENT,Hansard; Supply/Estimates; Treasury minutes/directions; appointment instruments,Highest,"Use to establish public authority, appropriations, formal government decisions and contemporaneous parliamentary scrutiny."
+A3,PRIMARY — AUDITED FINANCE,Audited annual report/accounts; NAO-certified accounts; Companies House accounts,Highest for financial claims,"Use for amounts, fund restrictions, subsidiaries, liabilities and audited disclosures. Separate accounting income from cash/operating resources."
+A4,PRIMARY — ADMINISTRATIVE,DCMS framework; delegation letter; grant agreement; Managing Public Money instrument,"High, but subordinate to law",Use to establish the current administrative relationship. Never treat a framework document as the source of legal powers where it expressly is not.
+B1,CONTEMPORANEOUS RECORD,Board minutes; archival correspondence; official inquiry evidence; FOI disclosure,High,"Use for decision processes, implementation and contemporaneous institutional behaviour."
+B2,INDEPENDENT SCRUTINY,NAO/PAC/select committee; regulator; court judgment; serious academic research,High/analytical,"Use to test institutional claims and identify failures, tensions or contested interpretations."
+C1,INSTITUTIONAL ACCOUNT,Museum history page; strategy; mission statement; press release; management speech,Low for establishing fact,Use primarily as evidence of what the institution says about itself. Corroborate factual claims upstream wherever possible.
+D1,SIDONIE ANALYSIS,Derived calculation or interpretation,Derived,"Must identify inputs, formula/logic, caveats and source IDs. Never present as institutional or official fact."
