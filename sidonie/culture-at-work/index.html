@@ -145,8 +145,8 @@ svg{position:absolute;inset:0;width:100%;height:100%;z-index:1}.edge{stroke:rgba
 .compare-panel{margin:18px 14px 0;padding:14px;border:1px solid var(--line);background:rgba(255,255,255,.14)}.compare-panel h3{margin:0 0 5px;font-size:20px}.compare-panel p{margin:0 0 10px;font-size:9px;line-height:1.5;color:var(--muted)}.compare-table{width:100%;border-collapse:collapse;font-size:8px}.compare-table th,.compare-table td{text-align:left;padding:7px;border-top:1px solid rgba(23,23,23,.1);vertical-align:top}.compare-table th{font-size:7px;letter-spacing:.08em;text-transform:uppercase}
 @media(max-width:900px){.money-row{grid-template-columns:1fr}.compare-panel{overflow-x:auto}.compare-table{min-width:620px}}
 </style></head><body><div class="shell">
-<header><a class="wordmark" href="../">SIDONIE</a><nav><a href="../guide/">Guide</a><a href="./">Culture at Work</a><a href="../guide/sources/">Sources</a></nav></header>
-<section class="hero"><img src="../guide/assets/sidonie-stamp.jpg" alt=""><div class="kicker">Culture at Work · England · system map</div><h1>Follow the money.<br>Follow the rules.</h1><p class="intro">A map of the institutions, rules and flows that shape cultural life. The columns are functional categories, not a hierarchy: public policy, regulation, public funding, public-service media, cultural institutions, private capital, and people/attention.</p></section>
+<header><a class="wordmark" href="../">SIDONIE</a><nav><a href="../guide/">Guide</a><a href="./">System Map</a><a href="over-time/">Over Time</a><a href="../guide/sources/">Sources</a></nav></header>
+<section class="hero"><img src="../guide/assets/sidonie-stamp.jpg" alt=""><div class="kicker">Culture at Work · England · system map</div><h1>Follow the money.<br>Follow the rules.</h1><p class="intro">A map of the institutions, rules and flows that shape cultural life. The columns are functional categories, not a hierarchy: public policy, regulation, public funding, public-service media, cultural institutions, private capital, and people/attention.</p><a href="over-time/" style="display:inline-block;margin:14px 0 0;padding:9px 12px;border:1px solid var(--line);font-size:9px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;text-decoration:none">View the system over time →</a></section>
 <div class="instructions">Click any entity. Its direct relationships are highlighted and explained at right. Monetary figures are dated and linked to a full reference below.</div>
 <div class="workspace"><div><div class="map" id="map"><div class="bands"><div class="band">State & policy</div><div class="band">Regulation & law</div><div class="band">Public funding</div><div class="band">Public-service media</div><div class="band">Cultural institutions</div><div class="band">Private funding</div><div class="band">People & attention</div></div><svg id="edges"></svg></div><div class="legend">Green lines = public funding · blue dashed = governance/regulation · gold = private/earned income · grey = other relationships</div>
 <div id="expand-zone" class="expand-zone"></div></div>
@@ -332,5 +332,13 @@ showChildProfile=function(id){
  panel.innerHTML += `<div class="finance-anatomy"><h3>Financial anatomy</h3><div class="finance-period">2024–25 · first verified flow · ${g[1]}</div>
  <div class="money-row"><b>DCMS Grant-in-Aid</b><span class="value">${g[0]}</span><span>Verified against the DCMS 2024–25 group accounts. This is only one funding stream, not total income and not yet a complete financial profile.</span></div>
  <div class="audit-box"><h4>Why SIDONIE stops here for now</h4><p>The remaining income, restrictions, subsidiaries and expenditure categories are not displayed until they have been reconciled to the institution’s own audited notes. A verified partial profile is preferable to a complete-looking but misleading one.</p></div></div>`;
+};
+
+const historyLinkBase=showChildProfile;
+showChildProfile=function(id){
+ historyLinkBase(id);
+ if(id==="britishmuseum"){
+   panel.insertAdjacentHTML("beforeend",'<div class="panel-section"><a href="over-time/british-museum.html" style="display:inline-block;padding:9px 11px;border:1px solid var(--line);text-decoration:none;font-size:8px;font-weight:600;letter-spacing:.09em;text-transform:uppercase">View this institution over time →</a></div>');
+ }
 };
 </script></body></html>
