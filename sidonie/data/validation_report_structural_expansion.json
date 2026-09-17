@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "scope": "foundation dataset for People & Appointments, charity-dependence analysis, sector expansion and local-authority finance",
+  "verified_people_role_rows": 11,
+  "seed_institutions": 8,
+  "charity_finance_seed_rows": 4,
+  "local_authority_control_years": 3,
+  "critical_findings": [
+    "Charity status and high public-funding dependence are legally distinct questions. Charity Commission RR7 treats independence from the state as a real legal/governance issue rather than defining charity status by a funding-percentage threshold.",
+    "England local-authority revenue finance is mixed: central grants, council tax and retained business rates; fees/charges also finance services. In 2026\u201327 government grants are budgeted at 54.5% excluding reserve appropriations.",
+    "Public libraries are a statutory local service under the Public Libraries and Museums Act 1964; other cultural spending may have different legal footing.",
+    "Appointment/career records already reveal testable cross-institutional movement (e.g. Tate\u2192RBO; Chichester/Theatr Clwyd\u2192RSC; ENO\u2192Roundhouse), but no PMC conclusion is encoded."
+  ],
+  "not_yet_safe": [
+    "No 'real charity' score: dependence metrics remain descriptive.",
+    "No full trustee network yet; directors/CEOs/artistic leadership first.",
+    "No public-dependence percentage where audited notes have not been reconciled.",
+    "No claim that all local cultural spending is funded by central government."
+  ]
+}

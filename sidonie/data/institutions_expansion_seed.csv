@@ -1,0 +1,9 @@
+institution_id,name,sector,legal_form_or_context,charity_number,jurisdiction,verified_layer,primary_evidence
+rbo,Royal Ballet and Opera,opera/ballet,charity,211775,England,financial+leadership seed,Charity Commission accounts; RBO governance/people
+national-theatre,Royal National Theatre,theatre,charity,224223,England,financial+leadership seed,Charity Commission accounts; NT appointment record
+rsc,Royal Shakespeare Company,theatre,charity,212481,England,leadership+accounts seed,Charity Commission; RSC appointment records
+eno,English National Opera,opera,charity/company,,England,leadership seed,Companies House; ENO appointment records
+ram,Royal Academy of Music,conservatoire,charity,310007,England,finance+governance seed,Charity Commission; RAM audited accounts
+rcm,Royal College of Music,conservatoire,charity,309268,England,finance+governance seed,Charity Commission; RCM audited accounts
+guildhall,Guildhall School of Music & Drama,conservatoire,City of London institution,,England,governance seed,Guildhall audited financial statements
+rca,Royal College of Art,visual art/design higher education,higher education / charity-law context,,England,accounts seed,RCA annual report/accounts

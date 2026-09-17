@@ -1,0 +1,5 @@
+institution_id,period_end,total_income_gbp,donations_legacies_gbp,charitable_activities_gbp,trading_gbp,investment_gbp,identified_government_grants_gbp,source,caveat
+national-theatre,2025-03-30,128700000,45400000,59300000,22600000,1400000,,Charity Commission register,Category totals; public-source component still needs audited-note split before dependence calculation.
+ram,2025-07-31,33157000,8990000,18370000,549000,3790000,5617000,Charity Commission register,Register states £5.617m from 6 government grants; do not infer total public dependence from this alone.
+rcm,2025-07-31,43422000,6980000,29130000,3290000,4010000,,Charity Commission register,Government/public component within charitable activities requires audited-note reconciliation.
+guildhall-trust,2025-07-31,4468322,3980000,0,59880,432950,,Charity Commission register,"This is the separate Guildhall School Trust, not the School's own total finances."

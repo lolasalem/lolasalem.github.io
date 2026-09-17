@@ -1,0 +1,12 @@
+person_id,person_name,institution_id,role,start,end,appointment_route,predecessor,previous_role_or_institution,source,evidence_class
+indhu-rubasingham,Indhu Rubasingham,national-theatre,Director and Joint Chief Executive,2025,,Board appointment,Rufus Norris,Kiln Theatre — Artistic Director,NT appointment release,formal appointment record
+rufus-norris,Rufus Norris,national-theatre,Director / Chief Executive,2015,2025,institutional appointment,Nicholas Hytner,,NT/appointment evidence,formal appointment record
+daniel-evans,Daniel Evans,rsc,Co-Artistic Director,2023-06,,Board appointment,Gregory Doran,Chichester Festival Theatre — Artistic Director,RSC appointment release,formal appointment record
+tamara-harvey,Tamara Harvey,rsc,Co-Artistic Director,2023-06,,Board appointment,Gregory Doran,Theatr Clwyd — Artistic Director,RSC appointment release,formal appointment record
+andrew-leveson,Andrew Leveson,rsc,Executive Director / Chief Executive,2024-04,,Board appointment,Catherine Mallyon,Bridge Theatre — Director of Finance and Administration,RSC appointment release,formal appointment record
+alex-beard,Alex Beard,rbo,Chief Executive,2013,,Board appointment,Tony Hall,Tate — Deputy Director,RBO biography / contemporaneous appointment record,formal appointment + biography
+oliver-mears,Oliver Mears,rbo,Director of Opera,2017,,institutional appointment,,,RBO current staff record,current office record
+jakub-hrusa,Jakub Hrůša,rbo,"Music Director, Royal Opera",2025-09,,institutional appointment,Antonio Pappano,,RBO appointment record,formal appointment record
+jenny-mollica,Jenny Mollica,eno,Chief Executive,2023,2026,institutional appointment,,ENO — Director of Strategy and Engagement (from 2020); next: Roundhouse CEO,ENO/Roundhouse records,formal transition record
+paul-reeve,Paul Reeve,eno,Interim Chief Executive,2026-04,2026-11,Board / interim appointment,Jenny Mollica,Into Film — Chief Executive; Birmingham Royal Ballet; Royal Ballet and Opera; English Touring Opera; RSC,ENO appointment record,formal appointment record
+helen-shute,Helen Shute,eno,Chief Executive,2026-11,,institutional appointment,Paul Reeve,Rambert — Chief Executive and Executive Producer,ENO appointment record,formal appointment record

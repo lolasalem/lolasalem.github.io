@@ -1,0 +1,9 @@
+field,definition,what_it_tests,caveat
+public_income_share,Public income / recurring operating income,"Financial dependence, not legal status",Requires audited note-level identification of grants/contracts.
+largest_public_funder_share,Largest single public funder / recurring operating income,Concentration risk,Avoid double counting pass-through funding.
+earned_income_share,Earned/commercial income / recurring operating income,Market/visitor dependence,Keep trading subsidiaries reconciled.
+philanthropy_share,Unrestricted + restricted philanthropy / recurring income,Private support,Restricted gifts must remain separately visible.
+appointment_power,Documented state/public-body appointment rights,Governance dependence,"Categorical, not numeric unless explicitly coded."
+statutory_origin,Created/constituted by statute or charter,Constitutional relationship,Not itself a measure of current control.
+public_contract_share,Public-service contracts / recurring income,Contractual state dependence,Separate contract consideration from grants.
+financial_survivability,Unrestricted reserves / recurring expenditure,Resilience proxy,Not 'cash in bank'; designated/non-liquid assets caveated.
