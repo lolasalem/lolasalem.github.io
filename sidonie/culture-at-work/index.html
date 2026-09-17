@@ -42,6 +42,101 @@ svg{position:absolute;inset:0;width:100%;height:100%;z-index:1}.edge{stroke:rgba
   font-size:7px;font-weight:600;letter-spacing:.09em;text-transform:uppercase
 }
 @media(max-width:900px){.expand-grid{grid-template-columns:1fr 1fr}}
+.get-closer-callout{margin:10px 0 16px;padding:13px 14px;border:1px solid rgba(142,146,119,.58);background:rgba(142,146,119,.10)}.get-closer-callout button{width:100%;border:0;background:transparent;padding:0;text-align:left;cursor:pointer;color:var(--carbon)}.get-closer-callout strong{display:block;font-family:"Tiempos Headline","Iowan Old Style",Baskerville,Georgia,serif;font-size:17px;font-weight:500;line-height:1.1}.get-closer-callout span{display:block;margin-top:5px;color:var(--muted);font-size:9px;line-height:1.45}
+.lineage{
+  margin:0 14px 14px;
+  padding:14px 16px;
+  border-top:1px solid var(--line);
+}
+.lineage-title{
+  margin-bottom:12px;
+  font-size:8px;
+  font-weight:600;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--muted);
+}
+.lineage-track{
+  display:flex;
+  align-items:stretch;
+  gap:7px;
+  overflow-x:auto;
+  padding-bottom:3px;
+}
+.lineage-step{
+  min-width:128px;
+  padding:9px 10px;
+  border:1px solid var(--line);
+  background:rgba(242,239,234,.9);
+}
+.lineage-step strong{
+  display:block;
+  font-family:"Tiempos Headline","Iowan Old Style",Baskerville,Georgia,serif;
+  font-size:13px;font-weight:500;line-height:1.08;
+}
+.lineage-step span{
+  display:block;margin-top:5px;color:var(--muted);
+  font-size:7px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
+}
+.lineage-arrow{
+  align-self:center;
+  color:var(--muted);
+  font-size:14px;
+}
+.lineage-branches{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:7px;
+  margin-top:9px;
+}
+.lineage-branch{
+  padding:8px 10px;
+  border-left:2px solid rgba(137,154,169,.48);
+  background:rgba(137,154,169,.055);
+  font-size:8px;line-height:1.4;
+}
+.lineage-branch b{display:block;margin-bottom:3px}
+@media(max-width:900px){.lineage-branches{grid-template-columns:1fr}}
+
+.lineage-explainer{
+  margin:0 14px 14px;
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:8px;
+}
+.explainer-card{
+  padding:12px 13px;
+  border:1px solid rgba(23,23,23,.14);
+  background:rgba(255,255,255,.16);
+}
+.explainer-card h4{
+  margin:0 0 6px;
+  font-family:"Tiempos Headline","Iowan Old Style",Baskerville,Georgia,serif;
+  font-size:15px;font-weight:500;
+}
+.explainer-card p{
+  margin:0;
+  color:var(--muted);
+  font-size:9px;
+  line-height:1.55;
+}
+.explainer-card p+p{margin-top:7px}
+.explainer-card b{color:var(--carbon)}
+.flow-example{
+  margin:0 14px 16px;
+  padding:13px 15px;
+  border-left:3px solid rgba(142,146,119,.6);
+  background:rgba(142,146,119,.07);
+}
+.flow-example h4{
+  margin:0 0 7px;
+  font-size:8px;letter-spacing:.12em;text-transform:uppercase
+}
+.flow-example p{
+  margin:0;color:var(--muted);font-size:9px;line-height:1.6
+}
+.flow-example p+p{margin-top:7px}
+@media(max-width:900px){.lineage-explainer{grid-template-columns:1fr}}
 </style></head><body><div class="shell">
 <header><a class="wordmark" href="../">SIDONIE</a><nav><a href="../guide/">Guide</a><a href="./">Culture at Work</a><a href="../guide/sources/">Sources</a></nav></header>
 <section class="hero"><img src="../guide/assets/sidonie-stamp.jpg" alt=""><div class="kicker">Culture at Work · England · system map</div><h1>Follow the money.<br>Follow the rules.</h1><p class="intro">A map of the institutions, rules and flows that shape cultural life. The columns are functional categories, not a hierarchy: public policy, regulation, public funding, public-service media, cultural institutions, private capital, and people/attention.</p></section>
@@ -87,7 +182,71 @@ function expandFamily(id){
  const parent=byId[id];
  expandZone.classList.add("open");
  expandZone.innerHTML=`<div class="expand-head"><h3>${parent.name}</h3><button class="collapse-btn" onclick="collapseFamily()">Collapse ↑</button></div>
- <div class="expand-grid">${kids.map(k=>`<button class="child-node" onclick="showChildProfile('${k.id}')"><strong>${k.name}</strong><span>${k.label}</span><span class="get-closer">Explore institution →</span></button>`).join("")}</div>`;
+ <div class="lineage">
+ <div class="lineage-title">Keep the institutional genealogy in view</div>
+ <div class="lineage-track">
+   <div class="lineage-step"><strong>UK Parliament</strong><span>law · scrutiny · supply</span></div>
+   <div class="lineage-arrow">→</div>
+   <div class="lineage-step"><strong>HM Treasury</strong><span>public-spending framework</span></div>
+   <div class="lineage-arrow">→</div>
+   <div class="lineage-step"><strong>DCMS</strong><span>sponsor department · Grant-in-Aid</span></div>
+   <div class="lineage-arrow">→</div>
+   <div class="lineage-step"><strong>National museums &amp; galleries</strong><span>NDPBs · exempt charities</span></div>
+ </div>
+ <div class="lineage-branches">
+   <div class="lineage-branch"><b>Legal / regulatory</b>Founding legislation · charity law · DCMS as Principal Regulator · institution-specific framework documents.</div>
+   <div class="lineage-branch"><b>Public finance</b>Parliamentary supply → Treasury spending framework → DCMS Grant-in-Aid → institution. Capital and operating funding must be distinguished.</div>
+   <div class="lineage-branch"><b>Governance / appointments</b>Trustee and Director appointment routes differ by museum; ministerial or Prime Ministerial roles remain visible in each institutional profile.</div>
+ </div>
+</div>
+<div class="lineage-explainer">
+  <div class="explainer-card">
+    <h4>1. Parliament: where authority begins</h4>
+    <p>Parliament does not decide which exhibition a museum mounts. Its role is further upstream. It passes the laws that create powers and duties, approves public expenditure through the Supply process, and scrutinises ministers and public bodies.</p>
+    <p><b>In practical terms:</b> Parliament creates the legal and financial environment within which a national museum can exist and receive public money.</p>
+  </div>
+  <div class="explainer-card">
+    <h4>2. Treasury: how much government can spend</h4>
+    <p>HM Treasury controls the wider public-spending framework. It does not normally send a cheque directly to the British Museum or Tate. Instead, spending settlements determine the resources available to departments such as DCMS.</p>
+    <p><b>Think of it as:</b> Treasury sets the size and rules of the public-finance envelope; DCMS then operates inside it.</p>
+  </div>
+  <div class="explainer-card">
+    <h4>3. DCMS: the sponsor department</h4>
+    <p>DCMS is the government department through which these national museums are principally connected to central government. It provides Grant-in-Aid, agrees formal framework documents, monitors financial and governance requirements and participates in appointment systems.</p>
+    <p><b>But sponsorship is not ownership.</b> A museum's trustees retain legal responsibilities of their own. The interesting question is therefore where formal independence ends and financial, appointment or regulatory leverage begins.</p>
+  </div>
+  <div class="explainer-card">
+    <h4>4. The museum: an institution with several identities</h4>
+    <p>A national museum may simultaneously be an <b>NDPB</b> (a public body operating at arm's length from ministers), an <b>exempt charity</b>, a statutory corporation or trustee body, an employer, a recipient of Grant-in-Aid, and the owner of commercial subsidiaries.</p>
+    <p>Those labels matter because each brings different duties, controls and sources of authority. “Independent” and “publicly funded” are therefore not opposites.</p>
+  </div>
+  <div class="explainer-card">
+    <h4>What is Grant-in-Aid?</h4>
+    <p>Grant-in-Aid is money voted by Parliament and provided by a sponsoring department to support an arm's-length public body. It is not the same as ticket income, a private donation, a restricted philanthropic gift or National Lottery money.</p>
+    <p>When SIDONIE gives a Grant-in-Aid figure, the financial year and primary accounting source should always appear beside it.</p>
+  </div>
+  <div class="explainer-card">
+    <h4>What is an exempt charity?</h4>
+    <p>An exempt charity is still a charity and still subject to charity law, but it is not registered with and directly regulated by the Charity Commission in the ordinary way. For these sponsored national museums, DCMS can have the role of <b>Principal Regulator</b>.</p>
+    <p>This creates an important overlap between cultural policy, public-body accountability and charity regulation.</p>
+  </div>
+  <div class="explainer-card">
+    <h4>Who actually makes decisions?</h4>
+    <p>Do not read the arrows as a simple chain of command. Ministers, departments, trustees and executives exercise different kinds of power. Trustees may hold the legal duty to govern the museum; the Director manages it; government may control funding conditions or appointments; regulators constrain particular activities.</p>
+    <p>SIDONIE therefore maps <b>different kinds of authority separately</b> rather than calling all of them “control”.</p>
+  </div>
+  <div class="explainer-card">
+    <h4>Why follow the genealogy?</h4>
+    <p>If a museum changes course, the cause may not sit inside the museum alone. It may originate in legislation, a Treasury settlement, a DCMS framework, an appointment, a funding condition, charity law, a donor restriction, commercial pressure or an internal executive decision.</p>
+    <p>The purpose of this layer is to make those possible causes visible before judging what happened.</p>
+  </div>
+</div>
+<div class="flow-example">
+  <h4>Read one line from left to right</h4>
+  <p><b>Parliament → Treasury → DCMS → museum</b> does <em>not</em> mean that Parliament tells a curator what to hang. It means that one important genealogy of public authority and money runs from parliamentary authorisation, through the government's spending framework, into the sponsor department and finally into the institution.</p>
+  <p>Other genealogies can enter the museum from elsewhere: <b>private donors → restricted gifts</b>; <b>audiences → earned income</b>; <b>charity law → trustee duties</b>; <b>appointment processes → Board composition</b>. As the map deepens, these remain visible alongside the institution itself.</p>
+</div>
+<div class="expand-grid">${kids.map(k=>`<button class="child-node" onclick="showChildProfile('${k.id}')"><strong>${k.name}</strong><span>${k.label}</span><span class="get-closer">Explore institution →</span></button>`).join("")}</div>`;
  expandZone.scrollIntoView({behavior:"smooth",block:"nearest"});
 }
 function collapseFamily(){expandZone.classList.remove("open");expandZone.innerHTML="";}
@@ -95,7 +254,7 @@ const selectBase=select;
 select=function(id){
  selectBase(id);
  if(EXPAND_CHILDREN[id]){
-   panel.innerHTML += `<div class="panel-section"><button class="collapse-btn" onclick="expandFamily('${id}')">Get closer →</button></div>`;
+   panel.insertAdjacentHTML("afterbegin", `<div class="get-closer-callout"><button onclick="expandFamily('${id}')"><strong>Explore the institutions inside this group →</strong><span>Open the next layer without leaving the system map.</span></button></div>`);
  }
 };
 </script></body></html>
