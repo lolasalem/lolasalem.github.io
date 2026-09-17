@@ -1,0 +1,26 @@
+entity_id,canonical_name,entity_type,legal_name,jurisdiction,start_date,end_date,predecessor_ids,successor_ids,legal_status,current_status,notes
+uk-parliament,UK Parliament,government_body,UK Parliament,United Kingdom,,,,,legislature,active,
+hm-treasury,HM Treasury,government_department,HM Treasury,United Kingdom,,,,,ministerial department,active,
+dcms,"Department for Culture, Media and Sport",government_department,"Department for Culture, Media and Sport",United Kingdom,1997,,,,ministerial department,active,predecessor chain to be modelled
+ace,Arts Council England,public_funder,Arts Council England,England,,,,,NDPB / charity,active,
+bfi,British Film Institute,cultural_body,British Film Institute,United Kingdom,,,,,charity / cultural body,active,
+historic-england,Historic England,heritage_body,Historic Buildings and Monuments Commission for England,England,,,,,NDPB,active,
+charity-commission,Charity Commission,regulator,Charity Commission for England and Wales,England and Wales,,,,,non-ministerial department,active,
+bbc,BBC,public_media,British Broadcasting Corporation,United Kingdom,,,,,Royal Charter corporation,active,
+ofcom,Ofcom,regulator,Office of Communications,United Kingdom,,,,,statutory corporation,active,
+nldf,National Lottery Distribution Fund,funding_mechanism,National Lottery Distribution Fund,United Kingdom,,,,,public fund,active,
+british-museum,British Museum,museum,British Museum,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+va,Victoria and Albert Museum,museum,Victoria and Albert Museum,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+tate,Tate,museum,Tate,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+national-gallery,National Gallery,museum,National Gallery,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+npg,National Portrait Gallery,museum,National Portrait Gallery,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+natural-history,Natural History Museum,museum,Natural History Museum,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+science-museum,Science Museum Group,museum,Science Museum Group,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+iwm,Imperial War Museums,museum,Imperial War Museums,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+rmg,Royal Museums Greenwich,museum,Royal Museums Greenwich,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+wallace,Wallace Collection,museum,Wallace Collection,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+soane,Sir John Soane’s Museum,museum,Sir John Soane’s Museum,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+nml,National Museums Liverpool,museum,National Museums Liverpool,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+armouries,Royal Armouries,museum,Royal Armouries,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+museum-home,Museum of the Home,museum,Museum of the Home,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
+horniman,Horniman Museum and Gardens,museum,Horniman Museum and Gardens,United Kingdom,,,,,national cultural institution,active,legal identity/status to be source-normalised
