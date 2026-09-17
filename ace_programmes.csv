@@ -1,0 +1,6 @@
+programme_id,programme_name,programme_type,funding_source,start_date,end_date,documented_scope,source_document_id,caveat
+ace-ip-2023-26,2023–26 Investment Programme,portfolio / regular investment,Government + National Lottery,2023-04-01,2026-03-31,"ACE reported £446m per year at announcement; parliamentary evidence says £351.8m DCMS, £0.5m DfE, £93.9m Lottery.",doc-cms-ace-2023-26,Do not infer each recipient's source split without recipient/programme-level data.
+ace-nlpg,Arts Council National Lottery Project Grants,project grants,National Lottery,,,Programme exists as one of five key ACE investment programmes in 2023/24.,doc-ace-ara-2023-24,Recipient-level ingestion pending.
+ace-dycp,Developing Your Creative Practice,individual/project development,National Lottery,,,Programme exists as one of five key ACE investment programmes in 2023/24.,doc-ace-ara-2023-24,Recipient-level ingestion pending.
+ace-capital,Capital funds,capital,mixed / programme-specific,,,Programme exists as one of five key ACE investment programmes in 2023/24.,doc-ace-ara-2023-24,Source split and recipient-level ingestion pending.
+ace-music-hubs,Music Hubs,music education,DfE / programme-specific,,,Programme exists as one of five key ACE investment programmes in 2023/24.,doc-ace-ara-2023-24,Recipient-level ingestion pending.

@@ -1,0 +1,5 @@
+question_id,entity_id,question,priority,missing_evidence,research_status
+ace-q1,ace,"Obtain machine-readable 2023–26 portfolio recipient table with annual awards, discipline and geography.",high,ACE National Investment Dashboard/downloadable data,open
+ace-q2,ace,"Split each recipient's annual ACE receipts by programme and source: Exchequer, Lottery, DfE, capital, transition, project grant.",high,ACE transaction/award datasets and recipient funding agreements,open
+ace-q3,ace,Ingest all 990 2023–26 portfolio organisations rather than displaying only the audited top-20 recipient layer.,high,official portfolio dataset,open
+ace-q4,ace,Reconcile announced 2023–26 award values with actual cash received by financial year.,high,award data + annual accounts/payment data,open

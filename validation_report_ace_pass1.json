@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "recipient_rows": 20,
+  "top20_total_gbp": 186300000,
+  "area_totals_top20_gbp": {
+    "London": 87400000,
+    "Midlands": 24000000,
+    "North": 65400000,
+    "South West": 6400000,
+    "South East": 3100000
+  },
+  "critical_caveat": "Top-20 amounts are total ACE funding received across multiple projects in 2023/24. They must not be presented as NPO-only or as a clean Exchequer/Lottery split.",
+  "canonical_html_modified": false
+}
