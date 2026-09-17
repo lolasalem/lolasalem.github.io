@@ -1,35 +1,11 @@
 {
   "schema_version": "1.0",
-  "principles": [
-    "no claim without claim_evidence or explicit UNVERIFIED status",
-    "no financial amount without period, source document and locator",
-    "no framework document treated as constitutive law unless it actually is",
-    "institutional self-description stored separately from documented fact",
-    "derived metrics must expose formula and input observation IDs",
-    "unknown values remain null; never infer merely to complete a row",
-    "historical claims carry valid_from/valid_to where known",
-    "contradictions are recorded, not silently reconciled",
-    "every imported or transformed record retains provenance"
-  ],
-  "publication_gates": {
-    "documented_fact": [
-      "at least one supporting primary/independent source",
-      "source locator present where document pagination/clauses allow"
-    ],
-    "financial_observation": [
-      "period present",
-      "document_id present",
-      "locator present",
-      "restriction status assessed"
-    ],
-    "sidonie_analysis": [
-      "input claim IDs or observation IDs present",
-      "analysis labelled derived"
-    ],
-    "constitutional_change": [
-      "instrument_document_id present",
-      "what_changed explicit",
-      "what_did_not_change or unknown explicit"
-    ]
-  }
+  "hard_rules": [
+    "unknown remains unknown",
+    "no financial amount without period/source/locator",
+    "institutional self-description is separate from documented fact",
+    "framework documents are administrative evidence unless legally constitutive",
+    "contradictions are recorded rather than silently reconciled",
+    "derived metrics expose formula and inputs"
+  ]
 }

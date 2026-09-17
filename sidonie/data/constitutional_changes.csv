@@ -1,1 +1,17 @@
 change_id,entity_id,date,change_type,authority_before,instrument_document_id,authority_after,what_changed,what_did_not_change,evidence_status
+chg-bm-1963,british-museum,1963,statutory settlement,,doc-bm-act-1963,,Modern statutory architecture established,Administrative frameworks remain downstream,verified
+chg-nhm-1963,natural-history,1963,statutory separation,,doc-bm-act-1963,,Separate Natural History trustee body created,Collection duties remain statutory,verified
+chg-va-1983,va,1983,statutory settlement,,doc-nha-1983,,Modern Board/functions established,Current administrative layer downstream,verified
+chg-sm-1983,science-museum,1983,statutory settlement,,doc-nha-1983,,Modern Board architecture established,Current administrative layer downstream,verified
+chg-ra-1983,armouries,1983,statutory settlement,,doc-nha-1983,,Board and functions established,Earlier ancestry pending,verified
+chg-tate-1992,tate,1992,statutory settlement,,doc-mga-1992,,Modern Board/functions established,National Gallery relationship retained,verified
+chg-ng-1992,national-gallery,1992,statutory settlement,,doc-mga-1992,,Modern Board/functions established,Public sponsorship remains upstream,verified
+chg-npg-1992,npg,1992,statutory settlement,,doc-mga-1992,,Modern Board/functions established,Earlier founding history remains distinct,verified
+chg-wallace-1992,wallace,1992,statutory settlement,,doc-mga-1992,,Modern Board/functions established,Founding restrictions pending,verified
+chg-rmg-1934,rmg,1934,founding statutory settlement,,doc-nmm-1934,,National Maritime Museum established,Later group structure downstream,verified
+chg-iwm-1920,iwm,1920,founding statutory settlement,,doc-iwm-1920,,Early statutory basis established,Later amendment follows,verified
+chg-iwm-1955,iwm,1955,statutory amendment,,doc-iwm-1955,,Post-war settlement modified,1920 remains historically upstream,verified
+chg-soane-1833,soane,1833,founding settlement,,doc-soane-1833,,House/collection vested under specific arrangements,Modern framework downstream,verified
+chg-nml-1986,nml,1986,transfer / national settlement,,doc-nml-1986,,National trustee body created and collections transferred,Earlier component histories separate,verified
+chg-moth-2020,museum-home,2020-09-09,constitutional amendment,,doc-moth-ch,,Governing-document amendment recorded,Exact wording unresolved pending filed urtext,verified event / wording unresolved
+chg-moth-2026,museum-home,2026-03-17,new articles,,doc-moth-co,,New Articles adopted; name change follows,Material object change not yet established,verified event / wording unresolved

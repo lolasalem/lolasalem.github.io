@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "errors": [],
+  "counts": {
+    "entities": 21,
+    "documents": 14,
+    "constitutional_changes": 16,
+    "open_questions": 4
+  }
+}

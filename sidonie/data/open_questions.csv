@@ -1,1 +1,5 @@
 question_id,entity_id,question,priority,missing_evidence,research_status,last_checked
+q-moth,museum-home,Exactly which object clauses changed in 2020 and 2026?,high,2020 object statement; 2021 and 2026 Articles,open,2026-09-17
+q-horniman,horniman,"What clauses changed in the 1993, 1996 and 2018 governing-document amendments?",high,historic amendment texts,open,2026-09-17
+q-wallace,wallace,How do founding/bequest restrictions map onto the 1992 settlement and current powers?,high,founding/bequest urtexts,open,2026-09-17
+q-dcms,dcms,What predecessor-body chain should be represented before DCMS's creation in 1997?,medium,machinery-of-government instruments,open,2026-09-17

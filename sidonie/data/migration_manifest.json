@@ -1,0 +1,20 @@
+{
+  "migration_version": "1.0",
+  "status": "partial validated migration",
+  "migrated": [
+    "21 seeded entities",
+    "14 primary/official documents",
+    "16 constitutional changes",
+    "4 high/medium-priority open questions"
+  ],
+  "pending": [
+    "framework-document register",
+    "financial observations",
+    "map relationships",
+    "appointments",
+    "institutional claims",
+    "independent scrutiny",
+    "discrepancies"
+  ],
+  "rule": "Pending material remains pending; it is not inferred from earlier prose."
+}
