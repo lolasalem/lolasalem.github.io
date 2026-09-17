@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C21",
+  "institution_register_rows": 45,
+  "four_nations": true,
+  "notes": [
+    "Public register uses full institution names.",
+    "Internal vocabulary map separates IDs from public labels.",
+    "Raw dependence schema has a reader-facing label map."
+  ]
+}
