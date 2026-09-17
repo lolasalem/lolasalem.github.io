@@ -1,0 +1,4 @@
+entity_id,canonical_name,entity_type,legal_name,jurisdiction,start_date,end_date,predecessor_ids,successor_ids,legal_status,current_status,notes
+gambling-commission,Gambling Commission,regulator,Gambling Commission,Great Britain,,,,,executive NDPB,active,Regulates National Lottery licence
+english-heritage-trust,English Heritage Trust,heritage_operator,The English Heritage Trust,England,2015-04-01,,,,charity; subsidiary/member relationship with Historic England,active,Manages National Heritage Collection under licence
+national-lottery-heritage-fund,National Lottery Heritage Fund,lottery_distributor,National Heritage Memorial Fund,United Kingdom,,,,,Lottery distributing body,active,Distributes Lottery funding for heritage

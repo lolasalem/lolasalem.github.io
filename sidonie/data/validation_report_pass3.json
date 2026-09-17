@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "errors": [],
+  "counts": {
+    "new_entities": 3,
+    "documents": 9,
+    "complex_relationships": 15,
+    "research_questions_updated": 7
+  }
+}

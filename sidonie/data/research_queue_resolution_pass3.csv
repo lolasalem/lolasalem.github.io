@@ -1,0 +1,8 @@
+question_id,status,resolution
+q-bbc-map,resolved,"BBC is a Royal Charter corporation, not an ordinary sponsored NDPB. Ofcom regulation is separately constituted under Charter/Agreement/statute."
+q-ofcom-map,partially resolved,Administrative framework mapped; statutory upstream Office of Communications Act 2002 / Communications Act 2003 still to migrate.
+q-lottery-map,resolved at system level,"NLDF control, administration, investment and distributor architecture mapped; individual annual flows still to ingest."
+q-charity-reg,resolved,DCMS principal-regulator role separated from Charity Commission enforcement and ordinary charity regulation.
+q-ace-downstream,partially resolved,Lottery distributor role mapped; individual ACE NPO grant flows still to ingest.
+q-bfi-lottery,partially resolved,BFI Lottery distributor role mapped; annual Lottery receipts/distributions still to ingest.
+q-he-englishheritage,resolved at governance level,"Sole-member, licence and monitoring relationships mapped; current financial flows still to ingest."
