@@ -1,0 +1,2 @@
+discrepancy_id,source_document_id,published_headline_gbp,sum_of_17_published_awards_gbp,difference_gbp,status,sidonie_treatment
+bfi-apf-2023-aggregate,doc-bfi-apf-2023,6480000,6048439,431561,open,Preserve all 17 published recipient amounts and separately flag that their arithmetic sum does not equal the page headline. Do not silently alter either figure.

@@ -1,0 +1,27 @@
+award_id,recipient,programme,project,amount_gbp,start,end,funding_source,source_document_id,locator,award_type
+bfi-apf-broadway,Broadway Cinema,Audience Projects Fund,BROADER,480000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 31–36,multi-year
+bfi-apf-home,HOME,Audience Projects Fund,Re-building a diverse audience,555000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 37–39,multi-year
+bfi-apf-phoenix,Phoenix Leicester,Audience Projects Fund,MyPhoenix 2026,270000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 41–42,multi-year
+bfi-apf-qft,Queen's Film Theatre,Audience Projects Fund,Priority Audiences,270000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 44–45,multi-year
+bfi-apf-showroom,Showroom Cinema,Audience Projects Fund,Another Country,480000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 47–48,multi-year
+bfi-apf-watershed,Watershed,Audience Projects Fund,Rebuilding audiences better – with inclusion at the centre,585000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 50–51,multi-year
+bfi-apf-artsalive,Arts Alive,Audience Projects Fund,Flicks in the Sticks – Reaching Out…,180000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 54–56,multi-year
+bfi-apf-rtf,Reclaim The Frame,Audience Projects Fund,Reclaim The Frame With Me,420000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 58–59,multi-year
+bfi-apf-carousel,Carousel Project,Audience Projects Fund,Oska Bright Film Festival,363000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 61–62,multi-year
+bfi-apf-tof,Tongues on Fire,Audience Projects Fund,UK Asian Film Festival 2023-2026,105000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 64–65,multi-year
+bfi-apf-cfa,Cinema For All,Audience Projects Fund,Building diverse grassroots audiences,520440,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 68–69,multi-year
+bfi-apf-ico,Independent Cinema Office,Audience Projects Fund,Support for screening specialised film,1329999,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 70–72,multi-year
+bfi-apf-ylc,YourLocalCinema,Audience Projects Fund,YourLocalCinema Audience Development,114000,2023-04-01,2026-03-31,National Lottery,doc-bfi-apf-2023,lines 73–75,multi-year
+bfi-apf-quad,Derby QUAD,Audience Projects Fund,New Worlds of Cinema,70000,2023-04-01,2024-03-31,National Lottery,doc-bfi-apf-2023,lines 76–80,short-term
+bfi-apf-flatpack,Flatpack Festival,Audience Projects Fund,Open Up,90000,2023-04-01,2024-03-31,National Lottery,doc-bfi-apf-2023,lines 82–83,short-term
+bfi-apf-storyfutures,StoryFutures,Audience Projects Fund,Virtual Reality Hubs Network,66000,2023-04-01,2024-03-31,National Lottery,doc-bfi-apf-2023,lines 85–87,short-term
+bfi-apf-tyneside,Tyneside Cinema,Audience Projects Fund,Tyneside Cinema Audience Development Project,150000,2023-04-01,2024-03-31,National Lottery,doc-bfi-apf-2023,lines 88–90,short-term
+bfi-skills-yorkshire,Screen Yorkshire,Skills Clusters,North of England cluster,2300000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 20–27,three-year award
+bfi-skills-filmlondon,Film London,Skills Clusters,London/Herts/Surrey/Bucks cluster,2200000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 20–27,three-year award
+bfi-skills-scotland,Screen Scotland,Skills Clusters,Scotland cluster,1100000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 20–27,three-year award
+bfi-skills-central,Create Central,Skills Clusters,West Midlands cluster,1000000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 20–27,three-year award
+bfi-skills-ni,Northern Ireland Screen,Skills Clusters,Northern Ireland cluster,900000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 20–27,three-year award
+bfi-skills-resource,Resource Productions,Skills Clusters,Berkshire cluster,600000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 20–27,three-year award
+bfi-skills-screenskills,ScreenSkills,Skills Bursary Fund,Skills Bursary Fund,1500000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 33–35,delegated bursary fund
+bfi-education-intofilm,Into Film,Education / young people,Teaching with Film + Young Creatives + Careers and Progression,12400000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 46–47,three-year award
+bfi-education-nsc,National Saturday Club,Education / young people,Young Creatives,1500000,2023,2026,National Lottery,doc-bfi-skills-2023,lines 46–47,three-year award

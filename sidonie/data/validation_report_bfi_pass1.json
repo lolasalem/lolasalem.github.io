@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "validation_status": "PASS WITH SOURCE DISCREPANCY FLAG",
+  "checks": {
+    "audience_projects_award_rows": 17,
+    "sum_of_17_published_audience_awards_gbp": 6048439,
+    "published_page_headline_gbp": 6480000,
+    "published_headline_minus_itemised_sum_gbp": 431561,
+    "skills_cluster_rows": 6,
+    "skills_cluster_sum_gbp": 8100000,
+    "published_skills_cluster_total_gbp": 8100000,
+    "total_direct_award_rows_in_pass": 26
+  },
+  "source_discrepancy": "The BFI page headline says \u00a36.48m for 17 Audience Projects Fund projects, while the 17 amounts printed on that same page sum to \u00a36,048,439. SIDONIE preserves both and flags the \u00a3431,561 mismatch instead of reconciling it silently.",
+  "source_separation": "Every recipient row in this pass is National Lottery. BFI Exchequer Grant-in-Aid remains a separate upstream flow.",
+  "official_machine_readable_register": "BFI publishes official OOXML award files, including April 2024\u2013March 2025 and April 2022-to-date. The binary export was discoverable but not ingestible in this environment, so no rows from it were fabricated.",
+  "canonical_html_modified": false
+}
