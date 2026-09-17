@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "errors": [],
+  "counts": {
+    "entity_extensions": 6,
+    "relationships": 24,
+    "financial_flows": 19,
+    "open_questions": 7
+  },
+  "scope": "All 15 museums plus ACE, BFI, Historic England and BBC financial row; BBC/Ofcom/Lottery/Charity Commission complex authority relationships queued rather than flattened."
+}

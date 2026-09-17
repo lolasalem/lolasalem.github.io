@@ -1,0 +1,8 @@
+question_id,entity_id,question,priority,missing_evidence,research_status,last_checked
+q-bbc-map,bbc,"Separate the BBC's Charter/Agreement, licence-fee/Exchequer accounting treatment, DCMS role and Ofcom regulation before drawing a single DCMS→BBC arrow.",high,Royal Charter; Framework Agreement; Communications/Broadcasting legislation; Ofcom operating framework; DCMS/BBC accounts,open,2026-09-17
+q-ofcom-map,ofcom,Reconstruct Ofcom's statutory authority and its relationship to DCMS and BBC without treating sponsorship as regulation.,high,Office of Communications Act 2002; Communications Act 2003; current framework documents,open,2026-09-17
+q-lottery-map,nldf,"Separate parliamentary appropriation/accounting, Lottery duty receipts, distributing bodies and grant recipients.",high,National Lottery legislation; NLDF accounts; distributor framework documents,open,2026-09-17
+q-charity-reg,charity-commission,Separate ordinary Charity Commission regulation from DCMS Principal Regulator arrangements for exempt museums.,high,Charities Act 2011; Principal Regulator regulations/frameworks,open,2026-09-17
+q-ace-downstream,ace,Map ACE's downstream NPO/IPS grant flows separately from DCMS Grant-in-Aid.,high,ACE audited accounts and published investment data,open,2026-09-17
+q-bfi-lottery,bfi,Separate BFI Exchequer Grant-in-Aid from National Lottery receipts/distribution and BFI group trading.,high,BFI Group and National Lottery audited accounts 2024–25,open,2026-09-17
+q-he-englishheritage,historic-england,"Map Historic England → English Heritage Trust relationship, including National Collection management and funding.",high,Historic England accounts/framework; English Heritage Trust accounts/agreement,open,2026-09-17
