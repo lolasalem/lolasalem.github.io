@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C24",
+  "legacy_ontology_hidden": true,
+  "register_collapsed": true,
+  "integrated_key": true,
+  "integrated_relationships": true,
+  "taxpayer_money": true,
+  "museum_route": true,
+  "regression": true
+}
