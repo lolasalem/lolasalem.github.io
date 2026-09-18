@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C26",
+  "compact_key": true,
+  "register_relocated_after_workspace": true,
+  "obsolete_museum_cta_removed_on_load": true,
+  "register_collapsed": true,
+  "reader_name_cleanup": true,
+  "regression": true
+}
