@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C25",
+  "new_relationship_entities": 14,
+  "right_panel_routes": 7,
+  "C24_integrated_relationships": true,
+  "register_collapsed": true,
+  "legacy_sections_hidden": true,
+  "regression": true
+}
