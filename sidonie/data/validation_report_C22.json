@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "build": "C22",
+  "deepened_entities": 15,
+  "register_collapsed_by_default": true,
+  "acronym_rules": 15,
+  "regression": {
+    "C21_register": true,
+    "C20_sector_families": true,
+    "C19_routes": true,
+    "C16_private": true,
+    "BFI": true,
+    "Heritage": true,
+    "museums": true
+  },
+  "caveat": "Funding architecture strings identify documented source types but are not audited percentage decompositions unless separately reconciled."
+}
