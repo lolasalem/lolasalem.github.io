@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C37",
+  "chain_steps": 6,
+  "places": 4,
+  "strategy_comparisons": 4,
+  "technical_sections_collapsed": 4,
+  "font_floor": "11px",
+  "C30_place_data_retained": true,
+  "C31_comparison_data_retained": true
+}
