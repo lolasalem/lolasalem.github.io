@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C38",
+  "pilot_places": 4,
+  "redundant_matrix_removed": true,
+  "vague_category_labels_as_answers_removed": true,
+  "liverpool_component_rows": 13,
+  "strategy_claim_target_budget_separated": true,
+  "unknowns_explicit": true
+}
