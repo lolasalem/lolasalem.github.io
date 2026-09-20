@@ -1,0 +1,6 @@
+group,reason
+strategy_machinery_comparisons_C31.csv,not fully canonicalised
+legacy source registries,source-ID reconciliation incomplete
+individual museum output extraction files,institution values not fully populated
+RO5/local authority finance manifests,national finance ingestion pending
+Charity Commission/OSCR manifests,bulk charity ingestion pending

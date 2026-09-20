@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "build": "C54",
+  "canonical_places": 4,
+  "place_machinery_records": 20,
+  "scrutiny_records": 4,
+  "funding_streams": 13,
+  "decisions": 4,
+  "relationships": 32,
+  "place_evidence_gaps": 19,
+  "derived_place_edges": 45,
+  "archive_candidates": 15,
+  "deletion_authorized": false
+}
