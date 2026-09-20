@@ -1,0 +1,13 @@
+field,definition
+source_id,Stable source identifier
+title,Exact document/dataset title
+issuer,Issuing authority
+publication_date,Publication date
+reporting_period,Period covered
+document_type,Act / SI / accounts / framework / register / dataset / appointment / strategy etc.
+url,Canonical source URL
+accessed_date,Access date
+version,Version/revision where relevant
+archival_status,live / archived / superseded
+jurisdiction,England / Wales / Scotland / Northern Ireland / UK / local
+source_quality,Primary / official / secondary

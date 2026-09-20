@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "build": "C32",
+  "fact_fields": 15,
+  "source_fields": 12,
+  "entity_fields": 16,
+  "national_population_universes": 6,
+  "hard_evidence_rules": 10,
+  "locator_required": true,
+  "unknown_not_zero_rule": true,
+  "strategy_and_observation_separate": true
+}

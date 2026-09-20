@@ -1,0 +1,11 @@
+rule_id,rule
+R1,No number without reporting period and source.
+R2,No institutional relationship without documentary evidence.
+R3,No claim of authority without legal or constitutional basis.
+R4,No person-role connection without a dated appointment or institutional record.
+R5,Page/note/table/section locator required for document-derived facts.
+R6,"Unknown, not reconciled and not evidenced are valid values; zero is never inferred from absence."
+R7,Public institution/brand and reporting legal entity are stored separately.
+R8,"Taxpayer, Lottery, local-tax, tax-relief, philanthropy, sponsorship and earned-income routes remain separate."
+R9,Historical claims are never overwritten by later strategy or office-holder records.
+R10,Strategy claims and observed machinery/results are independent records joined only through evidence.

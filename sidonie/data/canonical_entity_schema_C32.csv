@@ -1,0 +1,17 @@
+field,definition
+entity_id,Stable machine ID
+public_name,Full reader-facing name
+legal_name,Exact legal entity
+entity_type,institution / funder / regulator / authority / fund / category / person
+sector,museum / theatre / opera / conservatoire / etc.
+nation,UK nation
+region,Region
+local_authority,Local authority
+postcode,Postcode where relevant
+charity_number,Regulator number
+company_number,Companies House number
+public_body_status,NDPB / statutory corporation / local authority / etc.
+governing_instrument,Act / Charter / constitution / articles
+sponsor_or_regulator,Formal sponsor/regulator
+review_tier,Tier 1 forensic / Tier 2 structured / Tier 3 register
+last_verified,Last full verification date

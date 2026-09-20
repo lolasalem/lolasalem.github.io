@@ -1,0 +1,16 @@
+field,definition,requirement
+fact_id,Stable unique fact identifier,required
+entity_id,Stable institution/authority/person ID,required
+entity_name,Full public-facing name,required
+fact_type,finance / power / appointment / strategy / output / legal / people / asset,required
+field_name,Canonical field being asserted,required
+value,"Observed value, never silently imputed",required
+unit,GBP / percent / person / text / count / date etc.,where applicable
+period_start,Start of reporting/validity period,where applicable
+period_end,End of reporting/validity period,where applicable
+as_of_date,Date fact was true/checked,required for current facts
+source_id,Document/source identifier,required
+locator,"Page, note, table, section, paragraph or dataset column",required
+evidence_class,primary law / audited accounts / regulator / formal appointment / official dataset / institutional record / secondary,required
+verification_status,verified / partial / unresolved / superseded,required
+notes,Caveat or reconciliation note,optional

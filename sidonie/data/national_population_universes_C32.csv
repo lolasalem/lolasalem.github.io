@@ -1,0 +1,7 @@
+universe,source_system,population,fields,jurisdiction,source_id
+England & Wales charities,Charity Commission full register,Daily full register JSON/TXT + live API,Identity; trustees; finances; classifications; employees/volunteers where returned,England and Wales,U01
+Arts Council England portfolio,2023–26 / 2026–27 extension,990 organisations in 2023–26 portfolio,Organisation; discipline; annual investment; geography; programme status,England,U02
+DCMS public bodies,Current framework-document collection,Sponsored cultural public bodies,Legal/governance/accountability relationship; sponsor department; framework dates,UK/England remit varies,U03
+English local authorities,RO5 / revenue outturn,Authority-level cultural-services returns,Libraries; archives; museums/galleries; arts development; theatres/public entertainment; heritage; financing,England,U04
+Scottish charities,OSCR register / annual-return data,Scottish charity universe,Identity; trustees where published; accounts/returns; purposes,Scotland,U05
+Strategic Authorities,2026 devolution architecture,Foundation / Mayoral / Established Mayoral authorities,Powers; settlements; constituent councils; decision/scrutiny machinery,England,U06
