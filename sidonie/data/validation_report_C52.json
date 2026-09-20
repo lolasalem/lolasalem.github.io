@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C52",
+  "pages_updated": 2,
+  "canonical_contract_added": true,
+  "people_data_confined_to_people_page": true,
+  "old_data_deletion_authorized": false,
+  "archive_after_full_migration": true,
+  "dependency_map_pages": 7,
+  "audit_entries": 143
+}

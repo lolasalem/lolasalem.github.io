@@ -1,0 +1,9 @@
+action,path_or_group,reason
+KEEP,sidonie/data/canonical/**,Live source of truth from C51 onward.
+KEEP,sidonie/data/derived/**,Generated network/analysis outputs; never hand-edit.
+KEEP,sidonie/data/DATA_VERSION,Identifies live database build.
+KEEP,sidonie/data/validation_report.json,Integrity result for live database.
+ARCHIVE,all C-numbered CSV/JSON data files,Historical provenance. Safe to move to data/archive after all site pages are migrated; do not delete yet.
+KEEP FOR NOW,C29–C40 local-government research files,Local Government page still contains an embedded research snapshot and source identifiers from these passes.
+KEEP FOR NOW,C44–C46 finance/output source files,Institution/finance/output pages have not yet all been migrated to canonical loading.
+DO NOT DELETE,HTML pages and assets,C52 changes only People and Institutions; other live pages remain independent.

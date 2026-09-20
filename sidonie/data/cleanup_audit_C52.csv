@@ -1,0 +1,144 @@
+release_zip,file,status,reason
+sidonie-C21-NATIONAL-AUDIT.zip,data/public_vocabulary.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C21-NATIONAL-AUDIT.zip,data/validation_report_C21_audit.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C21-NATIONAL-AUDIT.zip,data/dependence_public_labels.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C21-NATIONAL-AUDIT.zip,data/national_institution_register.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C22-THOROUGH-ENTITY-PASS.zip,data/national_entity_details_pass1.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C22-THOROUGH-ENTITY-PASS.zip,data/validation_report_C22.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C22-THOROUGH-ENTITY-PASS.zip,data/acronym_style_guide.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C23-INSTITUTIONS.zip,data/institution_details_C23.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C23-INSTITUTIONS.zip,data/validation_report_C23.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C24-MAP-CLEANUP-FINAL.zip,data/relationship_reference_crosswalk_C24.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C24-MAP-CLEANUP-FINAL.zip,data/validation_report_C24.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C25-RELATIONSHIP-DEPTH.zip,data/validation_report_C25.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C25-RELATIONSHIP-DEPTH.zip,data/relationship_reference_crosswalk_C25_additions.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C26-VISUAL-RESET.zip,data/validation_report_C26.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C27-CONTENT-QUALITY.zip,data/validation_report_C27.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C28-LEADERSHIP-GOVERNANCE.zip,data/current_leadership_C28.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C28-LEADERSHIP-GOVERNANCE.zip,data/validation_report_C28.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C28-LEADERSHIP-GOVERNANCE.zip,data/current_leadership_sources_C28.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C29-DEVOLUTION-MACHINERY.zip,data/devolution_funding_C29.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C29-DEVOLUTION-MACHINERY.zip,data/devolution_diagnostic_C29.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C29-DEVOLUTION-MACHINERY.zip,data/devolution_sources_C29.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C29-DEVOLUTION-MACHINERY.zip,data/devolution_powers_C29.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C29-DEVOLUTION-MACHINERY.zip,data/validation_report_C29.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C30-PLACE-BY-PLACE-DEVOLUTION.zip,data/validation_report_C30.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C30-PLACE-BY-PLACE-DEVOLUTION.zip,data/place_machinery_sources_C30.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C30-PLACE-BY-PLACE-DEVOLUTION.zip,data/place_machinery_C30.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C31-STRATEGY-MACHINERY-RESULTS.zip,data/strategy_machinery_statuses_C31.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C31-STRATEGY-MACHINERY-RESULTS.zip,data/strategy_machinery_schema_C31.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C31-STRATEGY-MACHINERY-RESULTS.zip,data/validation_report_C31.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C31-STRATEGY-MACHINERY-RESULTS.zip,data/strategy_machinery_comparisons_C31.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/entities_master_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/sources_master_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/validation_report_C32.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/canonical_entity_schema_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/national_source_registry_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/evidence_rules_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/canonical_fact_schema_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/canonical_source_schema_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/national_population_universes_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C32-NATIONAL-EVIDENCE-INFRASTRUCTURE.zip,data/facts_master_C32.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C33-NATIONAL-INGESTION-CONTROL.zip,data/evidence_qa_rules_C33.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C33-NATIONAL-INGESTION-CONTROL.zip,data/ro5_cultural_variable_dictionary_C33.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C33-NATIONAL-INGESTION-CONTROL.zip,data/validation_report_C33.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C33-NATIONAL-INGESTION-CONTROL.zip,data/entity_join_rules_C33.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C33-NATIONAL-INGESTION-CONTROL.zip,data/national_ingestion_plan_C33.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C33-NATIONAL-INGESTION-CONTROL.zip,data/national_dataset_manifest_C33.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C34-HOUSEKEEPING.zip,data/validation_report_C34.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C35-SITEWIDE-HOUSEKEEPING.zip,data/validation_report_C35.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C36-CANONICAL-POPULATION-BASE.zip,data/entities_master_C36.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C36-CANONICAL-POPULATION-BASE.zip,data/evidence_population_queue_C36.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C36-CANONICAL-POPULATION-BASE.zip,data/institution_evidence_coverage_C36.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C36-CANONICAL-POPULATION-BASE.zip,data/person_roles_master_C36.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C36-CANONICAL-POPULATION-BASE.zip,data/validation_report_C36.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C37-LOCAL-GOVERNMENT-VISUAL-REBUILD.zip,data/validation_report_C37.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C38-DEEP-RECORD-PILOT.zip,data/validation_report_C38.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C38-DEEP-RECORD-PILOT.zip,data/pilot_place_dossiers_C38.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C38-DEEP-RECORD-PILOT.zip,data/liverpool_settlement_components_C38.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C38-DEEP-RECORD-PILOT.zip,data/strategy_commitments_C38.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C39-UNIVERSAL-DEEP-RECORD-STANDARD.zip,data/universal_deep_record_rules_C39.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C39-UNIVERSAL-DEEP-RECORD-STANDARD.zip,data/universal_entity_research_queue_C39.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C39-UNIVERSAL-DEEP-RECORD-STANDARD.zip,data/universal_entity_deep_record_schema_C39.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C39-UNIVERSAL-DEEP-RECORD-STANDARD.zip,data/validation_report_C39.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C39-UNIVERSAL-DEEP-RECORD-STANDARD.zip,data/entities_deep_records_C39.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C39-UNIVERSAL-DEEP-RECORD-STANDARD.zip,data/forbidden_vague_terminal_phrases_C39.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C40-EVIDENCE-BASEMENT-AND-FORENSIC-PASS.zip,data/dcms_framework_forensic_queue_C40.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C40-EVIDENCE-BASEMENT-AND-FORENSIC-PASS.zip,data/validation_report_C40.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C40-EVIDENCE-BASEMENT-AND-FORENSIC-PASS.zip,data/national_forensic_records_C40.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C40-EVIDENCE-BASEMENT-AND-FORENSIC-PASS.zip,data/national_forensic_sources_C40.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C41-FORENSIC-INSTITUTIONAL-CORE.zip,data/forensic_completion_matrix_C41.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C41-FORENSIC-INSTITUTIONAL-CORE.zip,data/dcms_framework_population_C41.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C41-FORENSIC-INSTITUTIONAL-CORE.zip,data/cross_institution_forensic_facts_C41.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C41-FORENSIC-INSTITUTIONAL-CORE.zip,data/validation_report_C41.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C41-FORENSIC-INSTITUTIONAL-CORE.zip,data/dcms_framework_sources_C41.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C42-ACCOUNTS-BOARDS-JOIN.zip,data/board_appointments_master_C42.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C42-ACCOUNTS-BOARDS-JOIN.zip,data/audited_finance_master_C42.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C42-ACCOUNTS-BOARDS-JOIN.zip,data/finance_board_reconciliation_rules_C42.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C42-ACCOUNTS-BOARDS-JOIN.zip,data/accounts_boards_acquisition_queue_C42.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C42-ACCOUNTS-BOARDS-JOIN.zip,data/validation_report_C42.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C42-ACCOUNTS-BOARDS-JOIN.zip,data/institution_join_completion_C42.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C42-ACCOUNTS-BOARDS-JOIN.zip,data/cross_institution_comparison_spec_C42.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C43-FIRST-POPULATED-JOIN.zip,data/audited_accounts_board_population_queue_C43.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C43-FIRST-POPULATED-JOIN.zip,data/board_appointment_mechanisms_C43.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C43-FIRST-POPULATED-JOIN.zip,data/validation_report_C43.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C43-FIRST-POPULATED-JOIN.zip,data/accountability_mechanisms_C43.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C43-FIRST-POPULATED-JOIN.zip,data/public_money_routes_C43.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C44-AUDITED-FINANCE-EXTRACTION.zip,data/validation_report_C44.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C44-AUDITED-FINANCE-EXTRACTION.zip,data/audited_account_sources_C44.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C44-AUDITED-FINANCE-EXTRACTION.zip,data/audited_finance_extraction_queue_C44.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C44-AUDITED-FINANCE-EXTRACTION.zip,data/museum_output_sources_C44.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C44-AUDITED-FINANCE-EXTRACTION.zip,data/audited_finance_populated_C44.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C44-AUDITED-FINANCE-EXTRACTION.zip,data/derived_finance_metrics_C44.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C45-FINANCE-OUTPUT-JOIN.zip,data/institution_output_schema_C45.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C45-FINANCE-OUTPUT-JOIN.zip,data/finance_composition_metrics_C45.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C45-FINANCE-OUTPUT-JOIN.zip,data/museum_finance_output_join_queue_C45.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C45-FINANCE-OUTPUT-JOIN.zip,data/finance_output_comparison_guardrails_C45.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C45-FINANCE-OUTPUT-JOIN.zip,data/audited_accounts_extraction_checklist_C45.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C45-FINANCE-OUTPUT-JOIN.zip,data/institution_finance_ledger_C45.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C45-FINANCE-OUTPUT-JOIN.zip,data/validation_report_C45.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C46-MUSEUM-OUTPUTS.zip,data/museum_outputs_aggregate_C46.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C46-MUSEUM-OUTPUTS.zip,data/validation_report_C46.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C46-MUSEUM-OUTPUTS.zip,data/museum_output_perimeter_notes_C46.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C46-MUSEUM-OUTPUTS.zip,data/museum_individual_output_extraction_C46.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C46-MUSEUM-OUTPUTS.zip,data/museum_output_quality_rules_C46.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C46-MUSEUM-OUTPUTS.zip,data/museum_output_sources_C46.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C47-PEOPLE-APPOINTMENTS-HOUSEKEEPING.zip,data/validation_report_C47.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C47-PEOPLE-APPOINTMENTS-HOUSEKEEPING.zip,data/people_roles_C47.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C47-PEOPLE-APPOINTMENTS-HOUSEKEEPING.zip,data/career_moves_C47.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C48-PEOPLE-HISTORICAL-EXPANSION.zip,data/institutional_overlaps_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C48-PEOPLE-HISTORICAL-EXPANSION.zip,data/career_moves_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C48-PEOPLE-HISTORICAL-EXPANSION.zip,data/people_roles_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C48-PEOPLE-HISTORICAL-EXPANSION.zip,data/validation_report_C48.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C48-PEOPLE-HISTORICAL-EXPANSION.zip,data/people_sources_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/institutional_overlaps_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/career_moves_C49.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/appointment_power_edges_C49.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/validation_report_C49.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/people_roles_C49.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/career_moves_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/people_roles_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/public_appointment_sources_C49.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/people_sources_C48.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C49-BOARDS-PUBLIC-APPOINTMENTS.zip,data/board_people_ingestion_queue_C49.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C50-PEOPLE-NETWORK-EXPANSION.zip,data/new_people_sources_C50.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C50-PEOPLE-NETWORK-EXPANSION.zip,data/validation_report_C50.json,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C50-PEOPLE-NETWORK-EXPANSION.zip,data/people_roles_C50.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C50-PEOPLE-NETWORK-EXPANSION.zip,data/life_date_verification_queue_C50.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C50-PEOPLE-NETWORK-EXPANSION.zip,data/people_life_dates_C50.csv,ARCHIVE,Superseded by C51 canonical/derived layer; retain as provenance until every page has been dependency-audited.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/DATA_VERSION,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/validation_report.json,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/evidence_gaps.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/institutions.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/appointments.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/changes.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/strategies.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/people.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/finance.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/outputs.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/roles.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/canonical/sources.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/derived/career_moves.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/derived/board_overlaps.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/derived/network_edges.csv,KEEP,Current canonical/derived database object.
+sidonie-C51-CANONICAL-DATABASE-MIGRATION.zip,data/derived/institutional_overlaps.csv,KEEP,Current canonical/derived database object.

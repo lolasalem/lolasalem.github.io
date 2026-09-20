@@ -1,0 +1,8 @@
+page,migration_status,target_data,note
+People & Appointments,migrated contract,canonical people + roles; derived network,Embedded snapshot still used for no-build GitHub Pages compatibility
+Institutions,migrated contract,canonical institutions,People dump removed
+Local Government & Devolution,pending,canonical institutions/strategies + place-specific canonical layer still needed,Keep C38/C40 files
+Charities & Dependence,pending,canonical institutions/finance + Charity Commission ingestion,Keep old files
+Culture at Work main,pending,canonical institutions/relationships,Keep current canonical HTML/data dependencies
+Sources & Methodology,pending,canonical sources,Needs source-ID remapping from legacy IDs
+Guide,independent,events/guide data,No C51 dependency
