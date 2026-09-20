@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "build": "C30",
+  "places": 4,
+  "source_records": 10,
+  "place_fields": 10,
+  "C29_diagnostic_retained": true,
+  "machinery_principle_retained": true
+}
