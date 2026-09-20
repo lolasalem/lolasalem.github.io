@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C59",
+  "based_on": "current repository uploaded by user",
+  "indexed_areas": 26,
+  "integrated_settlement_authorities": 7,
+  "london_included": true,
+  "liverpool_settlement_table_conditional": true,
+  "standalone_liverpool_section_removed": true,
+  "old_top_clutter_removed": true
+}
