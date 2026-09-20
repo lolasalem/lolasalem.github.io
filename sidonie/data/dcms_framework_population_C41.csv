@@ -1,0 +1,20 @@
+entity,framework_period,classification_plain_english,verified_legal_governance_extract,source_id
+Arts Council England,2025–2028,Royal Charter; registered charity; statutory National Lottery distributor,Framework verified; constitution/appointments already extracted in C40,ACE1
+British Film Institute,2026–2029,National film body; charity/public-body relationship; National Lottery distributor,Framework verified; governing instrument/accounts extraction pending,BFI1
+British Library,2025–2028,British Library Board; statutory public body,British Library Act 1972; Legal Deposit Libraries Act 2003; 2013 Regulations; Public Lending Right Act 1979; British Library Board (Power to Borrow) Act 2021 explicitly identified in framework §1.3,BL1
+British Museum,2025–2028,Statutory national museum / exempt charity context,Framework current; statutory/appointment detail requires full extraction against British Museum Act 1963,BM1
+Churches Conservation Trust,2025–2028,Body corporate; registered charity 258612; not administratively classified by Cabinet Office,"Mission and Pastoral Measure 2011 s57; board appointments by the King on advice of Archbishops through PM; no formal DCMS ministerial board-appointment role, but responsible Minister informally appoints one trustee",CCT1
+Historic England,2024–2027,Central-government organisation; NDPB; Freedoms Body,Historic Buildings and Monuments Commission for England established by National Heritage Act 1983; framework updated Aug 2024,HE1
+Horniman Museum and Gardens,2025–2028,DCMS-sponsored museum / Freedoms Body,Current framework verified; full legal/appointment extraction pending,HMG1
+Imperial War Museums,2025–2028,Central-government organisation; NDPB; exempt charity,Imperial War Museum Acts 1920 & 1955; Museums and Galleries Act 1992; framework §§4–5,IWM1
+National Gallery,2025–2028,DCMS-sponsored national gallery / Freedoms Body,Current framework verified; full statutory/appointment extraction pending,NG1
+National Museums Liverpool,2025–2028,Central-government organisation; NDPB; exempt charity,Framework §§1–3 verified; full statutory/appointment extraction pending,NML1
+National Portrait Gallery,2026–2029,DCMS-sponsored national gallery,Current framework verified; full statutory/appointment extraction pending,NPG1
+Natural History Museum,2025–2028,Central-government organisation; NDPB; exempt charity,"British Museum Act 1963 §§2–7 and Schedule 1 as applied by §8(3), amended by Museums and Galleries Act 1992; framework §§3–5",NHM1
+Royal Armouries,2025–2028,DCMS-sponsored national museum / Freedoms Body,Current framework verified; full statutory/appointment extraction pending,RA1
+Royal Museums Greenwich,2025–2028,DCMS-sponsored national museum / Freedoms Body,Current framework verified; full statutory/appointment extraction pending,RMG1
+Science Museum Group,2025–2028,Central-government organisation; NDPB; exempt charity; Freedoms Body,"National Heritage Act 1983; Chair appointed by Prime Minister; Chief Executive appointed by Board with Prime Minister approval; framework §§3–5, 8.2–8.4",SMG1
+Sir John Soane's Museum,2025–2028,Central-government organisation; NDPB; registered charity 313609; Freedoms Body,"Framework §§1,3,8–10,14,28; PAO accountable to Parliament for Grant-in-Aid; quarterly sponsor meetings review plans, targets and expenditure",SJSM1
+Tate,2025–2028,NDPB; exempt charity; Freedoms Body,Current framework §§1–3 verified; statutory/appointment detail pending,TATE1
+Victoria and Albert Museum,2025–2028,Central-government organisation; NDPB; exempt charity; Freedoms Body,Current framework §§1–3 verified; statutory/appointment detail pending,VA1
+Wallace Collection,2025–2028,Central-government organisation; NDPB; exempt charity; Freedoms Body,"Current framework §§1–3,8 verified; statutory/appointment detail pending",WALL1

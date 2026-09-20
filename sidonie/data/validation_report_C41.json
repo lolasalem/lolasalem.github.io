@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C41",
+  "framework_bodies_verified": 19,
+  "primary_source_records": 19,
+  "section_located_cross_institution_facts": 18,
+  "completion_rows": 19,
+  "framework_not_treated_as_full_audit": true,
+  "unknowns_explicit": true
+}

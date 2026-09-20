@@ -1,0 +1,19 @@
+fact_id,entity,fact_type,value,source_id,locator
+SMG-CLASS,Science Museum Group,classification,Central-government organisation; administratively a non-departmental public body; exempt charity; Secretary of State is Principal Regulator,SMG1,§3.1
+SMG-LAW,Science Museum Group,legal_basis,Established by National Heritage Act 1983; powers and duties stem from that Act,SMG1,§§4.1–5.1
+SMG-CHAIR,Science Museum Group,appointment,Chair appointed by the Prime Minister under National Heritage Act 1983; appointment subject to Public Appointments Order in Council/Governance Code,SMG1,§8.4
+SMG-CEO,Science Museum Group,appointment,Chief Executive appointed by Board with approval of the Prime Minister,SMG1,§8.3
+NHM-CLASS,Natural History Museum,classification,Central-government organisation; NDPB; exempt charity; Secretary of State is Principal Regulator,NHM1,§3.1
+NHM-LAW,Natural History Museum,legal_basis,"Powers/duties stem from British Museum Act 1963 §§2–7 and Schedule 1 as applied by §8(3), amended by Museums and Galleries Act 1992",NHM1,§§4.1–5.1
+IWM-CLASS,Imperial War Museums,classification,Central-government organisation; NDPB; exempt charity listed in Schedule 3 Charities Act 2011; Secretary of State is Principal Regulator,IWM1,§3.1
+IWM-LAW,Imperial War Museums,legal_basis,"Governed under Imperial War Museum Acts 1920 and 1955, Museums and Galleries Act 1992 and other relevant legislation",IWM1,§§4.1–5.1
+CCT-CLASS,Churches Conservation Trust,classification,Central-government organisation; not administratively classified by Cabinet Office; registered charity 258612,CCT1,§§3.1–3.4
+CCT-LAW,Churches Conservation Trust,legal_basis,Body corporate established by Mission and Pastoral Measure 2011 §57,CCT1,§§4.1–5.1
+CCT-BOARD,Churches Conservation Trust,appointment,"Board appointed by HM The King on advice of Archbishops of Canterbury and York through Prime Minister; no formal DCMS ministerial appointment role, although responsible Minister informally appoints one trustee",CCT1,§8.2
+SJSM-CLASS,Sir John Soane's Museum,classification,Central-government organisation; NDPB; registered charity 313609,SJSM1,§3.1
+SJSM-GIA,Sir John Soane's Museum,accountability,"DCMS Principal Accounting Officer is accountable to Parliament for Grant-in-Aid; DCMS Museums and Cultural Property Team holds quarterly partnership meetings reviewing plans, targets and expenditure",SJSM1,§§9.4–10.2
+NML-CLASS,National Museums Liverpool,classification,Central-government organisation; NDPB; exempt charity; Secretary of State is Principal Regulator,NML1,§3.1
+HE-LAW,Historic England,legal_basis,Historic Buildings and Monuments Commission for England established 1 April 1984 by National Heritage Act 1983,HE1,§4.1
+TATE-CLASS,Tate,classification,NDPB; exempt charity; Secretary of State is Principal Regulator; Freedoms Body,TATE1,§§3.1–3.2
+VA-CLASS,Victoria and Albert Museum,classification,Central-government organisation; NDPB; exempt charity; Secretary of State is Principal Regulator,VA1,§3.1
+WALL-CLASS,Wallace Collection,classification,Central-government organisation; NDPB; exempt charity; Secretary of State is Principal Regulator,WALL1,§3.1
