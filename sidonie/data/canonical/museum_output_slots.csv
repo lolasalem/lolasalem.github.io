@@ -1,0 +1,166 @@
+slot_id,institution_id,reported_name,reporting_perimeter,period,indicator,value,status,legacy_source_id,locator,introduced_in
+MOS00001,I000005,British Museum,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00002,I000005,British Museum,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00003,I000005,British Museum,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00004,I000005,British Museum,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00005,I000005,British Museum,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00006,I000005,British Museum,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00007,I000005,British Museum,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00008,I000005,British Museum,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00009,I000005,British Museum,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00010,I000005,British Museum,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00011,I000005,British Museum,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00012,,Museum of the Home,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00013,,Museum of the Home,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00014,,Museum of the Home,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00015,,Museum of the Home,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00016,,Museum of the Home,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00017,,Museum of the Home,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00018,,Museum of the Home,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00019,,Museum of the Home,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00020,,Museum of the Home,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00021,,Museum of the Home,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00022,,Museum of the Home,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00023,,Horniman Museum,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00024,,Horniman Museum,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00025,,Horniman Museum,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00026,,Horniman Museum,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00027,,Horniman Museum,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00028,,Horniman Museum,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00029,,Horniman Museum,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00030,,Horniman Museum,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00031,,Horniman Museum,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00032,,Horniman Museum,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00033,,Horniman Museum,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00034,I000016,Imperial War Museums,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00035,I000016,Imperial War Museums,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00036,I000016,Imperial War Museums,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00037,I000016,Imperial War Museums,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00038,I000016,Imperial War Museums,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00039,I000016,Imperial War Museums,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00040,I000016,Imperial War Museums,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00041,I000016,Imperial War Museums,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00042,I000016,Imperial War Museums,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00043,I000016,Imperial War Museums,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00044,I000016,Imperial War Museums,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00045,I000024,National Gallery,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00046,I000024,National Gallery,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00047,I000024,National Gallery,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00048,I000024,National Gallery,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00049,I000024,National Gallery,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00050,I000024,National Gallery,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00051,I000024,National Gallery,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00052,I000024,National Gallery,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00053,I000024,National Gallery,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00054,I000024,National Gallery,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00055,I000024,National Gallery,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00056,I000027,National Museums Liverpool,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00057,I000027,National Museums Liverpool,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00058,I000027,National Museums Liverpool,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00059,I000027,National Museums Liverpool,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00060,I000027,National Museums Liverpool,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00061,I000027,National Museums Liverpool,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00062,I000027,National Museums Liverpool,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00063,I000027,National Museums Liverpool,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00064,I000027,National Museums Liverpool,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00065,I000027,National Museums Liverpool,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00066,I000027,National Museums Liverpool,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00067,I000030,National Portrait Gallery,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00068,I000030,National Portrait Gallery,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00069,I000030,National Portrait Gallery,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00070,I000030,National Portrait Gallery,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00071,I000030,National Portrait Gallery,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00072,I000030,National Portrait Gallery,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00073,I000030,National Portrait Gallery,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00074,I000030,National Portrait Gallery,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00075,I000030,National Portrait Gallery,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00076,I000030,National Portrait Gallery,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00077,I000030,National Portrait Gallery,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00078,I000032,Natural History Museum,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00079,I000032,Natural History Museum,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00080,I000032,Natural History Museum,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00081,I000032,Natural History Museum,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00082,I000032,Natural History Museum,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00083,I000032,Natural History Museum,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00084,I000032,Natural History Museum,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00085,I000032,Natural History Museum,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00086,I000032,Natural History Museum,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00087,I000032,Natural History Museum,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00088,I000032,Natural History Museum,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00089,,Royal Armouries,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00090,,Royal Armouries,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00091,,Royal Armouries,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00092,,Royal Armouries,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00093,,Royal Armouries,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00094,,Royal Armouries,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00095,,Royal Armouries,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00096,,Royal Armouries,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00097,,Royal Armouries,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00098,,Royal Armouries,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00099,,Royal Armouries,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00100,I000044,Royal Museums Greenwich,single reporting institution,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00101,I000044,Royal Museums Greenwich,single reporting institution,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00102,I000044,Royal Museums Greenwich,single reporting institution,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00103,I000044,Royal Museums Greenwich,single reporting institution,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00104,I000044,Royal Museums Greenwich,single reporting institution,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00105,I000044,Royal Museums Greenwich,single reporting institution,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00106,I000044,Royal Museums Greenwich,single reporting institution,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00107,I000044,Royal Museums Greenwich,single reporting institution,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00108,I000044,Royal Museums Greenwich,single reporting institution,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00109,I000044,Royal Museums Greenwich,single reporting institution,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00110,I000044,Royal Museums Greenwich,single reporting institution,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00111,I000051,Science Museum Group,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00112,I000051,Science Museum Group,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00113,I000051,Science Museum Group,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00114,I000051,Science Museum Group,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00115,I000051,Science Museum Group,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00116,I000051,Science Museum Group,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00117,I000051,Science Museum Group,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00118,I000051,Science Museum Group,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00119,I000051,Science Museum Group,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00120,I000051,Science Museum Group,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00121,I000051,Science Museum Group,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00122,,Sir John Soane's Museum,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00123,,Sir John Soane's Museum,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00124,,Sir John Soane's Museum,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00125,,Sir John Soane's Museum,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00126,,Sir John Soane's Museum,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00127,,Sir John Soane's Museum,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00128,,Sir John Soane's Museum,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00129,,Sir John Soane's Museum,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00130,,Sir John Soane's Museum,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00131,,Sir John Soane's Museum,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00132,,Sir John Soane's Museum,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00133,I000053,Tate Gallery Group,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00134,I000053,Tate Gallery Group,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00135,I000053,Tate Gallery Group,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00136,I000053,Tate Gallery Group,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00137,I000053,Tate Gallery Group,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00138,I000053,Tate Gallery Group,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00139,I000053,Tate Gallery Group,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00140,I000053,Tate Gallery Group,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00141,I000053,Tate Gallery Group,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00142,I000053,Tate Gallery Group,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00143,I000053,Tate Gallery Group,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00144,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00145,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00146,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00147,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00148,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00149,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00150,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00151,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00152,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00153,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00154,I000056,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00155,,The Wallace Collection,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00156,,The Wallace Collection,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00157,,The Wallace Collection,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00158,,The Wallace Collection,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00159,,The Wallace Collection,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00160,,The Wallace Collection,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00161,,The Wallace Collection,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00162,,The Wallace Collection,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00163,,The Wallace Collection,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00164,,The Wallace Collection,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46
+MOS00165,,The Wallace Collection,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required,C46

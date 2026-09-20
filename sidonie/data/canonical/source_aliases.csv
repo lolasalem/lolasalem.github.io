@@ -1,0 +1,36 @@
+legacy_source_id,canonical_source_id,title,status
+ACE1,SRC000017,Arts Council England framework document 2025–2028,mapped
+BL1,SRC000018,British Library framework document 2025–2028,mapped
+BM1,SRC000019,British Museum framework document 2025–2028,mapped
+CCT1,SRC000020,Churches Conservation Trust framework document 2025–2028,mapped
+HE1,SRC000021,Historic England framework document 2024–2027,mapped
+HMG1,SRC000022,Horniman Museum and Gardens framework document 2025–2028,mapped
+IWM1,SRC000023,Imperial War Museum framework document 2025–2028,mapped
+NG1,SRC000024,National Gallery framework document 2025–2028,mapped
+NML1,SRC000025,National Museums Liverpool framework document 2025–2028,mapped
+NHM1,SRC000026,Natural History Museum framework document 2025–2028,mapped
+RA1,SRC000027,Royal Armouries framework document 2025–2028,mapped
+RMG1,SRC000028,Royal Museums Greenwich framework document 2025–2028,mapped
+SMG1,SRC000029,Science Museum Group framework document 2025–2028,mapped
+SJSM1,SRC000030,Sir John Soane's Museum framework document 2025–2028,mapped
+TATE1,SRC000031,Tate Gallery framework document 2025–2028,mapped
+VA1,SRC000032,Victoria and Albert Museum framework document 2025–2028,mapped
+WALL1,SRC000033,Wallace Collection framework document 2025–2028,mapped
+BFI1,SRC000034,British Film Institute framework document 2026–2029,mapped
+NPG1,SRC000035,National Portrait Gallery framework document 2026–2029,mapped
+SMG-ARA26,SRC000008,Science Museum Group Annual Report and Accounts 2025 to 2026,mapped
+NHM-ARA26,SRC000009,Natural History Museum Annual Report and Accounts 2025 to 2026,mapped
+IWM-ARA26,SRC000010,Imperial War Museum Annual Report and Accounts 2025 to 2026,mapped
+RMG-ARA26,SRC000011,National Maritime Museum Annual Report and Accounts 2025 to 2026,mapped
+DCMS-ARA26,SRC000012,DCMS annual report and accounts 2025 to 2026,mapped
+ACE-REV1,SRC000013,Annex 1: Arts Council England Review — Purpose and role,mapped
+DCMS-PI-2425,SRC000014,DCMS-sponsored museums and galleries annual performance indicators 2024/25: headline release,mapped
+DCMS-PI-TECH-2425,SRC000015,Technical report: DCMS-sponsored museums and galleries annual performance indicators 2024/25,mapped
+DCMS-PI-TABLES-2425,SRC000016,DCMS-sponsored museums and galleries annual performance indicators 2024/25: data tables,mapped
+NG-BOARD-26,SRC000001,Board of Trustees,mapped
+DCMS-16-25,SRC000002,"16 new trustees appointed to British Museum, Tate and V&A",mapped
+TATE-APPT-25,SRC000003,Prime Minister appoints 5 Tate trustees,mapped
+VA-BOARD-26,SRC000004,Trustees,mapped
+RMG-APPT-26,SRC000005,Royal Museums Greenwich Board appointments and reappointments,mapped
+NG-MARR-24,SRC000006,Andrew Marr appointed National Gallery trustee,mapped
+CH-MOLLY,SRC000007,Molly Stevens officer record,mapped
