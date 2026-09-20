@@ -1,0 +1,16 @@
+field,definition
+claim_id,Stable ID for the announced objective
+institution,Body making/adopting the claim
+document,Strategy/framework/source document
+publication_date,Date of claim
+intended_period,Period the objective covers
+objective,Exact or tightly paraphrased objective
+promised_metric,Metric/target if one is actually stated
+responsible_body,Body assigned responsibility
+machinery,Legal/institutional mechanism documented
+inputs,"Money, staff, assets, programmes"
+outputs,Observable allocations/services/actions
+result_evidence,Outcome evidence where available
+relationship_status,Descriptive comparison status
+reason,Why SIDONIE flags the relationship
+source_ids,Primary-source references

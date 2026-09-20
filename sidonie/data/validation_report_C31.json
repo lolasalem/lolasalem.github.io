@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C31",
+  "comparison_records": 4,
+  "comparison_statuses": 15,
+  "schema_fields": 15,
+  "C30_places_retained": true,
+  "C29_diagnostic_retained": true,
+  "neutral_status_language": true
+}
