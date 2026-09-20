@@ -1,0 +1,6 @@
+layer,status,next_action
+Council finance / RO5,not yet canonicalised,ingest local-authority cultural expenditure by authority/year/service line
+Charity Commission / OSCR,not yet canonicalised,"ingest legal status, trustees, accounts and public-funding dependence"
+Museum individual outputs,canonical slots created; values pending,extract exact 165 ODS cells with locators
+Legacy source IDs GM/LCR/WY/WM/D-series,partially unresolved,map source IDs to canonical sources with exact documents/locators
+National strategy/result comparisons,canonicalised in C55,future records append to strategy_machinery_results.csv

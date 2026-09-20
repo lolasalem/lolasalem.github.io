@@ -1,0 +1,7 @@
+file,superseded_by,action
+strategy_machinery_comparisons_C31.csv,canonical/strategy_machinery_results.csv,SAFE TO MOVE TO ARCHIVE; do not delete
+museum_individual_output_extraction_C46.csv,canonical/museum_output_slots.csv,SAFE TO MOVE TO ARCHIVE; do not delete
+museum_output_sources_C46.csv,canonical/sources.csv + source_aliases.csv,SAFE TO MOVE TO ARCHIVE; do not delete
+audited_account_sources_C44.csv,canonical/sources.csv + source_aliases.csv,SAFE TO MOVE TO ARCHIVE; do not delete
+dcms_framework_sources_C41.csv,canonical/sources.csv + source_aliases.csv,SAFE TO MOVE TO ARCHIVE; do not delete
+new_people_sources_C50.csv,canonical/sources.csv + source_aliases.csv,SAFE TO MOVE TO ARCHIVE; do not delete

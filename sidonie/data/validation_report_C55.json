@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "build": "C55",
+  "strategy_machinery_result_records": 4,
+  "museum_output_slots": 165,
+  "canonical_sources_total": 35,
+  "new_sources_added": 0,
+  "legacy_source_aliases": 35,
+  "mapped_source_aliases": 35,
+  "new_archive_candidates": 6,
+  "remaining_major_layers": 4,
+  "deletion_authorized": false,
+  "failures": []
+}
