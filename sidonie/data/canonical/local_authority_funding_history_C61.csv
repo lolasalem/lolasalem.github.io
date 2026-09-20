@@ -1,0 +1,72 @@
+record_id,area,financial_year,fund,home_department,amount_as_published,funding_type,source_id,note
+HF00001,Greater Manchester,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£6,646,083",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00002,West Midlands,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£3,798,313",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00003,Liverpool City Region,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£4,248,359",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00004,West Yorkshire,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£3,522,136",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00005,South Yorkshire,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£3,099,695",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00006,Cambridgeshire and Peterborough,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£2,498,209",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00007,North East,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£3,401,557",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00008,West of England,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£2,766,537",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00009,East Midlands,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£3,021,970",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00010,Tees Valley,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£2,437,296",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00011,Hull and East Yorkshire,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£2,961,970",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00012,Greater Lincolnshire,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£2,961,970",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00013,Devon and Torbay,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£390,000",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00014,Lancashire,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£390,000",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00015,York and North Yorkshire,2026/27,Mayoral Capacity Fund,"Ministry of Housing, Communities and Local Government","£2,961,970",revenue,MCF-2026,"Staffing, administration and central corporate functions."
+HF00016,East Midlands,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£24m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00017,East Midlands,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£25m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00018,East Midlands,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£31m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00019,East Midlands,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£27m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00020,Greater Lincolnshire,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£12m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00021,Greater Lincolnshire,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£12m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00022,Greater Lincolnshire,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£15m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00023,Greater Lincolnshire,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£13m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00024,Greater Manchester,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£32m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00025,Greater Manchester,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£33m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00026,Greater Manchester,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£41m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00027,Greater Manchester,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£36m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00028,Hull and East Yorkshire,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£7m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00029,Hull and East Yorkshire,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£7m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00030,Hull and East Yorkshire,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£9m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00031,Hull and East Yorkshire,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£7m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00032,Liverpool City Region,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£17m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00033,Liverpool City Region,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£18m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00034,Liverpool City Region,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£22m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00035,Liverpool City Region,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£19m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00036,North East,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£22m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00037,North East,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£23m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00038,North East,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£28m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00039,North East,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£24m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00040,South Yorkshire,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£15m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00041,South Yorkshire,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£16m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00042,South Yorkshire,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£20m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00043,South Yorkshire,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£17m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00044,Tees Valley,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£8m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00045,Tees Valley,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£8m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00046,Tees Valley,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£10m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00047,Tees Valley,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£8m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00048,West Midlands,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£32m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00049,West Midlands,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£33m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00050,West Midlands,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£42m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00051,West Midlands,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£36m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00052,West Yorkshire,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£26m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00053,West Yorkshire,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£27m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00054,West Yorkshire,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£33m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00055,West Yorkshire,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£29m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00056,York and North Yorkshire,2026/27,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£9m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00057,York and North Yorkshire,2027/28,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£9m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00058,York and North Yorkshire,2028/29,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£12m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00059,York and North Yorkshire,2029/30,Local Growth Fund,"Ministry of Housing, Communities and Local Government",£10m,mixed revenue/capital; rounded TDEL,LGF-2026,Official technical document; rounded to nearest £m.
+HF00060,Greater Manchester,2025/26,Integrated Settlement grant determination — revenue,MHCLG,"£268,393,844",RDEL,IS-GRANT-2025,
+HF00061,Greater Manchester,2025/26,Integrated Settlement grant determination — capital,MHCLG,"£311,969,657",CDEL,IS-GRANT-2025,
+HF00062,West Midlands,2025/26,Integrated Settlement grant determination — revenue,MHCLG,"£262,533,498",RDEL,IS-GRANT-2025,
+HF00063,West Midlands,2025/26,Integrated Settlement grant determination — capital,MHCLG,"£126,089,973",CDEL,IS-GRANT-2025,
+HF00064,Greater Manchester,2025/26,Create Growth Programme,"Department for Culture, Media and Sport","£425,000",RDEL,GM-IS-2025,Culture/creative-industries-specific stream.
+HF00065,Greater Manchester,2026/27,"Homelessness, Rough Sleeping and Domestic Abuse Grant",MHCLG,"£8,181,422",revenue,HRDA-2026,Inside Integrated Settlement for these authorities; not cultural funding.
+HF00066,West Midlands,2026/27,"Homelessness, Rough Sleeping and Domestic Abuse Grant",MHCLG,"£5,136,397",revenue,HRDA-2026,Inside Integrated Settlement for these authorities; not cultural funding.
+HF00067,Liverpool City Region,2026/27,"Homelessness, Rough Sleeping and Domestic Abuse Grant",MHCLG,"£5,777,381",revenue,HRDA-2026,Inside Integrated Settlement for these authorities; not cultural funding.
+HF00068,West Yorkshire,2026/27,"Homelessness, Rough Sleeping and Domestic Abuse Grant",MHCLG,"£2,728,288",revenue,HRDA-2026,Inside Integrated Settlement for these authorities; not cultural funding.
+HF00069,South Yorkshire,2026/27,"Homelessness, Rough Sleeping and Domestic Abuse Grant",MHCLG,"£2,453,080",revenue,HRDA-2026,Inside Integrated Settlement for these authorities; not cultural funding.
+HF00070,North East,2026/27,"Homelessness, Rough Sleeping and Domestic Abuse Grant",MHCLG,"£1,430,867",revenue,HRDA-2026,Inside Integrated Settlement for these authorities; not cultural funding.
+HF00071,Greater London,2026/27,"Homelessness, Rough Sleeping and Domestic Abuse Grant",MHCLG,"£62,620,279",revenue,HRDA-2026,Inside Integrated Settlement for these authorities; not cultural funding.
