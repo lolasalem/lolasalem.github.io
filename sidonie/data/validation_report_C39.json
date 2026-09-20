@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C39",
+  "entities_under_universal_standard": 45,
+  "schema_fields": 23,
+  "hard_rules": 12,
+  "forbidden_vague_phrases": 10,
+  "all_missing_fields_explicit": true,
+  "no_capacity_ratings": true,
+  "same_standard_all_entities": true
+}

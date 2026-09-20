@@ -1,0 +1,13 @@
+rule_id,rule,action
+U1,Category label is never an answer.,reject
+U2,"Settlement must resolve to instrument, period, component streams, departments, amounts and restrictions where published.",hold until decomposed
+U3,"Funding must separate taxpayer, Lottery, local tax, tax relief, philanthropy, sponsorship and earned income.",hold until reconciled
+U4,Decision authority must name body/person and the exact power exercised.,reject vague
+U5,Judgement mechanism must identify assessors/criteria/appointment route or state not evidenced.,reject vague
+U6,"Scrutiny must identify body, membership route, powers, limits, call-in/appeal/audit mechanics.",reject vague
+U7,"Capacity is observable evidence only: staff/FTE, budget, programmes, years, application volume, panels, assets.",no qualitative ratings
+U8,"Strategy separates claim, action, measurable target, budget, deadline/responsible body.",reject aspiration-as-target
+U9,Output and result are separate; causation is never inferred from co-occurrence.,reject
+U10,Unknown/not evidenced is preferable to an unverified generalisation.,required
+U11,Every substantive fact resolves to primary source + precise locator under C32.,required
+U12,Public name and legal/reporting entity remain separate.,required

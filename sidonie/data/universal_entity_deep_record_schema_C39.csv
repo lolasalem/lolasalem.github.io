@@ -1,0 +1,24 @@
+field,definition
+entity_id,Stable entity ID
+public_name,Reader-facing name
+legal_identity,Exact legal/reporting entity; unknown if not verified
+what_is_it,"Plain-English institutional function, not category jargon"
+legal_power_basis,Act/Charter/articles/constitution/framework; exact source required
+money_in,Each material funding stream separated by source/type/period
+money_out,Material expenditure/grant/programme routes
+decision_authority,"Who formally approves budgets, grants, programmes or institutional decisions"
+judgement_mechanism,Who assesses artistic/cultural merit and by what criteria
+executive_personnel,Named executive/artistic leadership with dated source
+governing_personnel,Chair/trustees/directors; complete board where published
+appointment_routes,Who appoints whom and under what instrument/process
+scrutiny_accountability,"Who can require information, audit, challenge, remove, call-in or otherwise scrutinise"
+capacity_evidence,Observable staff/budget/programme/history evidence only; no qualitative rating
+strategy_claim,Exact/close claim with document/date
+operational_commitment,What actions the strategy actually commits to
+measurable_target,"Numeric/time-bound target, or 'none identified'"
+committed_budget,"Budget linked to claim, or 'none identified'"
+outputs,Observed grants/services/productions/attendance etc. with period
+results,"Outcome evidence, never inferred from output"
+evidence_gaps,Explicit missing fields
+source_ids,Primary sources
+last_verified,Verification date
