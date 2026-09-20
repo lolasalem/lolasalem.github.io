@@ -1,0 +1,8 @@
+rule_id,rule
+O1,Physical and website visits are counts; several audience-profile indicators are survey estimates and must retain that status.
+O2,Museum group totals and single-site institutions are different reporting perimeters.
+O3,V&A Dundee is excluded from the V&A dataset because it is a separate charity.
+O4,Closure/opening effects must be attached before longitudinal comparisons.
+O5,Self-generated income = fundraising/contributed income + admissions income + trading net profit in this DCMS release; do not substitute total institutional income.
+O6,The British Museum accounted for 81% of fundraising income across sponsored museums in 2024/25; aggregate fundraising therefore must not be read as typical institution-level performance.
+O7,Output indicators are not outcome/value measures and are not used to rank institutions.

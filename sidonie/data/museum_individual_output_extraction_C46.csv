@@ -1,0 +1,166 @@
+entity_id,institution,reporting_perimeter,period,indicator,value,status,source_id,locator
+british-museum,British Museum,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+british-museum,British Museum,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+museum-of-the-home,Museum of the Home,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+horniman-museum,Horniman Museum,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+imperial-war-museums,Imperial War Museums,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-gallery,National Gallery,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-museums-liverpool,National Museums Liverpool,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+national-portrait-gallery,National Portrait Gallery,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+natural-history-museum,Natural History Museum,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-armouries,Royal Armouries,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+royal-museums-greenwich,Royal Museums Greenwich,single reporting institution,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+science-museum-group,Science Museum Group,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+sir-john-soanes-museum,Sir John Soane's Museum,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+tate,Tate Gallery Group,group,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+victoria-and-albert-museum,Victoria and Albert Museum,group; V&A Dundee excluded,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,physical_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,unique_website_visitors,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,child_visits_under_16,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,overseas_visits,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,formal_education_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,onsite_organised_activity_under18,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,recommend_visit_percent,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,uk_loan_venues,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,admissions_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,trading_net_profit,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required
+wallace-collection,The Wallace Collection,single site,2024/25,fundraising_contributed_income,,pending exact ODS table extraction,DCMS-PI-TABLES-2425,individual institution table / exact cell required

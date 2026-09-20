@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C46",
+  "verified_aggregate_output_rows": 13,
+  "individual_museums": 15,
+  "individual_indicator_slots": 165,
+  "perimeter_notes": 6,
+  "source_records": 3,
+  "official_ods_registered": true,
+  "no_institution_values_invented": true
+}
