@@ -1,0 +1,5 @@
+place_id,place_name,authority_name,constituent_councils,nation,introduced_in
+PL00001,Greater Manchester,Greater Manchester Combined Authority,Bolton; Bury; Manchester; Oldham; Rochdale; Salford; Stockport; Tameside; Trafford; Wigan,England,C38
+PL00002,Liverpool City Region,Liverpool City Region Combined Authority,Halton; Knowsley; Liverpool; Sefton; St Helens; Wirral,England,C38
+PL00004,West Yorkshire,West Yorkshire Combined Authority,Bradford; Calderdale; Kirklees; Leeds; Wakefield,England,C38
+PL00003,West Midlands,West Midlands Combined Authority,Birmingham; Coventry; Dudley; Sandwell; Solihull; Walsall; Wolverhampton,England,C38

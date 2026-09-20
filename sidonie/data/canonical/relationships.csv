@@ -1,0 +1,33 @@
+relationship_id,from_ref,to_name,relationship_type
+REL00001,PL00001,Greater Manchester Combined Authority,governed_by_authority
+REL00002,PL00001,Bolton,constituent_council
+REL00003,PL00001,Bury,constituent_council
+REL00004,PL00001,Manchester,constituent_council
+REL00005,PL00001,Oldham,constituent_council
+REL00006,PL00001,Rochdale,constituent_council
+REL00007,PL00001,Salford,constituent_council
+REL00008,PL00001,Stockport,constituent_council
+REL00009,PL00001,Tameside,constituent_council
+REL00010,PL00001,Trafford,constituent_council
+REL00011,PL00001,Wigan,constituent_council
+REL00012,PL00002,Liverpool City Region Combined Authority,governed_by_authority
+REL00013,PL00002,Halton,constituent_council
+REL00014,PL00002,Knowsley,constituent_council
+REL00015,PL00002,Liverpool,constituent_council
+REL00016,PL00002,Sefton,constituent_council
+REL00017,PL00002,St Helens,constituent_council
+REL00018,PL00002,Wirral,constituent_council
+REL00019,PL00004,West Yorkshire Combined Authority,governed_by_authority
+REL00020,PL00004,Bradford,constituent_council
+REL00021,PL00004,Calderdale,constituent_council
+REL00022,PL00004,Kirklees,constituent_council
+REL00023,PL00004,Leeds,constituent_council
+REL00024,PL00004,Wakefield,constituent_council
+REL00025,PL00003,West Midlands Combined Authority,governed_by_authority
+REL00026,PL00003,Birmingham,constituent_council
+REL00027,PL00003,Coventry,constituent_council
+REL00028,PL00003,Dudley,constituent_council
+REL00029,PL00003,Sandwell,constituent_council
+REL00030,PL00003,Solihull,constituent_council
+REL00031,PL00003,Walsall,constituent_council
+REL00032,PL00003,Wolverhampton,constituent_council
