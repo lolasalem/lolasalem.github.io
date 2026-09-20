@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C47",
+  "leadership_table_removed_from_institutions": true,
+  "people_role_records": 46,
+  "career_move_edges": 10,
+  "search_modes": 3,
+  "network_is_selected_subgraph": true,
+  "no_social_relationship_inference": true
+}
