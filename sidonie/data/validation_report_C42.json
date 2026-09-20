@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "build": "C42",
+  "institution_queue": 19,
+  "finance_schema_fields": 12,
+  "board_schema_fields": 13,
+  "reconciliation_rules": 15,
+  "comparison_metrics": 7,
+  "no_rankings": true,
+  "no_missing_as_zero": true,
+  "framework_population_retained": 19
+}

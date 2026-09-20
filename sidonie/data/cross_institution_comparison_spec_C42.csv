@@ -1,0 +1,8 @@
+metric,definition,guardrail
+taxpayer_dependence,Taxpayer operating grant / total recognised income,Requires same-period audited accounts and reporting perimeter
+earned_income_share,Earned/commercial income / total recognised income,Exclude donations and investment income
+philanthropy_share,Cash donations/grants from private sources / total recognised income,Separate gifts in kind
+liquidity,Cash + liquid investments relative to annual expenditure,Do not treat restricted/endowment funds as freely spendable
+board_appointment_concentration,Count/share of governing offices appointed by each external authority,Descriptive only; no independence score
+executive_appointment_route,Who appoints CEO/director and whose approval is required,Institution-specific legal fact
+public_money_route_count,Number of distinct taxpayer/Lottery/local-public streams,Do not merge streams

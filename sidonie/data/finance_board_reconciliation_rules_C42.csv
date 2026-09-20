@@ -1,0 +1,16 @@
+rule_id,rule
+F1,"Accounts must match the exact reporting legal entity, not merely the public brand."
+F2,Consolidated group accounts and parent-only accounts are stored as different reporting perimeters.
+F3,Grant-in-Aid is recorded from audited accounts and reconciled to departmental/framework evidence; cash received and income recognised are not assumed identical.
+F4,National Lottery distribution income is never combined with taxpayer Grant-in-Aid.
+F5,"Capital grants, restricted grants and unrestricted operating support remain separate where accounts permit."
+F6,Donated objects/gifts in kind are separated from liquid philanthropic income.
+F7,Commercial/earned income is not treated as philanthropy.
+F8,Staff costs are extracted with headcount/FTE only where the same accounts define the measure.
+F9,"Reserves, endowments, cash and investments are separate balance-sheet concepts."
+F10,"A missing note/amount is unresolved, never zero."
+B1,Board membership is captured from a dated current institutional or formal appointment source.
+B2,Appointment authority is a separate fact from office-holder identity.
+B3,"Ministerial appointment, Prime Ministerial appointment, Crown appointment, board appointment and informal consultation are never collapsed into 'government-appointed'."
+B4,Executive management and governing trustees/directors are separate populations.
+B5,Historical office-holders are retained with term dates rather than overwritten.
