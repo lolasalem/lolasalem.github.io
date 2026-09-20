@@ -1,0 +1,48 @@
+person_id,institution_id,office,start_date,end_date
+P000108,I000052,Chair,current,present
+P000050,I000028,Chair,current,present
+P000053,I000001,National Council member,2025,2029
+P000046,I000005,Trustee / Board member,current,present
+P000091,I000005,Trustee / Board member,current,present
+P000086,I000005,Trustee / Board member,current,present
+P000087,I000005,Trustee / Board member,current,present
+P000054,I000005,Trustee / Board member,current,present
+P000010,I000005,Trustee / Board member,current,present
+P000036,I000044,Trustee,current,present
+P000118,I000044,Trustee,current,present
+P000048,I000044,Trustee,current,present
+P000065,I000024,Chair,2021-08,2029-08-19
+P000072,I000024,Trustee,2026-08-01,2030-07-31
+P000020,I000024,Artist Trustee,2019-11-01,2027-10-31
+P000135,I000024,Deputy Chair; Finance and Audit,2017-04-03,2027-03-13
+P000062,I000024,Trustee; Chair National Gallery Global,2021-12-23,2029-12-22
+P000034,I000024,Trustee; Chair Masterplan Committee,2017-03-13,2027-06-12
+P000013,I000024,Cultural Trustee,2024-02-12,2028-02-11
+P000161,I000024,Deputy Chair; Governance Committee,2018-07-02,2027-03-31
+P000120,I000024,Trustee,2027-01-01,2030-12-31
+P000149,I000024,Trustee,2019-11-01,2027-10-31
+P000104,I000024,Academic Trustee; Tate Liaison Trustee,2024-11-29,2028-11-28
+P000090,I000024,Trustee; Scientific Consultative Group Chair,2018-07-02,2027-03-31
+P000079,I000005,Trustee,2025,present
+P000159,I000005,Trustee,2025,present
+P000157,I000005,Trustee,2025,present
+P000084,I000005,Trustee,2025,present
+P000028,I000005,Trustee,2025,present
+P000098,I000053,Trustee,2025-03-24,2029-03-23
+P000134,I000053,Trustee,2025-03-24,2029-03-23
+P000059,I000053,Trustee,2025-03-24,2029-03-23
+P000073,I000053,Trustee,2025-03-24,2029-03-23
+P000158,I000053,Trustee,2025-06-23,2029-06-22
+P000081,I000056,Trustee,2025,present
+P000011,I000056,Trustee,2025,present
+P000002,I000056,Trustee,2025,present
+P000099,I000056,Trustee,2025,present
+P000164,I000056,Trustee,2025,present
+P000106,I000056,Trustee,2025,present
+P000018,I000056,Chair,2025-01-01,present
+P000009,I000044,Trustee,2026-07-01,2030-06-30
+P000117,I000044,Trustee,2026-07-01,2030-06-30
+P000083,I000044,Trustee,2026-07-01,2030-06-30
+P000027,I000044,Trustee,2026,present
+P000076,I000044,Trustee,2026,present
+P000146,I000044,Trustee,2026,present
