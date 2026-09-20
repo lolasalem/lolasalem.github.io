@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "build": "C34",
+  "nav_links": 8,
+  "plain_english_terms": 12,
+  "body_font_floor": "10px",
+  "panel_font_floor": "9px",
+  "all_research_tabs_in_header": true,
+  "C27_entity_content_retained": true,
+  "C24_relationships_retained": true,
+  "register_collapsed": true,
+  "regression": true
+}
