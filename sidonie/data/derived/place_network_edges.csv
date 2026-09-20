@@ -1,0 +1,46 @@
+edge_id,from_ref,to_ref,edge_type,source_record_id
+PE00001,PL00001,Greater Manchester Combined Authority,governed_by_authority,REL00001
+PE00002,PL00001,Bolton,constituent_council,REL00002
+PE00003,PL00001,Bury,constituent_council,REL00003
+PE00004,PL00001,Manchester,constituent_council,REL00004
+PE00005,PL00001,Oldham,constituent_council,REL00005
+PE00006,PL00001,Rochdale,constituent_council,REL00006
+PE00007,PL00001,Salford,constituent_council,REL00007
+PE00008,PL00001,Stockport,constituent_council,REL00008
+PE00009,PL00001,Tameside,constituent_council,REL00009
+PE00010,PL00001,Trafford,constituent_council,REL00010
+PE00011,PL00001,Wigan,constituent_council,REL00011
+PE00012,PL00002,Liverpool City Region Combined Authority,governed_by_authority,REL00012
+PE00013,PL00002,Halton,constituent_council,REL00013
+PE00014,PL00002,Knowsley,constituent_council,REL00014
+PE00015,PL00002,Liverpool,constituent_council,REL00015
+PE00016,PL00002,Sefton,constituent_council,REL00016
+PE00017,PL00002,St Helens,constituent_council,REL00017
+PE00018,PL00002,Wirral,constituent_council,REL00018
+PE00019,PL00004,West Yorkshire Combined Authority,governed_by_authority,REL00019
+PE00020,PL00004,Bradford,constituent_council,REL00020
+PE00021,PL00004,Calderdale,constituent_council,REL00021
+PE00022,PL00004,Kirklees,constituent_council,REL00022
+PE00023,PL00004,Leeds,constituent_council,REL00023
+PE00024,PL00004,Wakefield,constituent_council,REL00024
+PE00025,PL00003,West Midlands Combined Authority,governed_by_authority,REL00025
+PE00026,PL00003,Birmingham,constituent_council,REL00026
+PE00027,PL00003,Coventry,constituent_council,REL00027
+PE00028,PL00003,Dudley,constituent_council,REL00028
+PE00029,PL00003,Sandwell,constituent_council,REL00029
+PE00030,PL00003,Solihull,constituent_council,REL00030
+PE00031,PL00003,Walsall,constituent_council,REL00031
+PE00032,PL00003,Wolverhampton,constituent_council,REL00032
+PE00033,DfT,PL00002,funds_place,FS00001
+PE00034,DfT,PL00002,funds_place,FS00002
+PE00035,DfT,PL00002,funds_place,FS00003
+PE00036,DfT,PL00002,funds_place,FS00004
+PE00037,DfT,PL00002,funds_place,FS00005
+PE00038,DfT,PL00002,funds_place,FS00006
+PE00039,DWP,PL00002,funds_place,FS00007
+PE00040,DWP,PL00002,funds_place,FS00008
+PE00041,MHCLG,PL00002,funds_place,FS00009
+PE00042,MHCLG,PL00002,funds_place,FS00010
+PE00043,MHCLG,PL00002,funds_place,FS00011
+PE00044,DCMS,PL00002,funds_place,FS00012
+PE00045,DESNZ,PL00002,funds_place,FS00013
