@@ -1,0 +1,11 @@
+field,definition
+entity_id,Stable institution ID
+period,Reporting year
+output_type,visits / overseas visits / school visits / digital / acquisitions / loans / exhibitions / workforce etc.
+measure,Exact official indicator
+value,Published value
+unit,count / percent / GBP / other
+source_id,Official PI source
+locator,Institution table + row/column
+definition_id,Technical-report definition
+status,verified / partial / unresolved

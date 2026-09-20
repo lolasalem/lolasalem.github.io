@@ -1,0 +1,16 @@
+priority,institution,finance_status,output_status,required_join
+1,British Museum,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+2,Geffrye Museum / Museum of the Home,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+3,Horniman Museum and Gardens,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+4,Imperial War Museums,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+5,National Gallery,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+6,National Museums Liverpool,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+7,National Portrait Gallery,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+8,Natural History Museum,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+9,Royal Armouries,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+10,Royal Museums Greenwich,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+11,Science Museum Group,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+12,Sir John Soane's Museum,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+13,Tate,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+14,Victoria and Albert Museum,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions
+15,Wallace Collection,pending except where C44 source verified,official 2024/25 PI table pending ingestion,same-period institution ID + exact official indicator definitions

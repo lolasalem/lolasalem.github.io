@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C45",
+  "finance_ledger_rows": 6,
+  "museum_join_population": 15,
+  "output_schema_fields": 10,
+  "comparison_guardrails": 7,
+  "accounts_checklist_sections": 10,
+  "derived_metrics": 3,
+  "no_efficiency_rankings": true
+}

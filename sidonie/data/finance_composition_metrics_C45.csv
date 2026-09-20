@@ -1,0 +1,4 @@
+entity_id,period,metric,value,calculation,source_id,interpretation_guardrail
+arts-council-england,2024/25,taxpayer_central_share,0.6856874108903023,578077000 / 843062000,ACE-REV1,descriptive composition only
+arts-council-england,2024/25,national_lottery_share,0.2968453091231724,250259000 / 843062000,ACE-REV1,Lottery is not taxpayer money
+arts-council-england,2024/25,lottery_investment_return_share,0.014275343924883341,12035000 / 843062000,ACE-REV1,kept separate from Lottery distribution income
