@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C61",
+  "historical_funding_records": 71,
+  "areas_with_year_specific_rows": 16,
+  "year_dropdown_added": true,
+  "one_view_card_removed": true,
+  "empty_history_is_evidence_gap_not_zero": true,
+  "ro5_2025_26_source_registered": true
+}
