@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C27",
+  "entity_anatomies": 25,
+  "unified_box_line_key": true,
+  "clean_research_navigation": true,
+  "collapsed_register_retained": true,
+  "C24_relationships_retained": true,
+  "regression": true
+}
