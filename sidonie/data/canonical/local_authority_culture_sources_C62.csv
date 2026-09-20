@@ -1,0 +1,4 @@
+source_id,title,issuer,date,location,scope
+RO-TS-V4,Revenue Outturn time series data v4,"Ministry of Housing, Communities and Local Government",2026-09-17,user-supplied official CSV,2017/18–2025/26; £000; cash terms
+RO-META-V4,Revenue Outturn metadata v4,"Ministry of Housing, Communities and Local Government",2026-09-17,user-supplied official ODS,Data dictionary; release log; authority genealogy; notes
+RO-GUIDE,Revenue Outturn multi-year data set guidance,"Ministry of Housing, Communities and Local Government",2026-09-17,https://www.gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-revenue-outturn-multi-year-data-set/revenue-outturn-multi-year-data-set-guidance,"Guidance: wide CSV, £000, cash terms; metadata; totals caveat"

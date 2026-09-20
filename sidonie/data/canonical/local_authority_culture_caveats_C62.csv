@@ -1,0 +1,7 @@
+scope,period,caveat_type,caveat
+all,2025/26,submission_completeness,Release log: 377/413 local authorities included in first 2025/26 release; absence is not zero.
+all,2017/18–2025/26,price_basis,Official values are cash terms; no inflation adjustment in canonical observations.
+all,all,totals,For England/class totals use official total rows rather than summing authorities when returns are incomplete.
+sports_leisure_facilities,2019/20 onward,series_start,Metadata starts this service line at 202003; do not backfill earlier years.
+parks_open_spaces,2019/20 onward,series_start,Metadata starts this service line at 202003; do not backfill earlier years.
+allotments,2019/20 onward,series_start,Metadata starts this service line at 202003; do not backfill earlier years.

@@ -1,0 +1,92 @@
+data_item,original_description,normalised_service,normalised_measure,start_period,end_period,form,row_number,column_number,mapping_status
+RO5_culhrtarc_empl,Employees - Archives,archives,employees,201803,nan,RO5,111.0,1.0,exact
+RO5_culhrtarc_run_exp,Running expenses - Archives,archives,running_expenses,201803,nan,RO5,111.0,2.0,exact
+RO5_culhrtarc_tot_exp,Total expenditure - Archives,archives,total_expenditure,201803,nan,RO5,111.0,3.0,exact
+RO5_culhrtarc_sfc,"Sales, Fees and Charges - Archives",archives,sales_fees_charges,201803,nan,RO5,111.0,4.0,exact
+RO5_culhrtarc_oth_inc,Other income - Archives,archives,other_income,201803,nan,RO5,111.0,5.0,exact
+RO5_culhrtarc_tot_inc,Total income - Archives,archives,total_income,201803,nan,RO5,111.0,6.0,exact
+RO5_culhrtarc_net_cur_exp,NET current expenditure - Archives,archives,net_current_expenditure,201803,nan,RO5,111.0,7.0,exact
+RO5_culhrt_art_dvl_spp_empl,Employees - Arts development and support,arts_development_support,employees,201803,nan,RO5,112.0,1.0,exact
+RO5_culhrt_art_dvl_spp_run_exp,Running expenses - Arts development and support,arts_development_support,running_expenses,201803,nan,RO5,112.0,2.0,exact
+RO5_culhrt_art_dvl_spp_tot_exp,Total expenditure - Arts development and support,arts_development_support,total_expenditure,201803,nan,RO5,112.0,3.0,exact
+RO5_culhrt_art_dvl_spp_sfc,"Sales, Fees and Charges - Arts development and support",arts_development_support,sales_fees_charges,201803,nan,RO5,112.0,4.0,exact
+RO5_culhrt_art_dvl_spp_oth_inc,Other income - Arts development and support,arts_development_support,other_income,201803,nan,RO5,112.0,5.0,exact
+RO5_culhrt_art_dvl_spp_tot_inc,Total income - Arts development and support,arts_development_support,total_income,201803,nan,RO5,112.0,6.0,exact
+RO5_culhrt_art_dvl_spp_net_cur_exp,NET current expenditure - Arts development and support,arts_development_support,net_current_expenditure,201803,nan,RO5,112.0,7.0,exact
+RO5_culhrt_hrt_empl,Employees - Heritage,heritage,employees,201803,nan,RO5,113.0,1.0,exact
+RO5_culhrt_hrt_run_exp,Running expenses - Heritage,heritage,running_expenses,201803,nan,RO5,113.0,2.0,exact
+RO5_culhrt_hrt_tot_exp,Total expenditure - Heritage,heritage,total_expenditure,201803,nan,RO5,113.0,3.0,exact
+RO5_culhrt_hrt_sfc,"Sales, Fees and Charges - Heritage",heritage,sales_fees_charges,201803,nan,RO5,113.0,4.0,exact
+RO5_culhrt_hrt_oth_inc,Other income - Heritage,heritage,other_income,201803,nan,RO5,113.0,5.0,exact
+RO5_culhrt_hrt_tot_inc,Total income - Heritage,heritage,total_income,201803,nan,RO5,113.0,6.0,exact
+RO5_culhrt_hrt_net_cur_exp,NET current expenditure - Heritage,heritage,net_current_expenditure,201803,nan,RO5,113.0,7.0,exact
+RO5_culhrt_msm_gll_empl,Employees - Museums and galleries,museums_galleries,employees,201803,nan,RO5,114.0,1.0,exact
+RO5_culhrt_msm_gll_run_exp,Running expenses - Museums and galleries,museums_galleries,running_expenses,201803,nan,RO5,114.0,2.0,exact
+RO5_culhrt_msm_gll_tot_exp,Total expenditure - Museums and galleries,museums_galleries,total_expenditure,201803,nan,RO5,114.0,3.0,exact
+RO5_culhrt_msm_gll_sfc,"Sales, Fees and Charges - Museums and galleries",museums_galleries,sales_fees_charges,201803,nan,RO5,114.0,4.0,exact
+RO5_culhrt_msm_gll_oth_inc,Other income - Museums and galleries,museums_galleries,other_income,201803,nan,RO5,114.0,5.0,exact
+RO5_culhrt_msm_gll_tot_inc,Total income - Museums and galleries,museums_galleries,total_income,201803,nan,RO5,114.0,6.0,exact
+RO5_culhrt_msm_gll_net_cur_exp,NET current expenditure - Museums and galleries,museums_galleries,net_current_expenditure,201803,nan,RO5,114.0,7.0,exact
+RO5_culhrt_tht_pbl_ent_empl,Employees - Theatres and public entertainment,theatres_public_entertainment,employees,201803,nan,RO5,115.0,1.0,exact
+RO5_culhrt_tht_pbl_ent_run_exp,Running expenses - Theatres and public entertainment,theatres_public_entertainment,running_expenses,201803,nan,RO5,115.0,2.0,exact
+RO5_culhrt_tht_pbl_ent_tot_exp,Total expenditure - Theatres and public entertainment,theatres_public_entertainment,total_expenditure,201803,nan,RO5,115.0,3.0,exact
+RO5_culhrt_tht_pbl_ent_sfc,"Sales, Fees and Charges - Theatres and public entertainment",theatres_public_entertainment,sales_fees_charges,201803,nan,RO5,115.0,4.0,exact
+RO5_culhrt_tht_pbl_ent_oth_inc,Other income - Theatres and public entertainment,theatres_public_entertainment,other_income,201803,nan,RO5,115.0,5.0,exact
+RO5_culhrt_tht_pbl_ent_tot_inc,Total income - Theatres and public entertainment,theatres_public_entertainment,total_income,201803,nan,RO5,115.0,6.0,exact
+RO5_culhrt_tht_pbl_ent_net_cur_exp,NET current expenditure - Theatres and public entertainment,theatres_public_entertainment,net_current_expenditure,201803,nan,RO5,115.0,7.0,exact
+RO5_culspr_cmm_cen_pub_hll_empl,Employees - Community centres and public halls,community_centres_public_halls,employees,201803,nan,RO5,121.0,1.0,exact
+RO5_culspr_cmm_cen_pub_hll_run_exp,Running expenses - Community centres and public halls,community_centres_public_halls,running_expenses,201803,nan,RO5,121.0,2.0,exact
+RO5_culspr_cmm_cen_pub_hll_tot_exp,Total expenditure - Community centres and public halls,community_centres_public_halls,total_expenditure,201803,nan,RO5,121.0,3.0,exact
+RO5_culspr_cmm_cen_pub_hll_sfc,"Sales, Fees and Charges - Community centres and public halls",community_centres_public_halls,sales_fees_charges,201803,nan,RO5,121.0,4.0,exact
+RO5_culspr_cmm_cen_pub_hll_oth_inc,Other income - Community centres and public halls,community_centres_public_halls,other_income,201803,nan,RO5,121.0,5.0,exact
+RO5_culspr_cmm_cen_pub_hll_tot_inc,Total income - Community centres and public halls,community_centres_public_halls,total_income,201803,nan,RO5,121.0,6.0,exact
+RO5_culspr_cmm_cen_pub_hll_net_cur_exp,NET current expenditure - Community centres and public halls,community_centres_public_halls,net_current_expenditure,201803,nan,RO5,121.0,7.0,exact
+RO5_culspr_spr_dvl_cmm_rec_empl,Employees - Sports development and community recreation,sports_development_community_recreation,employees,201803,nan,RO5,123.0,1.0,exact
+RO5_culspr_spr_dvl_cmm_rec_run_exp,Running expenses - Sports development and community recreation,sports_development_community_recreation,running_expenses,201803,nan,RO5,123.0,2.0,exact
+RO5_culspr_spr_dvl_cmm_rec_tot_exp,Total expenditure - Sports development and community recreation,sports_development_community_recreation,total_expenditure,201803,nan,RO5,123.0,3.0,exact
+RO5_culspr_spr_dvl_cmm_rec_sfc,"Sales, Fees and Charges - Sports development and community recreation",sports_development_community_recreation,sales_fees_charges,201803,nan,RO5,123.0,4.0,exact
+RO5_culspr_spr_dvl_cmm_rec_oth_inc,Other income - Sports development and community recreation,sports_development_community_recreation,other_income,201803,nan,RO5,123.0,5.0,exact
+RO5_culspr_spr_dvl_cmm_rec_tot_inc,Total income - Sports development and community recreation,sports_development_community_recreation,total_income,201803,nan,RO5,123.0,6.0,exact
+RO5_culspr_spr_dvl_cmm_rec_net_cur_exp,NET current expenditure - Sports development and community recreation,sports_development_community_recreation,net_current_expenditure,201803,nan,RO5,123.0,7.0,exact
+RO5_culspr_spr_lsr_fcl_empl,Employees - Sports and leisure facilities (including golf courses),sports_leisure_facilities,employees,202003,nan,RO5,129.0,1.0,exact
+RO5_culspr_spr_lsr_fcl_run_exp,Running expenses - Sports and leisure facilities (including golf courses),sports_leisure_facilities,running_expenses,202003,nan,RO5,129.0,2.0,exact
+RO5_culspr_spr_lsr_fcl_tot_exp,Total expenditure - Sports and leisure facilities (including golf courses),sports_leisure_facilities,total_expenditure,202003,nan,RO5,129.0,3.0,exact
+RO5_culspr_spr_lsr_fcl_sfc,"Sales, Fees and Charges - Sports and leisure facilities (including golf courses)",sports_leisure_facilities,sales_fees_charges,202003,nan,RO5,129.0,4.0,exact
+RO5_culspr_spr_lsr_fcl_oth_inc,Other income - Sports and leisure facilities (including golf courses),sports_leisure_facilities,other_income,202003,nan,RO5,129.0,5.0,exact
+RO5_culspr_spr_lsr_fcl_tot_inc,Total income - Sports and leisure facilities (including golf courses),sports_leisure_facilities,total_income,202003,nan,RO5,129.0,6.0,exact
+RO5_culspr_spr_lsr_fcl_net_cur_exp,NET current expenditure - Sports and leisure facilities (including golf courses),sports_leisure_facilities,net_current_expenditure,202003,nan,RO5,129.0,7.0,exact
+RO5_culprk_opn_empl,Employees - Parks and Open Spaces (including play areas),parks_open_spaces,employees,202003,nan,RO5,131.0,1.0,exact
+RO5_culprk_opn_run_exp,Running expenses - Parks and Open Spaces (including play areas),parks_open_spaces,running_expenses,202003,nan,RO5,131.0,2.0,exact
+RO5_culprk_opn_tot_exp,Total expenditure - Parks and Open Spaces (including play areas),parks_open_spaces,total_expenditure,202003,nan,RO5,131.0,3.0,exact
+RO5_culprk_opn_sfc,"Sales, Fees and Charges - Parks and Open Spaces (including play areas)",parks_open_spaces,sales_fees_charges,202003,nan,RO5,131.0,4.0,exact
+RO5_culprk_opn_oth_inc,Other income - Parks and Open Spaces (including play areas),parks_open_spaces,other_income,202003,nan,RO5,131.0,5.0,exact
+RO5_culprk_opn_tot_inc,Total income - Parks and Open Spaces (including play areas),parks_open_spaces,total_income,202003,nan,RO5,131.0,6.0,exact
+RO5_culprk_opn_net_cur_exp,NET current expenditure - Parks and Open Spaces (including play areas),parks_open_spaces,net_current_expenditure,202003,nan,RO5,131.0,7.0,exact
+RO5_culall_empl,Employees - Allotments,allotments,employees,202003,nan,RO5,137.0,1.0,exact
+RO5_culall_run_exp,Running expenses - Allotments,allotments,running_expenses,202003,nan,RO5,137.0,2.0,exact
+RO5_culall_tot_exp,Total expenditure - Allotments,allotments,total_expenditure,202003,nan,RO5,137.0,3.0,exact
+RO5_culall_sfc,"Sales, Fees and Charges - Allotments",allotments,sales_fees_charges,202003,nan,RO5,137.0,4.0,exact
+RO5_culall_oth_inc,Other income - Allotments,allotments,other_income,202003,nan,RO5,137.0,5.0,exact
+RO5_culall_tot_inc,Total income - Allotments,allotments,total_income,202003,nan,RO5,137.0,6.0,exact
+RO5_culall_net_cur_exp,NET current expenditure - Allotments,allotments,net_current_expenditure,202003,nan,RO5,137.0,7.0,exact
+RO5_cultrs_empl,Employees - Tourism,tourism,employees,201803,nan,RO5,140.0,1.0,exact
+RO5_cultrs_run_exp,Running expenses - Tourism,tourism,running_expenses,201803,nan,RO5,140.0,2.0,exact
+RO5_cultrs_tot_exp,Total expenditure - Tourism,tourism,total_expenditure,201803,nan,RO5,140.0,3.0,exact
+RO5_cultrs_sfc,"Sales, Fees and Charges - Tourism",tourism,sales_fees_charges,201803,nan,RO5,140.0,4.0,exact
+RO5_cultrs_oth_inc,Other income - Tourism,tourism,other_income,201803,nan,RO5,140.0,5.0,exact
+RO5_cultrs_tot_inc,Total income - Tourism,tourism,total_income,201803,nan,RO5,140.0,6.0,exact
+RO5_cultrs_net_cur_exp,NET current expenditure - Tourism,tourism,net_current_expenditure,201803,nan,RO5,140.0,7.0,exact
+RO5_cullib_empl,Employees - Library service,library_service,employees,201803,nan,RO5,150.0,1.0,exact
+RO5_cullib_run_exp,Running expenses - Library service,library_service,running_expenses,201803,nan,RO5,150.0,2.0,exact
+RO5_cullib_tot_exp,Total expenditure - Library service,library_service,total_expenditure,201803,nan,RO5,150.0,3.0,exact
+RO5_cullib_sfc,"Sales, Fees and Charges - Library service",library_service,sales_fees_charges,201803,nan,RO5,150.0,4.0,exact
+RO5_cullib_oth_inc,Other income - Library service,library_service,other_income,201803,nan,RO5,150.0,5.0,exact
+RO5_cullib_tot_inc,Total income - Library service,library_service,total_income,201803,nan,RO5,150.0,6.0,exact
+RO5_cullib_net_cur_exp,NET current expenditure - Library service,library_service,net_current_expenditure,201803,nan,RO5,150.0,7.0,exact
+RO5_cultot_empl,Employees - TOTAL CULTURAL AND RELATED SERVICES,total_cultural_related_services,employees,201803,nan,RO5,190.0,1.0,exact
+RO5_cultot_run_exp,Running expenses - TOTAL CULTURAL AND RELATED SERVICES,total_cultural_related_services,running_expenses,201803,nan,RO5,190.0,2.0,exact
+RO5_cultot_tot_exp,Total expenditure - TOTAL CULTURAL AND RELATED SERVICES,total_cultural_related_services,total_expenditure,201803,nan,RO5,190.0,3.0,exact
+RO5_cultot_sfc,"Sales, Fees and Charges - TOTAL CULTURAL AND RELATED SERVICES",total_cultural_related_services,sales_fees_charges,201803,nan,RO5,190.0,4.0,exact
+RO5_cultot_oth_inc,Other income - TOTAL CULTURAL AND RELATED SERVICES,total_cultural_related_services,other_income,201803,nan,RO5,190.0,5.0,exact
+RO5_cultot_tot_inc,Total income - TOTAL CULTURAL AND RELATED SERVICES,total_cultural_related_services,total_income,201803,nan,RO5,190.0,6.0,exact
+RO5_cultot_net_cur_exp,NET current expenditure - TOTAL CULTURAL AND RELATED SERVICES,total_cultural_related_services,net_current_expenditure,201803,nan,RO5,190.0,7.0,exact

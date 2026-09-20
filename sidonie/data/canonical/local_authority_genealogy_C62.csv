@@ -1,0 +1,465 @@
+ONS_code,LA_LGF_code,LA_name,class,subclass,region,start_period,end_period,change_note
+E08000038,E4401,Barnsley,Met District,Met District,South Yorkshire,202603,nan,Previous ONS code (E08000016) replaced from 202603 due to boundary change.
+E08000039,E4404,Sheffield,Met District,Met District,South Yorkshire,202603,nan,Previous ONS code (E08000019) replaced from 202603 due to boundary change.
+E06000001,E0701,Hartlepool UA,Unitary Authority,Unitary Authority,North East,201803,nan,nan
+E06000002,E0702,Middlesbrough UA,Unitary Authority,Unitary Authority,North East,201803,nan,nan
+E06000003,E0703,Redcar & Cleveland UA,Unitary Authority,Unitary Authority,North East,201803,nan,nan
+E06000004,E0704,Stockton-on-Tees UA,Unitary Authority,Unitary Authority,North East,201803,nan,nan
+E06000005,E1301,Darlington UA,Unitary Authority,Unitary Authority,North East,201803,nan,nan
+E06000006,E0601,Halton UA,Unitary Authority,Unitary Authority,North West,201803,nan,nan
+E06000007,E0602,Warrington UA,Unitary Authority,Unitary Authority,North West,201803,nan,nan
+E06000008,E2301,Blackburn with Darwen UA,Unitary Authority,Unitary Authority,North West,201803,nan,nan
+E06000009,E2302,Blackpool UA,Unitary Authority,Unitary Authority,North West,201803,nan,nan
+E06000010,E2002,Kingston-upon-Hull UA,Unitary Authority,Unitary Authority,Yorkshire and The Humber,201803,nan,nan
+E06000011,E2001,East Riding of Yorkshire UA,Unitary Authority,Unitary Authority,Yorkshire and The Humber,201803,nan,nan
+E06000012,E2003,North East Lincolnshire UA,Unitary Authority,Unitary Authority,Yorkshire and The Humber,201803,nan,nan
+E06000013,E2004,North Lincolnshire UA,Unitary Authority,Unitary Authority,Yorkshire and The Humber,201803,nan,nan
+E06000014,E2701,York UA,Unitary Authority,Unitary Authority,Yorkshire and The Humber,201803,nan,nan
+E06000015,E1001,Derby City UA,Unitary Authority,Unitary Authority,East Midlands,201803,nan,nan
+E06000016,E2401,Leicester City UA,Unitary Authority,Unitary Authority,East Midlands,201803,nan,nan
+E06000017,E2402,Rutland UA,Unitary Authority,Unitary Authority,East Midlands,201803,nan,nan
+E06000018,E3001,Nottingham City UA,Unitary Authority,Unitary Authority,East Midlands,201803,nan,nan
+E06000019,E1801,Herefordshire UA,Unitary Authority,Unitary Authority,West Midlands,201803,nan,nan
+E06000020,E3201,Telford & the Wrekin UA,Unitary Authority,Unitary Authority,West Midlands,201803,nan,nan
+E06000021,E3401,Stoke-on-Trent UA,Unitary Authority,Unitary Authority,West Midlands,201803,nan,nan
+E06000022,E0101,Bath & North East Somerset UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000023,E0102,Bristol UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000024,E0104,North Somerset UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000025,E0103,South Gloucestershire UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000026,E1101,Plymouth UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000027,E1102,Torbay UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000028,E1202,Bournemouth Borough Council,Unitary Authority,Unitary Authority,South West,201803,201903.0,"Merged into Bournemouth, Christchurch and Poole in April 2019."
+E06000029,E1201,Borough of Poole,Unitary Authority,Unitary Authority,South West,201803,201903.0,"Merged into Bournemouth, Christchurch and Poole in April 2019."
+E06000030,E3901,Swindon UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000031,E0501,Peterborough UA,Unitary Authority,Unitary Authority,East of England,201803,nan,nan
+E06000032,E0201,Luton UA,Unitary Authority,Unitary Authority,East of England,201803,nan,nan
+E06000033,E1501,Southend-on-Sea UA,Unitary Authority,Unitary Authority,East of England,201803,nan,nan
+E06000034,E1502,Thurrock UA,Unitary Authority,Unitary Authority,East of England,201803,nan,nan
+E06000035,E2201,Medway Towns UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000036,E0301,Bracknell Forest UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000037,E0302,West Berkshire UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000038,E0303,Reading UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000039,E0304,Slough UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000040,E0305,Windsor & Maidenhead UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000041,E0306,Wokingham UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000042,E0401,Milton Keynes UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000043,E1401,Brighton & Hove UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000044,E1701,Portsmouth UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000045,E1702,Southampton UA,Unitary Authority,Unitary Authority,South East,201803,nan,nan
+E06000046,E2101,Isle of Wight UA,Unitary Authority,Unitary Authority,South East,201803,nan,Fire and Rescue function taken over by Hampshire and Isle of Wight Fire and Rescue Authority in April 2021.
+E06000047,E1302,Durham UA,Unitary Authority,Unitary Authority,North East,201803,nan,nan
+E06000049,E0603,Cheshire East UA,Unitary Authority,Unitary Authority,North West,201803,nan,nan
+E06000050,E0604,Cheshire West and Chester UA,Unitary Authority,Unitary Authority,North West,201803,nan,nan
+E06000051,E3202,Shropshire UA,Unitary Authority,Unitary Authority,West Midlands,201803,nan,nan
+E06000052,E0801,Cornwall UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000053,E4001,Isles of Scilly,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000054,E3902,Wiltshire UA,Unitary Authority,Unitary Authority,South West,201803,nan,nan
+E06000055,E0202,Bedford UA,Unitary Authority,Unitary Authority,East of England,201803,nan,nan
+E06000056,E0203,Central Bedfordshire UA,Unitary Authority,Unitary Authority,East of England,201803,nan,nan
+E06000057,E2901,Northumberland UA,Unitary Authority,Unitary Authority,North East,201803,nan,nan
+E06000058,E1204,"Bournemouth, Christchurch and Poole UA",Unitary Authority,Unitary Authority,South West,202003,nan,"Formed by a merger of Bournemouth, Christchurch and Poole in April 2019."
+E06000059,E1203,Dorset UA,Unitary Authority,Unitary Authority,South West,202003,nan,Formed from a split of Dorset in April 2019.
+E06000060,E0402,Buckinghamshire UA,Unitary Authority,Unitary Authority,South East,202103,nan,"Formed by a merger of Aylesbury Vale, Chiltern, South Bucks and Wycombe in April 2020."
+E06000061,E2801,North Northamptonshire,Unitary Authority,Unitary Authority,East Midlands,202203,nan,"Formed in April 2021, when Corby, East Northamptonshire, Kettering, and Wellingborough were merged."
+E06000062,E2802,West Northamptonshire,Unitary Authority,Unitary Authority,East Midlands,202203,nan,"Formed in April 2021, when Daventry, Northampton and South Northamptonshire were merged."
+E06000063,E0901,Cumberland Council,Unitary Authority,Unitary Authority,North West,202403,nan,"Formed by a merger of Cumbria, Allerdale, Carlisle and Copeland in April 2023."
+E06000064,E0902,Westmorland and Furness,Unitary Authority,Unitary Authority,North West,202403,nan,"Formed by a merger of Cumbria, Barrow-in-Furness, Eden and South Lakeland in April 2023."
+E06000065,E2702,North Yorkshire ,Unitary Authority,Unitary Authority,North East,202403,nan,"Formed by a merger of North Yorkshire County Council, Craven, Hambleton, Harrogate, Richmondshire, Ryedale, Scarborough and Selby in April 2023."
+E06000066,E3301,Somerset Council,Unitary Authority,Unitary Authority,South West,202403,nan,"Formed by a merger of Somerset, Mendip, Sedgemoor, Somerset West & Taunton and South Somerset in April 2023."
+E07000004,E0431,Aylesbury Vale DC,Shire District,Shire District,South East,201803,202003.0,Merged into Buckinghamshire in April 2020.
+E07000005,E0432,Chiltern,Shire District,Shire District,South East,201803,202003.0,Merged into Buckinghamshire in April 2020.
+E07000006,E0434,South Buckinghamshire,Shire District,Shire District,South East,201803,202003.0,Merged into Buckinghamshire in April 2020.
+E07000007,E0435,Wycombe,Shire District,Shire District,South East,201803,202003.0,Merged into Buckinghamshire in April 2020.
+E07000008,E0531,Cambridge,Shire District,Shire District,East of England,201803,nan,nan
+E07000009,E0532,East Cambridgeshire,Shire District,Shire District,East of England,201803,nan,nan
+E07000010,E0533,Fenland,Shire District,Shire District,East of England,201803,nan,nan
+E07000011,E0551,Huntingdonshire,Shire District,Shire District,East of England,201803,nan,nan
+E07000012,E0536,South Cambridgeshire,Shire District,Shire District,East of England,201803,nan,nan
+E07000026,E0931,Allerdale,Shire District,Shire District,North West,201803,202303.0,Merged into Cumberland Council in April 2023.
+E07000027,E0932,Barrow-in-Furness,Shire District,Shire District,North West,201803,202303.0,Merged into Westmorland and Furness in April 2023.
+E07000028,E0933,Carlisle,Shire District,Shire District,North West,201803,202303.0,Merged into Cumberland Council in April 2023.
+E07000029,E0934,Copeland,Shire District,Shire District,North West,201803,202303.0,Merged into Cumberland Council in April 2023.
+E07000030,E0935,Eden,Shire District,Shire District,North West,201803,202303.0,Merged into Westmorland and Furness in April 2023.
+E07000031,E0936,South Lakeland,Shire District,Shire District,North West,201803,202303.0,Merged into Westmorland and Furness in April 2023.
+E07000032,E1031,Amber Valley,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000033,E1032,Bolsover,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000034,E1033,Chesterfield,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000035,E1035,Derbyshire Dales,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000036,E1036,Erewash,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000037,E1037,High Peak,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000038,E1038,North East Derbyshire,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000039,E1039,South Derbyshire,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000040,E1131,East Devon,Shire District,Shire District,South West,201803,nan,nan
+E07000041,E1132,Exeter,Shire District,Shire District,South West,201803,nan,nan
+E07000042,E1133,Mid Devon,Shire District,Shire District,South West,201803,nan,nan
+E07000043,E1134,North Devon,Shire District,Shire District,South West,201803,nan,nan
+E07000044,E1136,South Hams,Shire District,Shire District,South West,201803,nan,nan
+E07000045,E1137,Teignbridge,Shire District,Shire District,South West,201803,nan,nan
+E07000046,E1139,Torridge,Shire District,Shire District,South West,201803,nan,nan
+E07000047,E1140,West Devon,Shire District,Shire District,South West,201803,nan,nan
+E07000048,E1232,Christchurch Borough Council,Shire District,Shire District,South West,201803,201903.0,"Merged into Bournemouth, Christchurch and Poole in April 2019."
+E07000049,E1233,East Dorset District Council,Shire District,Shire District,South West,201803,201903.0,Merged into Dorset Council in April 2019.
+E07000050,E1234,North Dorset District Council,Shire District,Shire District,South West,201803,201903.0,Merged into Dorset Council in April 2019.
+E07000051,E1236,Purbeck District Council,Shire District,Shire District,South West,201803,201903.0,Merged into Dorset Council in April 2019.
+E07000052,E1237,West Dorset District Council,Shire District,Shire District,South West,201803,201903.0,Merged into Dorset Council in April 2019.
+E07000053,E1238,Weymouth and Portland Borough Council,Shire District,Shire District,South West,201803,201903.0,Merged into Dorset Council in April 2019.
+E07000061,E1432,Eastbourne,Shire District,Shire District,South East,201803,nan,nan
+E07000062,E1433,Hastings,Shire District,Shire District,South East,201803,nan,nan
+E07000063,E1435,Lewes,Shire District,Shire District,South East,201803,nan,nan
+E07000064,E1436,Rother,Shire District,Shire District,South East,201803,nan,nan
+E07000065,E1437,Wealden,Shire District,Shire District,South East,201803,nan,nan
+E07000066,E1531,Basildon,Shire District,Shire District,East of England,201803,nan,nan
+E07000067,E1532,Braintree,Shire District,Shire District,East of England,201803,nan,nan
+E07000068,E1533,Brentwood,Shire District,Shire District,East of England,201803,nan,nan
+E07000069,E1534,Castle Point,Shire District,Shire District,East of England,201803,nan,nan
+E07000070,E1535,Chelmsford,Shire District,Shire District,East of England,201803,nan,nan
+E07000071,E1536,Colchester,Shire District,Shire District,East of England,201803,nan,nan
+E07000072,E1537,Epping Forest,Shire District,Shire District,East of England,201803,nan,nan
+E07000073,E1538,Harlow,Shire District,Shire District,East of England,201803,nan,nan
+E07000074,E1539,Maldon DC,Shire District,Shire District,East of England,201803,nan,nan
+E07000075,E1540,Rochford,Shire District,Shire District,East of England,201803,nan,nan
+E07000076,E1542,Tendring DC,Shire District,Shire District,East of England,201803,nan,nan
+E07000077,E1544,Uttlesford,Shire District,Shire District,East of England,201803,nan,nan
+E07000078,E1631,Cheltenham,Shire District,Shire District,South West,201803,nan,nan
+E07000079,E1632,Cotswold,Shire District,Shire District,South West,201803,nan,nan
+E07000080,E1633,Forest of Dean,Shire District,Shire District,South West,201803,nan,nan
+E07000081,E1634,Gloucester,Shire District,Shire District,South West,201803,nan,nan
+E07000082,E1635,Stroud,Shire District,Shire District,South West,201803,nan,nan
+E07000083,E1636,Tewkesbury,Shire District,Shire District,South West,201803,nan,nan
+E07000084,E1731,Basingstoke & Deane,Shire District,Shire District,South East,201803,nan,nan
+E07000085,E1732,East Hampshire,Shire District,Shire District,South East,201803,nan,nan
+E07000086,E1733,Eastleigh,Shire District,Shire District,South East,201803,nan,nan
+E07000087,E1734,Fareham,Shire District,Shire District,South East,201803,nan,nan
+E07000088,E1735,Gosport,Shire District,Shire District,South East,201803,nan,nan
+E07000089,E1736,Hart DC,Shire District,Shire District,South East,201803,nan,nan
+E07000090,E1737,Havant,Shire District,Shire District,South East,201803,nan,nan
+E07000091,E1738,New Forest,Shire District,Shire District,South East,201803,nan,nan
+E07000092,E1740,Rushmoor,Shire District,Shire District,South East,201803,nan,nan
+E07000093,E1742,Test Valley,Shire District,Shire District,South East,201803,nan,nan
+E07000094,E1743,Winchester,Shire District,Shire District,South East,201803,nan,nan
+E07000095,E1931,Broxbourne,Shire District,Shire District,East of England,201803,nan,nan
+E07000096,E1932,Dacorum,Shire District,Shire District,East of England,201803,nan,nan
+E07000098,E1934,Hertsmere,Shire District,Shire District,East of England,201803,nan,nan
+E07000099,E1935,North Hertfordshire,Shire District,Shire District,East of England,201803,nan,nan
+E07000102,E1938,Three Rivers,Shire District,Shire District,East of England,201803,nan,nan
+E07000103,E1939,Watford,Shire District,Shire District,East of England,201803,nan,nan
+E07000105,E2231,Ashford,Shire District,Shire District,South East,201803,nan,nan
+E07000106,E2232,Canterbury,Shire District,Shire District,South East,201803,nan,nan
+E07000107,E2233,Dartford,Shire District,Shire District,South East,201803,nan,nan
+E07000108,E2234,Dover,Shire District,Shire District,South East,201803,nan,nan
+E07000109,E2236,Gravesham,Shire District,Shire District,South East,201803,nan,nan
+E07000110,E2237,Maidstone,Shire District,Shire District,South East,201803,nan,nan
+E07000111,E2239,Sevenoaks,Shire District,Shire District,South East,201803,nan,nan
+E07000112,E2240,Folkestone & Hythe,Shire District,Shire District,South East,201803,nan,nan
+E07000113,E2241,Swale,Shire District,Shire District,South East,201803,nan,nan
+E07000114,E2242,Thanet,Shire District,Shire District,South East,201803,nan,nan
+E07000115,E2243,Tonbridge & Malling,Shire District,Shire District,South East,201803,nan,nan
+E07000116,E2244,Tunbridge Wells,Shire District,Shire District,South East,201803,nan,nan
+E07000117,E2333,Burnley,Shire District,Shire District,North West,201803,nan,nan
+E07000118,E2334,Chorley,Shire District,Shire District,North West,201803,nan,nan
+E07000119,E2335,Fylde,Shire District,Shire District,North West,201803,nan,nan
+E07000120,E2336,Hyndburn BC,Shire District,Shire District,North West,201803,nan,nan
+E07000121,E2337,Lancaster,Shire District,Shire District,North West,201803,nan,nan
+E07000122,E2338,Pendle,Shire District,Shire District,North West,201803,nan,nan
+E07000123,E2339,Preston,Shire District,Shire District,North West,201803,nan,nan
+E07000124,E2340,Ribble Valley,Shire District,Shire District,North West,201803,nan,nan
+E07000125,E2341,Rossendale,Shire District,Shire District,North West,201803,nan,nan
+E07000126,E2342,South Ribble,Shire District,Shire District,North West,201803,nan,nan
+E07000127,E2343,West Lancashire,Shire District,Shire District,North West,201803,nan,nan
+E07000128,E2344,Wyre,Shire District,Shire District,North West,201803,nan,nan
+E07000129,E2431,Blaby,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000130,E2432,Charnwood BC,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000131,E2433,Harborough,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000132,E2434,Hinckley & Bosworth,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000133,E2436,Melton,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000134,E2437,North West Leicestershire,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000135,E2438,Oadby & Wigston,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000136,E2531,Boston BC,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000137,E2532,East Lindsey,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000138,E2533,Lincoln City,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000139,E2534,North Kesteven,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000140,E2535,South Holland,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000141,E2536,South Kesteven,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000142,E2537,West Lindsey,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000143,E2631,Breckland,Shire District,Shire District,East of England,201803,nan,nan
+E07000144,E2632,Broadland,Shire District,Shire District,East of England,201803,nan,nan
+E07000145,E2633,Great Yarmouth,Shire District,Shire District,East of England,201803,nan,nan
+E07000146,E2634,King's Lynn & West Norfolk,Shire District,Shire District,East of England,201803,nan,nan
+E07000147,E2635,North Norfolk,Shire District,Shire District,East of England,201803,nan,nan
+E07000148,E2636,Norwich City,Shire District,Shire District,East of England,201803,nan,nan
+E07000149,E2637,South Norfolk,Shire District,Shire District,East of England,201803,nan,nan
+E07000150,E2831,Corby,Shire District,Shire District,East Midlands,201803,202103.0,Merged into North Northamptonshire Council in April 2021.
+E07000151,E2832,Daventry DC,Shire District,Shire District,East Midlands,201803,202103.0,Merged into West Northamptonshire Council in April 2021.
+E07000152,E2833,East Northamptonshire,Shire District,Shire District,East Midlands,201803,202103.0,Merged into North Northamptonshire Council in April 2021.
+E07000153,E2834,Kettering,Shire District,Shire District,East Midlands,201803,202103.0,Merged into North Northamptonshire Council in April 2021.
+E07000154,E2835,Northampton,Shire District,Shire District,East Midlands,201803,202103.0,Merged into West Northamptonshire Council in April 2021.
+E07000155,E2836,South Northamptonshire,Shire District,Shire District,East Midlands,201803,202103.0,Merged into West Northamptonshire Council in April 2021.
+E07000156,E2837,Wellingborough,Shire District,Shire District,East Midlands,201803,202103.0,Merged into North Northamptonshire Council in April 2021.
+E07000163,E2731,Craven,Shire District,Shire District,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E07000164,E2732,Hambleton,Shire District,Shire District,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E07000165,E2753,Harrogate,Shire District,Shire District,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E07000166,E2734,Richmondshire DC,Shire District,Shire District,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E07000167,E2755,Ryedale DC,Shire District,Shire District,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E07000168,E2736,Scarborough,Shire District,Shire District,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E07000169,E2757,Selby DC,Shire District,Shire District,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E07000170,E3031,Ashfield,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000171,E3032,Bassetlaw,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000172,E3033,Broxtowe,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000173,E3034,Gedling,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000174,E3035,Mansfield,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000175,E3036,Newark & Sherwood ,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000176,E3038,Rushcliffe,Shire District,Shire District,East Midlands,201803,nan,nan
+E07000177,E3131,Cherwell,Shire District,Shire District,South East,201803,nan,nan
+E07000178,E3132,Oxford,Shire District,Shire District,South East,201803,nan,nan
+E07000179,E3133,South Oxfordshire,Shire District,Shire District,South East,201803,nan,nan
+E07000180,E3134,Vale of White Horse DC,Shire District,Shire District,South East,201803,nan,nan
+E07000181,E3135,West Oxfordshire,Shire District,Shire District,South East,201803,nan,nan
+E07000187,E3331,Mendip,Shire District,Shire District,South West,201803,202303.0,Merged into Somerset Council in April 2023
+E07000188,E3332,Sedgemoor,Shire District,Shire District,South West,201803,202303.0,Merged into Somerset Council in April 2023
+E07000189,E3334,South Somerset,Shire District,Shire District,South West,201803,202303.0,Merged into Somerset Council in April 2023
+E07000190,E3333,Taunton Deane Borough Council,Shire District,Shire District,South West,201803,201903.0,Merged into Somerset West & Taunton in April 2019.
+E07000191,E3335,West Somerset District Council,Shire District,Shire District,South West,201803,201903.0,Merged into Somerset West & Taunton in April 2019.
+E07000192,E3431,Cannock Chase,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000193,E3432,East Staffordshire,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000194,E3433,Lichfield,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000195,E3434,Newcastle-under-Lyme,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000196,E3435,South Staffordshire,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000197,E3436,Stafford BC,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000198,E3437,Staffordshire Moorlands,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000199,E3439,Tamworth,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000200,E3531,Babergh,Shire District,Shire District,East of England,201803,nan,nan
+E07000201,E3532,Forest Heath District Council,Shire District,Shire District,East of England,201803,201903.0,Merged into West Suffolk in April 2019.
+E07000202,E3533,Ipswich,Shire District,Shire District,East of England,201803,nan,nan
+E07000203,E3534,Mid Suffolk,Shire District,Shire District,East of England,201803,nan,nan
+E07000204,E3535,St Edmundsbury Borough Council,Shire District,Shire District,East of England,201803,201903.0,Merged into West Suffolk in April 2019.
+E07000205,E3536,Suffolk Coastal District Council,Shire District,Shire District,East of England,201803,201903.0,Merged into East Suffolk in April 2019.
+E07000206,E3537,Waveney District Council,Shire District,Shire District,East of England,201803,201903.0,Merged into East Suffolk in April 2019.
+E07000207,E3631,Elmbridge,Shire District,Shire District,South East,201803,nan,nan
+E07000208,E3632,Epsom & Ewell,Shire District,Shire District,South East,201803,nan,nan
+E07000209,E3633,Guildford,Shire District,Shire District,South East,201803,nan,nan
+E07000210,E3634,Mole Valley,Shire District,Shire District,South East,201803,nan,nan
+E07000211,E3635,Reigate and Banstead,Shire District,Shire District,South East,201803,nan,nan
+E07000212,E3636,Runnymede,Shire District,Shire District,South East,201803,nan,nan
+E07000213,E3637,Spelthorne,Shire District,Shire District,South East,201803,nan,nan
+E07000214,E3638,Surrey Heath,Shire District,Shire District,South East,201803,nan,nan
+E07000215,E3639,Tandridge,Shire District,Shire District,South East,201803,nan,nan
+E07000216,E3640,Waverley,Shire District,Shire District,South East,201803,nan,nan
+E07000217,E3641,Woking BC,Shire District,Shire District,South East,201803,nan,nan
+E07000218,E3731,North Warwickshire,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000219,E3732,Nuneaton & Bedworth,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000220,E3733,Rugby,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000221,E3734,Stratford-on-Avon,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000222,E3735,Warwick,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000223,E3831,Adur,Shire District,Shire District,South East,201803,nan,nan
+E07000224,E3832,Arun,Shire District,Shire District,South East,201803,nan,nan
+E07000225,E3833,Chichester,Shire District,Shire District,South East,201803,nan,nan
+E07000226,E3834,Crawley,Shire District,Shire District,South East,201803,nan,nan
+E07000227,E3835,Horsham,Shire District,Shire District,South East,201803,nan,nan
+E07000228,E3836,Mid Sussex,Shire District,Shire District,South East,201803,nan,nan
+E07000229,E3837,Worthing,Shire District,Shire District,South East,201803,nan,nan
+E07000234,E1831,Bromsgrove,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000235,E1851,Malvern Hills,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000236,E1835,Redditch BC,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000237,E1837,Worcester,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000238,E1838,Wychavon,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000239,E1839,Wyre Forest,Shire District,Shire District,West Midlands,201803,nan,nan
+E07000240,E1936,St Albans,Shire District,Shire District,East of England,201803,nan,nan
+E07000241,E1940,Welwyn Hatfield,Shire District,Shire District,East of England,201803,nan,nan
+E07000242,E1933,East Hertfordshire,Shire District,Shire District,East of England,201803,nan,nan
+E07000243,E1937,Stevenage,Shire District,Shire District,East of England,201803,nan,nan
+E07000244,E3538,East Suffolk,Shire District,Shire District,East of England,202003,nan,Formed by a merger of Suffolk Coastal and Waveney in April 2019.
+E07000245,E3539,West Suffolk,Shire District,Shire District,East of England,202003,nan,Formed by a merger of Forest Heath and St Edmundsbury in April 2019.
+E07000246,E3336,Somerset West and Taunton,Shire District,Shire District,South West,202003,202303.0,Formed by a merger of Somerset West and Taunton in April 2019. Then merged into Somerset Council in April 2023.
+E08000001,E4201,Bolton,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000002,E4202,Bury MBC,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000003,E4203,Manchester,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000004,E4204,Oldham,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000005,E4205,Rochdale,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000006,E4206,Salford,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000007,E4207,Stockport MBC,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000008,E4208,Tameside,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000009,E4209,Trafford,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000010,E4210,Wigan MBC,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000011,E4301,Knowsley,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000012,E4302,Liverpool,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000013,E4303,St Helens MBC,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000014,E4304,Sefton,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000015,E4305,Wirral,Metropolitan District,Metropolitan District,North West,201803,nan,nan
+E08000016,E4401,Barnsley,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000017,E4402,Doncaster,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000018,E4403,Rotherham,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000019,E4404,Sheffield,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000021,E4502,Newcastle,Metropolitan District,Metropolitan District,North East,201803,nan,nan
+E08000022,E4503,North Tyneside,Metropolitan District,Metropolitan District,North East,201803,nan,nan
+E08000023,E4504,South Tyneside,Metropolitan District,Metropolitan District,North East,201803,nan,nan
+E08000024,E4505,Sunderland,Metropolitan District,Metropolitan District,North East,201803,nan,nan
+E08000025,E4601,Birmingham,Metropolitan District,Metropolitan District,West Midlands,201803,nan,nan
+E08000026,E4602,Coventry,Metropolitan District,Metropolitan District,West Midlands,201803,nan,nan
+E08000027,E4603,Dudley,Metropolitan District,Metropolitan District,West Midlands,201803,nan,nan
+E08000028,E4604,Sandwell,Metropolitan District,Metropolitan District,West Midlands,201803,nan,nan
+E08000029,E4605,Solihull,Metropolitan District,Metropolitan District,West Midlands,201803,nan,nan
+E08000030,E4606,Walsall,Metropolitan District,Metropolitan District,West Midlands,201803,nan,nan
+E08000031,E4607,Wolverhampton,Metropolitan District,Metropolitan District,West Midlands,201803,nan,nan
+E08000032,E4701,Bradford,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000033,E4702,Calderdale,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000034,E4703,Kirklees,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000035,E4704,Leeds,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000036,E4705,Wakefield,Metropolitan District,Metropolitan District,Yorkshire and The Humber,201803,nan,nan
+E08000037,E4501,Gateshead,Metropolitan District,Metropolitan District,North East,201803,nan,nan
+E09000001,E5010,City of London,London Borough,London Borough,London,201803,nan,nan
+E09000002,E5030,Barking & Dagenham,London Borough,London Borough,London,201803,nan,nan
+E09000003,E5031,Barnet,London Borough,London Borough,London,201803,nan,nan
+E09000004,E5032,Bexley,London Borough,London Borough,London,201803,nan,nan
+E09000005,E5033,Brent,London Borough,London Borough,London,201803,nan,nan
+E09000006,E5034,Bromley,London Borough,London Borough,London,201803,nan,nan
+E09000007,E5011,Camden,London Borough,London Borough,London,201803,nan,nan
+E09000008,E5035,Croydon,London Borough,London Borough,London,201803,nan,nan
+E09000009,E5036,Ealing,London Borough,London Borough,London,201803,nan,nan
+E09000010,E5037,Enfield,London Borough,London Borough,London,201803,nan,nan
+E09000011,E5012,Greenwich,London Borough,London Borough,London,201803,nan,nan
+E09000012,E5013,Hackney,London Borough,London Borough,London,201803,nan,nan
+E09000013,E5014,Hammersmith & Fulham,London Borough,London Borough,London,201803,nan,nan
+E09000014,E5038,Haringey,London Borough,London Borough,London,201803,nan,nan
+E09000015,E5039,Harrow,London Borough,London Borough,London,201803,nan,nan
+E09000016,E5040,Havering,London Borough,London Borough,London,201803,nan,nan
+E09000017,E5041,Hillingdon,London Borough,London Borough,London,201803,nan,nan
+E09000018,E5042,Hounslow,London Borough,London Borough,London,201803,nan,nan
+E09000019,E5015,Islington,London Borough,London Borough,London,201803,nan,nan
+E09000020,E5016,Kensington & Chelsea,London Borough,London Borough,London,201803,nan,nan
+E09000021,E5043,Kingston Upon Thames,London Borough,London Borough,London,201803,nan,nan
+E09000022,E5017,Lambeth,London Borough,London Borough,London,201803,nan,nan
+E09000023,E5018,Lewisham,London Borough,London Borough,London,201803,nan,nan
+E09000024,E5044,Merton,London Borough,London Borough,London,201803,nan,nan
+E09000025,E5045,Newham,London Borough,London Borough,London,201803,nan,nan
+E09000026,E5046,Redbridge,London Borough,London Borough,London,201803,nan,nan
+E09000027,E5047,Richmond upon Thames,London Borough,London Borough,London,201803,nan,nan
+E09000028,E5019,Southwark,London Borough,London Borough,London,201803,nan,nan
+E09000029,E5048,Sutton,London Borough,London Borough,London,201803,nan,nan
+E09000030,E5020,Tower Hamlets,London Borough,London Borough,London,201803,nan,nan
+E09000031,E5049,Waltham Forest,London Borough,London Borough,London,201803,nan,nan
+E09000032,E5021,Wandsworth,London Borough,London Borough,London,201803,nan,nan
+E09000033,E5022,Westminster,London Borough,London Borough,London,201803,nan,nan
+E10000002,E0421,Buckinghamshire CC,Shire County,Shire County,South East,201803,202003.0,Was replaced by Buckinghamshire UA in April 2020.
+E10000003,E0521,Cambridgeshire CC,Shire County,Shire County,East of England,201803,nan,nan
+E10000006,E0920,Cumbria CC,Shire County,Shire County,North West,201803,202303.0,Split to become Cumberland Council and Westmorland & Furness Council in April 2023. Fire role merged with Police & Crime at the same time.
+E10000007,E1021,Derbyshire CC,Shire County,Shire County,East Midlands,201803,nan,nan
+E10000008,E1121,Devon CC,Shire County,Shire County,South West,201803,nan,nan
+E10000009,E1221,Dorset County Council,Shire County,Shire County,South West,201803,201903.0,"Split to become Dorset Unitary Authority and Bournemouth, Christchurch and Poole, the latter from merging with other authorities."
+E10000011,E1421,East Sussex CC,Shire County,Shire County,South East,201803,nan,nan
+E10000012,E1521,Essex CC,Shire County,Shire County,East of England,201803,nan,nan
+E10000013,E1620,Gloucestershire CC,Shire County,Shire County,South West,201803,nan,nan
+E10000014,E1721,Hampshire CC,Shire County,Shire County,South East,201803,nan,nan
+E10000015,E1920,Hertfordshire CC,Shire County,Shire County,East of England,201803,nan,nan
+E10000016,E2221,Kent CC,Shire County,Shire County,South East,201803,nan,nan
+E10000017,E2321,Lancashire CC,Shire County,Shire County,North West,201803,nan,nan
+E10000018,E2421,Leicestershire CC,Shire County,Shire County,East Midlands,201803,nan,nan
+E10000019,E2520,Lincolnshire CC,Shire County,Shire County,East Midlands,201803,nan,nan
+E10000020,E2620,Norfolk CC,Shire County,Shire County,East of England,201803,nan,nan
+E10000021,E2820,Northamptonshire CC,Shire County,Shire County,East Midlands,201803,202103.0,Lost Fire role when that merged with Northamptonshire Police & Crime and created new special authority in January 2019. Split into West Northamptonshire and North Northamptonshire in April 2021.
+E10000023,E2721,North Yorkshire CC,Shire County,Shire County,Yorkshire and The Humber,201803,202303.0,Merged into North Yorkshire in April 2023
+E10000024,E3021,Nottinghamshire CC,Shire County,Shire County,East Midlands,201803,nan,nan
+E10000025,E3120,Oxfordshire CC,Shire County,Shire County,South East,201803,nan,nan
+E10000027,E3320,Somerset CC,Shire County,Shire County,South West,201803,202303.0,Merged into Somerset Council in April 2023
+E10000028,E3421,Staffordshire CC,Shire County,Shire County,West Midlands,201803,nan,nan
+E10000029,E3520,Suffolk CC,Shire County,Shire County,East of England,201803,nan,nan
+E10000030,E3620,Surrey CC,Shire County,Shire County,South East,201803,nan,nan
+E10000031,E3720,Warwickshire CC,Shire County,Shire County,West Midlands,201803,nan,nan
+E10000032,E3820,West Sussex CC,Shire County,Shire County,South East,201803,nan,nan
+E10000034,E1821,Worcestershire CC,Shire County,Shire County,West Midlands,201803,nan,nan
+E12000007,E5100,Greater London Authority,Other,GLA,London,201803,nan,nan
+E23000002,E7009,"Cumbria Police, Fire and Crime Commissioner - Police",Other,Police,North West,201803,nan,The Cumbria Police and Crime Commissioner's role was expanded to cover fire services in April 2023.
+E23000003,E7023,Lancashire Police and Crime Commissioner and Chief Constable,Other,Police,North West,201803,nan,nan
+E23000004,E7043,Merseyside Police and Crime Commissioner and Chief Constable,Other,Police,North West,201803,nan,nan
+E23000005,E7042,Greater Manchester Police and Crime Commissioner and Chief Constable,Other,Police,North West,201803,201703.0,"The role of the Greater Manchester Police and Crime Commissioner was removed in 2017. Responsibilites for budget and governance were transferred to the Greater Manchester Combined Authority. However, expenditure on policing serves is still reported separately in Revenue Outturn."
+E23000006,E7006,Cheshire Police and Crime Commissioner and Chief Constable,Other,Police,North West,201803,nan,nan
+E23000007,E7045,Northumbria Police and Crime Commissioner and Chief Constable,Other,Police,North East,201803,nan,nan
+E23000008,E7013,Durham Police and Crime Commissioner and Chief Constable,Other,Police,North East,201803,nan,nan
+E23000009,E7027,North Yorkshire Police and Crime Commissioner and Chief Constable,Other,Police,Yorkshire and The Humber,201803,nan,nan
+E23000010,E7047,West Yorkshire Police and Crime Commissioner and Chief Constable,Other,Police,Yorkshire and The Humber,201803,nan,nan
+E23000011,E7044,South Yorkshire Police and Crime Commissioner and Chief Constable,Other,Police,Yorkshire and The Humber,201803,nan,nan
+E23000012,E7020,Humberside Police and Crime Commissioner and Chief Constable,Other,Police,Yorkshire and The Humber,201803,nan,nan
+E23000013,E7007,Cleveland Police and Crime Commissioner and Chief Constable,Other,Police,North East,201803,nan,nan
+E23000014,E7046,West Midlands Police and Crime Commissioner and Chief Constable,Other,Police,West Midlands,201803,nan,nan
+E23000015,E7034,Staffordshire Police and Crime Commissioner and Chief Constable,Other,Police,West Midlands,201803,nan,nan
+E23000016,E7055,West Mercia Police and Crime Commissioner and Chief Constable,Other,Police,West Midlands,201803,nan,nan
+E23000017,E7037,Warwickshire Police and Crime Commissioner and Chief Constable,Other,Police,West Midlands,201803,nan,nan
+E23000018,E7010,Derbyshire Police and Crime Commissioner and Chief Constable,Other,Police,East Midlands,201803,nan,nan
+E23000019,E7030,Nottinghamshire Police and Crime Commissioner and Chief Constable,Other,Police,East Midlands,201803,nan,nan
+E23000020,E7025,Lincolnshire Police and Crime Commissioner and Chief Constable,Other,Police,East Midlands,201803,nan,nan
+E23000021,E7024,Leicestershire Police and Crime Commissioner and Chief Constable,Other,Police,East Midlands,201803,nan,nan
+E23000022,E7028,Northamptonshire Police and Crime Commissioner and Chief Constable,Other,Police,East Midlands,201803,nan,The Northamptonshire Police and Crime Commissioner's role was expanded to cover fire services in January 2019. These are still reported separately in the data set. 
+E23000023,E7005,Cambridgeshire Police and Crime Commissioner and Chief Constable,Other,Police,East of England,201803,nan,nan
+E23000024,E7026,Norfolk Police and Crime Commissioner and Chief Constable,Other,Police,East of England,201803,nan,nan
+E23000025,E7035,Suffolk Police and Crime Commissioner and Chief Constable,Other,Police,East of England,201803,nan,nan
+E23000026,E7002,Bedfordshire Police and Crime Commissioner and Chief Constable,Other,Police,East of England,201803,nan,nan
+E23000027,E7019,Hertfordshire Police and Crime Commissioner and Chief Constable,Other,Police,East of England,201803,nan,nan
+E23000028,E7015,Essex Police and Crime Commissioner and Chief Constable,Other,Police,East of England,201803,nan,nan
+E23000029,E7054,Thames Valley Police and Crime Commissioner and Chief Constable,Other,Police,South East,201803,nan,nan
+E23000030,E7052,Hampshire Police and Crime Commissioner and Chief Constable,Other,Police,South East,201803,nan,nan
+E23000031,E7036,Surrey Police and Crime Commissioner and Chief Constable,Other,Police,South East,201803,nan,nan
+E23000032,E7022,Kent Police and Crime Commissioner and Chief Constable,Other,Police,South East,201803,nan,nan
+E23000033,E7053,Sussex Police and Crime Commissioner and Chief Constable,Other,Police,South East,201803,nan,nan
+E23000035,E7051,Devon & Cornwall Police and Crime Commissioner and Chief Constable,Other,Police,South West,201803,nan,nan
+E23000036,E7050,Avon & Somerset Police and Crime Commissioner and Chief Constable,Other,Police,South West,201803,nan,nan
+E23000037,E7016,Gloucestershire Police and Crime Commissioner and Chief Constable,Other,Police,South West,201803,nan,nan
+E23000038,E7039,Wiltshire Police and Crime Commissioner and Chief Constable,Other,Police,South West,201803,nan,nan
+E23000039,E7012,Dorset Police and Crime Commissioner and Chief Constable,Other,Police,South West,201803,nan,nan
+E26000001,E6401,Dartmoor National Park Authority,Other,Park,South West,201803,nan,nan
+E26000002,E6402,Exmoor National Park Authority,Other,Park,South West,201803,nan,nan
+E26000004,E6405,Northumberland National Park Authority,Other,Park,North East,201803,nan,nan
+E26000005,E6404,North York Moors National Park Authority,Other,Park,Yorkshire and The Humber,201803,nan,nan
+E26000006,E6406,Peak District National Park Authority,Other,Park,East Midlands,201803,nan,nan
+E26000007,E6408,The Broads Authority,Other,Park,East of England,201803,nan,nan
+E26000009,E6409,New Forest National Park Authority,Other,Park,South East,201803,nan,nan
+E26000010,E6410,South Downs National Park Authority,Other,Park,South East,201803,nan,nan
+E26000011,E6403,Lake District National Park Authority,Other,Park,North West,201803,nan,nan
+E26000012,E6407,Yorkshire Dales National Park Authority,Other,Park,Yorkshire and The Humber,201803,nan,nan
+E31000001,E6101,Avon Combined Fire and Rescue Authority,Other,Fire,South West,201803,nan,nan
+E31000002,E6102,Bedfordshire Combined Fire and Rescue Authority,Other,Fire,East of England,201803,nan,nan
+E31000003,E6103,Berkshire Combined Fire and Rescue Authority,Other,Fire,South East,201803,nan,nan
+E31000004,E6104,Buckinghamshire Combined Fire and Rescue Authority,Other,Fire,South East,201803,nan,nan
+E31000005,E6105,Cambridgeshire Combined Fire and Rescue Authority,Other,Fire,East of England,201803,nan,nan
+E31000006,E6106,Cheshire Combined Fire and Rescue Authority,Other,Fire,North West,201803,nan,nan
+E31000007,E6107,Cleveland Combined Fire and Rescue Authority,Other,Fire,North East,201803,nan,nan
+E31000009,E6135,"Cumbria Police, Fire and Crime Commissioner - Fire",Other,Fire,North West,202403,nan,Formed when the Cumbria Police and Crime Commissioner's role was expanded to cover fire services in April 2023.
+E31000010,E6110,Derbyshire Combined Fire and Rescue Authority,Other,Fire,East Midlands,201803,nan,nan
+E31000011,E6161,Devon and Somerset Combined Fire and Rescue Authority,Other,Fire,South West,201803,nan,nan
+E31000013,E6113,Durham Combined Fire and Rescue Authority,Other,Fire,North East,201803,nan,nan
+E31000014,E6114,East Sussex Combined Fire and Rescue Authority,Other,Fire,South East,201803,nan,nan
+E31000015,E6115,Essex Combined Fire and Rescue Authority,Other,Fire,East of England,201803,nan,nan
+E31000017,E6117,Hampshire Combined Fire and Rescue Authority,Other,Fire,South East,201803,202103.0,Merged into Hampshire and Isle of Wight Fire and Rescue Service in April 2021.
+E31000018,E6118,Hereford & Worcester Combined Fire and Rescue Authority,Other,Fire,West Midlands,201803,nan,nan
+E31000020,E6120,Humberside Combined Fire and Rescue Authority,Other,Fire,Yorkshire and The Humber,201803,nan,nan
+E31000022,E6122,Kent Combined Fire and Rescue Authority,Other,Fire,South East,201803,nan,nan
+E31000023,E6123,Lancashire Combined Fire and Rescue Authority,Other,Fire,North West,201803,nan,nan
+E31000024,E6124,Leicestershire Combined Fire and Rescue Authority,Other,Fire,East Midlands,201803,nan,nan
+E31000027,E6127,North Yorkshire Combined Fire and Rescue Authority,Other,Fire,Yorkshire and The Humber,201803,nan,nan
+E31000028,E6128,"Northamptonshire Police, Fire and Crime Commissioner Fire and Rescue Authority",Other,Fire,East Midlands,202003,nan,nan
+E31000030,E6130,Nottinghamshire Combined Fire and Rescue Authority,Other,Fire,East Midlands,201803,nan,nan
+E31000032,E6132,Shropshire Combined Fire and Rescue Authority,Other,Fire,West Midlands,201803,nan,nan
+E31000033,E6134,Staffordshire Combined Fire and Rescue Authority,Other,Fire,West Midlands,201803,nan,nan
+E31000041,E6143,Merseyside Fire and Rescue Authority,Other,Fire,North West,201803,nan,nan
+E31000042,E6144,South Yorkshire Fire and Rescue Authority,Other,Fire,Yorkshire and The Humber,201803,nan,nan
+E31000043,E6145,Tyne and Wear Fire and Rescue Authority,Other,Fire,North East,201803,nan,nan
+E31000044,E6146,West Midlands Fire and Rescue Authority,Other,Fire,West Midlands,201803,nan,nan
+E31000045,E6147,West Yorkshire Fire and Rescue Authority,Other,Fire,Yorkshire and The Humber,201803,nan,nan
+E31000047,E6162,Dorset and Wiltshire Fire and Rescue Authority,Other,Fire,South West,201803,nan,nan
+E31000048,E6163,Hampshire and Isle of Wight Fire and Rescue Authority,Other,Fire,South East,202203,nan,"Formed in April 2021, when the Fire and Rescue Services of Hampshire and Isle of Wight merged with each other."
+E47000001,E6348,Greater Manchester Combined Authority,Other,Combined Authority,North West,201803,nan,"Took over Greater Manchester Fire and Police responsibilities in 2017, then Waste Disposal in 2018."
+E47000002,E6350,South Yorkshire Mayoral Combined Authority,Other,Combined Authority,Yorkshire and The Humber,201803,nan,nan
+E47000003,E6353,The West Yorkshire Combined Authority,Other,Combined Authority,Yorkshire and The Humber,201803,nan,nan
+E47000004,E6349,The Liverpool City Region Combined Authority,Other,Combined Authority,North West,201803,nan,nan
+E47000005,E6351,The North East Combined Authority,Other,Combined Authority,North East,201803,201903.0,"Split in 2019, when several local authorities left to form the North of Tyne Combined Authority. The restructured North East Combined Authority has ONS Code E47000011."
+E47000006,E6355,Tees Valley Combined Authority,Other,Combined Authority,North East,201803,nan,nan
+E47000007,E6346,West Midlands Combined Authority,Other,Combined Authority,West Midlands,201803,nan,nan
+E47000008,E6356,Cambridgeshire and Peterborough Combined Authority,Other,Combined Authority,East of England,201803,nan,nan
+E47000009,E6354,West of England Combined Authority,Other,Combined Authority,South West,201803,nan,nan
+E47000010,E6357,North East Combined Authority post Nov 2018,Other,Combined Authority,North East,202003,nan,Formed by a split of the North East Combined Authority (E47000005) in November 2018.
+E47000011,E6358,North of Tyne Combined Authority,Other,Combined Authority,North East,202003,nan,Formed by a split of the North East Combined Authority (E47000005) in November 2018.
+E50000001,E6201,East London Waste Authority,Other,Waste,London,201803,nan,nan
+E50000002,E6205,North London Waste Authority,Other,Waste,London,201803,nan,nan
+E50000003,E6207,West London Waste Authority,Other,Waste,London,201803,nan,nan
+E50000004,E6206,Western Riverside Waste Authority,Other,Waste,London,201803,nan,nan
+E50000005,E6202,Greater Manchester Waste,Other,Waste,North West,201803,201803.0,Role taken over by Greater Manchester Combined Authority in April 2018.
+E50000006,E6204,Merseyside Waste Authority,Other,Waste,North West,201803,nan,nan
+E6803,E6803,Lee Valley Regional Park Authority,Other,Park,London,201803,nan,nan
