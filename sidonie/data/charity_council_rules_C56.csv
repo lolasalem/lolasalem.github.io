@@ -1,0 +1,10 @@
+rule_id,rule
+C1,A charity receiving most or all income from the state is not automatically reclassified by SIDONIE; legal charity status and financial dependence are separate fields.
+C2,"Public-income dependence is measured from reconciled accounts, not inferred from institutional type."
+C3,National Lottery proceeds remain distinguishable from taxpayer money even when a combined public-income metric is also useful.
+C4,Contracts for services and grants are separate where accounts disclose them.
+C5,An exempt charity's principal regulator is recorded; absence from the ordinary charity register is not treated as non-charitable status.
+L1,"Central-government grant, locally raised council tax/business rates and retained income remain distinguishable where source data permit."
+L2,"Council cultural expenditure is recorded by service line and year; a single 'culture spend' total is derived, never manually entered as the only fact."
+L3,"Gross expenditure, net expenditure, income and capital are not mixed."
+L4,Changes in accounting/service definitions create a comparability flag rather than a false time series.

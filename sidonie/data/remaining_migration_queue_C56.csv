@@ -1,0 +1,5 @@
+layer,status,next_action
+Charity values,schema canonicalised; bulk values pending,ingest regulator/accounts data
+Council finance values,schema canonicalised; national values pending,ingest RO5 and devolved equivalents
+Museum individual outputs,165 slots canonical; values pending,extract official ODS cells
+Legacy place source IDs,partial,reconcile GM/LCR/WY/WM/D source documents into canonical sources

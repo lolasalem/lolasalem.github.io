@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "build": "C56",
+  "charity_schema_fields": 21,
+  "council_finance_schema_fields": 11,
+  "council_service_lines": 9,
+  "dependence_metrics": 5,
+  "charity_jurisdiction_queues": 4,
+  "council_nation_queues": 4,
+  "method_rules": 9,
+  "values_invented": false,
+  "new_archive_candidates": 0
+}

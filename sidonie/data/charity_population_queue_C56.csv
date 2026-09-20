@@ -1,0 +1,5 @@
+jurisdiction,primary_source,population,required_extract
+England & Wales,Charity Commission register/accounts,registered cultural charities + public-body exempt-charity records,legal status; trustees; latest income; income components; public funders; reserves
+Scotland,OSCR register/accounts,Scottish cultural charities,same fields; retain Scottish legal/regulatory distinctions
+Northern Ireland,Charity Commission for Northern Ireland,Northern Irish cultural charities,same fields; retain NI distinctions
+Exempt charities,principal-regulator + audited accounts,national museums/public bodies,do not treat absence from ordinary register as absence of charity status

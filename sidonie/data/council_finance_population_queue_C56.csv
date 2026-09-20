@@ -1,0 +1,5 @@
+nation,source_family,population,required_extract
+England,Revenue Outturn / RO5 cultural and related services,all reporting local authorities,latest available year + historical series where definitions remain comparable
+Scotland,Local government finance returns,all councils,culture/leisure service lines with Scottish definitions retained
+Wales,Local government revenue outturn,all principal councils,culture service lines with Welsh definitions retained
+Northern Ireland,district council finance/accounts,all district councils,culture/arts/museums service lines where published
