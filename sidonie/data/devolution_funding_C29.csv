@@ -1,0 +1,9 @@
+route,money_type,flow,critical_question,source_id
+Central government grant,Taxpayer money,Department → Strategic Authority / council,"Is it ring-fenced, formula-based or flexible?",D07
+Integrated Settlement,Taxpayer money,Multiple departments → Established Mayoral Strategic Authority,Which functions and conditions moved into the flexible pot?,D07
+Local Government Finance Settlement,Taxpayer + local finance framework,Central settlement → local / strategic authorities,Which lines actually finance cultural functions?,D07
+Council tax,Local taxpayer money,Residents → billing authority,How much locally raised revenue supports culture?,D08
+Retained business rates,Locally retained tax revenue,Business-rates system → authority,What share is retained and how fungible is it?,D07
+Mayoral precept,Local taxpayer money,Council-tax payers → mayoral functions,Which Strategic Authority functions may it finance?,D08
+National Lottery,Lottery money,Lottery → statutory distributor → recipient,"Has any decision power moved, or only local delivery?",SIDONIE
+Arts Council grant,Taxpayer / Lottery depending programme,Arts Council England → recipient,"Who assesses, decides and monitors the award?",SIDONIE
