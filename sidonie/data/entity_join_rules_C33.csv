@@ -1,0 +1,8 @@
+join,key_or_method,match_type,rule
+Charity Commission ↔ institution,charity_number,exact,preferred
+Companies House ↔ institution,company_number,exact,preferred
+Arts Council ↔ institution,published organisation name + postcode/area + charity/company number where available,candidate then verify,manual/verified crosswalk
+Local authority finance ↔ authority,official authority code,exact,preferred
+Strategic Authority ↔ constituent councils,official authority codes / statutory membership,exact/documented,preferred
+Person ↔ institution,dated formal appointment record,documented,required
+Strategy claim ↔ machinery,responsible body + period + documented legal/funding mechanism,documented,required

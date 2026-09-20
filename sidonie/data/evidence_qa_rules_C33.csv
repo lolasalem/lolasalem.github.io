@@ -1,0 +1,11 @@
+flag,condition,action
+missing_source,Fact has no source_id,reject
+missing_locator,Document-derived fact has no page/note/table/section/column locator,reject
+period_missing,Financial/output fact lacks reporting period,reject
+zero_from_blank,Blank/absent value converted to zero,reject
+name_only_join,Entity joined only by fuzzy/name match without verification,hold
+mixed_money_types,Taxpayer/Lottery/local tax/tax relief/private/earned combined without decomposition,hold
+brand_legal_entity_conflict,Institution brand and reporting legal entity conflated,hold
+current_without_asof,Current office/status fact lacks as-of date,reject
+strategy_as_result,Strategy claim treated as observed result,reject
+devolution_as_transfer,Strategy/competence language treated as evidence of transferred money/function without instrument,reject

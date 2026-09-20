@@ -1,0 +1,6 @@
+priority,workstream,sources,population,join_path,reason
+1,English local-authority finance,2025–26 RO5 + RS/RG,all published authorities,authority code → cultural categories → financing,Immediate: newest official outturn
+2,Charity universe,Charity Commission full extract,"all England/Wales charities, then cultural filter",charity number → legal entity → trustees/returns/accounts,Daily authoritative base
+3,Arts Council England portfolio,2023–26 programme + award/account records,990 organisations,programme recipient → verified entity ID,National cultural recipient universe
+4,Scotland charities,OSCR register + 5-year returns,"all Scottish charities, then cultural filter",charity number → trustees/accounts,Trustee transparency improved March 2026
+5,Strategic/local authority joins,2026 devolution + authority codes,all Strategic Authorities + constituent councils,statutory membership → finance/culture/strategy,Connect power to money and outputs

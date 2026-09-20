@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C33",
+  "dataset_manifests": 5,
+  "join_rules": 7,
+  "ro5_variables": 8,
+  "qa_rules": 10,
+  "ingestion_workstreams": 5,
+  "latest_english_outturn": "2025-26",
+  "latest_release_date": "2026-09-17"
+}
