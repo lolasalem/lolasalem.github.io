@@ -1,0 +1,7 @@
+entity_id,money_type,source_body,mechanism,amount_status,source_id,locator
+arts-council-england,Taxpayer operating grant,DCMS,Grant-in-Aid under Charities Act 2006 s70,Amount pending audited-account reconciliation,ACE1,"§§9.4–9.6,27.1–27.2"
+arts-council-england,National Lottery,National Lottery statutory system,Separate statutory distribution stream,Amount pending audited-account reconciliation,ACE1,§1.3 / Lottery provisions
+sir-john-soanes-museum,Taxpayer operating grant,DCMS,Grant-in-Aid,Amount pending audited-account reconciliation,SJSM1,§§9.4–10.2
+science-museum-group,Taxpayer operating grant,DCMS,Grant-in-Aid / sponsor relationship,Amount pending audited-account reconciliation,SMG1,framework finance sections
+natural-history-museum,Taxpayer operating grant,DCMS,Grant-in-Aid / sponsor relationship,Amount pending audited-account reconciliation,NHM1,framework finance sections
+imperial-war-museums,Taxpayer operating grant,DCMS,Grant-in-Aid / sponsor relationship,Amount pending audited-account reconciliation,IWM1,framework finance sections

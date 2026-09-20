@@ -1,0 +1,9 @@
+entity_id,office,office_class,appointing_authority,appointment_instrument,source_id,locator
+arts-council-england,Chair,governing,Secretary of State,Royal Charter / public appointments framework,ACE1,§§8.4–8.5 / Annex B
+arts-council-england,National Council members except London Area Chair,governing,Secretary of State,Royal Charter / public appointments framework,ACE1,§§8.4–8.5 / Annex B
+arts-council-england,London Area Chair,governing,"Mayor of London, subject to Secretary of State approval",Royal Charter / framework,ACE1,§§8.4–8.5 / Annex B
+arts-council-england,Chief Executive,executive,"National Council, subject to Secretary of State approval",Framework,ACE1,§§8.4–8.5
+science-museum-group,Chair,governing,Prime Minister,National Heritage Act 1983 / framework,SMG1,§8.4
+science-museum-group,Chief Executive,executive,"Board, with Prime Minister approval",Framework,SMG1,§8.3
+churches-conservation-trust,Board members,governing,"HM The King, on advice of Archbishops of Canterbury and York through Prime Minister",Mission and Pastoral Measure 2011 / framework,CCT1,§8.2
+churches-conservation-trust,One trustee (informal convention),governing,Responsible DCMS Minister informally appoints one trustee; framework states no formal ministerial Board-appointment role,Framework convention,CCT1,§8.2

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "C43",
+  "verified_appointment_mechanisms": 8,
+  "verified_public_money_routes": 6,
+  "verified_accountability_mechanisms": 6,
+  "audited_amounts_not_invented": true,
+  "remaining_institution_queue": 19,
+  "appointment_and_accountability_separated": true
+}
