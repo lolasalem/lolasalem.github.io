@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "build": "C62",
+  "source_csv_rows": 3930,
+  "submitted_authority_year_rows": 3806,
+  "canonical_finance_observations": 327677,
+  "reader_facing_observations": 26642,
+  "unique_authority_codes": 470,
+  "years": [
+    "2017/18",
+    "2018/19",
+    "2019/20",
+    "2020/21",
+    "2021/22",
+    "2022/23",
+    "2023/24",
+    "2024/25",
+    "2025/26"
+  ],
+  "dictionary_items": 91,
+  "authority_genealogy_rows": 464,
+  "cash_terms_preserved": true,
+  "original_ro5_locators_preserved": true,
+  "2025_26_incompleteness_flagged": true,
+  "authority_reorganisation_notes_preserved": true,
+  "earlier_than_2017_claimed_ingested": false
+}
