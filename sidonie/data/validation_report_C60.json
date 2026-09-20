@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "build": "C60",
+  "areas_retained": 26,
+  "areas_deepened": [
+    "Greater London",
+    "North East",
+    "South Yorkshire"
+  ],
+  "new_verified_funding_rows": 11,
+  "new_source_records": 8,
+  "north_east_creative_places_growth_fund_exposed": true,
+  "south_yorkshire_no_culture_allocation_inferred": true,
+  "interface_regression": false
+}
