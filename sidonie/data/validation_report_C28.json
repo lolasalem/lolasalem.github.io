@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "build": "C28",
+  "verified_institutions": 7,
+  "source_records": 11,
+  "separates_executive_and_board_roles": true,
+  "official_source_only": true,
+  "directory_preserved": true
+}
