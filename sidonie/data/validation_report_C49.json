@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C49",
+  "people_role_records": 146,
+  "unique_people": 132,
+  "career_move_edges": 13,
+  "appointment_power_edges": 8,
+  "board_ingestion_queue": 27,
+  "relationship_types_separated": true,
+  "no_acquaintance_inference": true
+}

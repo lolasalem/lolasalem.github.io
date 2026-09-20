@@ -1,0 +1,14 @@
+person,from_institution,to_institution,transition,source_ids
+Peter Hall,Royal Shakespeare Company,National Theatre,1973,RSC-HIST;NT-HIST
+Trevor Nunn,Royal Shakespeare Company,National Theatre,1997,RSC-HIST;NT-HIST
+Sir Charles Holroyd,Tate,National Gallery,1906,TATE-DIR;NG-DIR
+Sir Charles John Holmes,National Portrait Gallery,National Gallery,1916,NPG-DIR;NG-DIR
+Sir Roy Strong,National Portrait Gallery,Victoria and Albert Museum,1974,NPG-DIR;VA-DIR
+Sir Mark Jones,National Museums Scotland,Victoria and Albert Museum,2001,NMS-HIST;VA-DIR
+Charles Saumarez Smith,National Portrait Gallery,National Gallery,2002,NPG-DIR;NG-DIR
+Nicholas Cullinan,National Portrait Gallery,British Museum,2024,NPG-DIR;BM-CUR
+Grace Chan,NESTA,Royal Opera House,prior career sequence; exact date pending,ACE-APPT-25
+Grace Chan,Royal Opera House,National Theatre,prior career sequence; exact date pending,ACE-APPT-25
+Grace Chan,National Theatre,London Theatre Company,prior career sequence; exact date pending,ACE-APPT-25
+Grace Chan,London Theatre Company,English National Ballet,prior career sequence; exact date pending,ACE-APPT-25
+Grace Chan,English National Ballet,Arts Council England,board appointment 2025,ACE-APPT-25

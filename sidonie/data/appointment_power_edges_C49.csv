@@ -1,0 +1,9 @@
+appointing_actor,relationship,office,institution,source_id,status
+Secretary of State,appoints,Arts Council England Chair,Arts Council England,ACE1,formal
+Secretary of State,appoints,National Council members (except London Area Chair),Arts Council England,ACE1,formal
+Mayor of London,appoints subject to Secretary of State approval,London Area Chair,Arts Council England,ACE1,formal
+National Council,appoints subject to Secretary of State approval,Chief Executive,Arts Council England,ACE1,formal
+Prime Minister,appoints,Chair,Science Museum Group,SMG1,formal
+Science Museum Group Board,appoints with Prime Minister approval,Chief Executive,Science Museum Group,SMG1,formal
+The King,appoints on advice of Archbishops through Prime Minister,Board members,Churches Conservation Trust,CCT1,formal
+Responsible DCMS Minister,informally appoints,one trustee,Churches Conservation Trust,CCT1,informal convention
