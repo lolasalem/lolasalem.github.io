@@ -1,0 +1,6 @@
+metric,calculation,guardrail
+public_income_share,(taxpayer + other public + Lottery where analytical question requires it) / total income,Lottery must also remain separately reportable; user can inspect both definitions
+taxpayer_income_share,taxpayer income / total income,Does not include National Lottery
+largest_public_funder_share,largest named public funder / total income,Requires exact funder amount
+earned_income_share,earned income / total income,Commercial/earned only
+private_philanthropy_share,private philanthropy / total income,Exclude public grants and Lottery
