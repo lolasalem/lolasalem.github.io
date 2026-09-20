@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C53",
+  "pages_migrated_this_pass": 4,
+  "research_pages_under_canonical_contract": 6,
+  "legacy_source_ids_examined": 0,
+  "legacy_source_ids_mapped": 0,
+  "deletion_authorized": false,
+  "archive_categories_authorized": 3,
+  "remaining_major_migration": "canonical place/devolution machinery + full legacy source-ID reconciliation"
+}

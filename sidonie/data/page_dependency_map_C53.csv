@@ -1,0 +1,8 @@
+page,status,canonical_target,remaining_dependency
+Culture at Work main,canonical contract added,institutions + sources,embedded snapshot retained
+Local Government & Devolution,canonical contract added; partial migration,institutions + strategies + sources,place machinery still needs canonical place/funding/decision tables
+Charities & Dependence,canonical contract added,institutions + finance + sources,Charity Commission bulk layer not yet populated
+Sources & Methodology,canonical contract added,sources,new landing created/updated
+People & Appointments,C52 migrated,people + roles + derived network,embedded snapshot retained
+Institutions,C52 migrated,institutions,people dump removed
+Guide,independent,guide/events data,not part of research DB migration

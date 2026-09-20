@@ -1,0 +1,11 @@
+action,group,reason
+KEEP,sidonie/data/canonical/**,Live database.
+KEEP,sidonie/data/derived/**,Generated from canonical; never hand-edit.
+KEEP,sidonie/data/DATA_VERSION,Live data version.
+KEEP,sidonie/data/validation_report.json,Live integrity report.
+ARCHIVE SAFE,people_roles_C47/C48/C49/C50 and equivalent People version files,Canonical people/roles now supersede them; retain in archive for provenance.
+ARCHIVE SAFE,C36/C39 entity master/version files,Canonical institutions/evidence gaps supersede their live-data function.
+ARCHIVE SAFE,C44/C45/C46 versioned finance/output tables already migrated into canonical files,Retain provenance; canonical files are live source.
+KEEP FOR PROVENANCE,C29–C40 place/devolution source tables,C51 has not yet fully normalised the place-specific machinery into canonical objects.
+KEEP FOR PROVENANCE,legacy source registries with unmapped IDs,Do not remove until every legacy source ID maps to canonical sources.csv.
+DO NOT DELETE,any HTML/assets,Static pages still embed validated snapshots even though canonical files are authoritative.
