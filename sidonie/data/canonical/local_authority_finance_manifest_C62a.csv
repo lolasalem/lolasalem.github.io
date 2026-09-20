@@ -1,0 +1,10 @@
+financial_year,file,observation_rows,authority_codes,source_ids,unit_note,price_basis,status
+2017/18,local-authority-finance/2017-18.csv,31150,445,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2018/19,local-authority-finance/2018-19.csv,31080,444,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2019/20,local-authority-finance/2019-20.csv,39676,436,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2020/21,local-authority-finance/2020-21.csv,39312,432,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2021/22,local-authority-finance/2021-22.csv,38766,426,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2022/23,local-authority-finance/2022-23.csv,38766,426,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2023/24,local-authority-finance/2023-24.csv,37401,411,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2024/25,local-authority-finance/2024-25.csv,37219,409,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
+2025/26,local-authority-finance/2025-26.csv,34307,377,1,£000 original; canonical GBP column retained,cash terms,C62 split; content unchanged
