@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C50",
+  "people_role_records": 181,
+  "unique_people": 167,
+  "verified_life_date_records": 37,
+  "new_board_records": 35,
+  "life_dates_main_profile_only": true,
+  "side_list_names_only": true,
+  "unknown_life_dates_explicit": true
+}

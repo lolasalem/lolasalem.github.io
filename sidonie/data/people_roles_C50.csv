@@ -1,0 +1,182 @@
+person,institution,role,start,end,place,source_id
+Sir Charles Lock Eastlake,National Gallery,Director,1855,1865,London,NG-DIR
+Sir William Boxall,National Gallery,Director,1866,1874,London,NG-DIR
+Sir Frederic William Burton,National Gallery,Director,1874,1894,London,NG-DIR
+Sir Edward John Poynter,National Gallery,Director,1894,1904,London,NG-DIR
+Sir Charles Holroyd,National Gallery,Director,1906,1916,London,NG-DIR
+Sir Charles John Holmes,National Gallery,Director,1916,1928,London,NG-DIR
+Sir Augustus Moore Daniel,National Gallery,Director,1929,1933,London,NG-DIR
+Kenneth Clark,National Gallery,Director,1934,1945,London,NG-DIR
+Sir Philip Hendy,National Gallery,Director,1946,1967,London,NG-DIR
+Sir Martin Davies,National Gallery,Director,1968,1973,London,NG-DIR
+Sir Michael Levey,National Gallery,Director,1973,1986,London,NG-DIR
+Neil MacGregor,National Gallery,Director,1987,2002,London,NG-DIR
+Charles Saumarez Smith,National Gallery,Director,2002,2007,London,NG-DIR
+Sir Nicholas Penny,National Gallery,Director,2008,2015,London,NG-DIR
+Gabriele Finaldi,National Gallery,Director,2015,present,London,NG-DIR
+Sir Henry Cole,Victoria and Albert Museum,Director / predecessor museums,1852,1873,London,VA-DIR
+Sir Philip Cunliffe-Owen,Victoria and Albert Museum,Director,1874,1893,London,VA-DIR
+John Henry Middleton,Victoria and Albert Museum,Director,1893,1896,London,VA-DIR
+Sir Caspar Purdon Clarke,Victoria and Albert Museum,Director,1896,1905,London,VA-DIR
+Arthur Banks Skinner,Victoria and Albert Museum,Director,1905,1908,London,VA-DIR
+Sir Cecil Harcourt Smith,Victoria and Albert Museum,Director,1909,1924,London,VA-DIR
+Sir Eric Maclagan,Victoria and Albert Museum,Director,1924,1944,London,VA-DIR
+Sir Leigh Ashton,Victoria and Albert Museum,Director,1945,1955,London,VA-DIR
+Sir Trenchard Cox,Victoria and Albert Museum,Director,1956,1966,London,VA-DIR
+Sir John Pope-Hennessy,Victoria and Albert Museum,Director,1967,1973,London,VA-DIR
+Sir Roy Strong,Victoria and Albert Museum,Director,1974,1987,London,VA-DIR
+Elizabeth Esteve-Coll,Victoria and Albert Museum,Director,1987,1995,London,VA-DIR
+Alan Borg,Victoria and Albert Museum,Director,1995,2001,London,VA-DIR
+Sir Mark Jones,Victoria and Albert Museum,Director,2001,2011,London,VA-DIR
+Martin Roth,Victoria and Albert Museum,Director,2011,2016,London,VA-DIR
+Tristram Hunt,Victoria and Albert Museum,Director,2017,present,London,VA-DIR
+Charles Holroyd,Tate,Keeper,1897,1906,London,TATE-DIR
+D. S. MacColl,Tate,Keeper,1906,1911,London,TATE-DIR
+Charles Aitken,Tate,Keeper,1911,1917,London,TATE-DIR
+Charles Aitken,Tate,Director,1917,1930,London,TATE-DIR
+J. B. Manson,Tate,Director,1930,1938,London,TATE-DIR
+John Rothenstein,Tate,Director,1938,1964,London,TATE-DIR
+Norman Reid,Tate,Director,1964,1979,London,TATE-DIR
+Alan Bowness,Tate,Director,1980,1988,London,TATE-DIR
+Nicholas Serota,Tate,Director,1988,2017,London,TATE-DIR
+Maria Balshaw,Tate,Director,2017,present,London,TATE-DIR
+Richard Owen,Natural History Museum,Superintendent,1856,1883,London,NHM-DIR
+William Henry Flower,Natural History Museum,Director,1884,1898,London,NHM-DIR
+Edwin Ray Lankester,Natural History Museum,Director,1898,1907,London,NHM-DIR
+Lazarus Fletcher,Natural History Museum,Director,1909,1919,London,NHM-DIR
+Sidney Frederick Harmer,Natural History Museum,Director,1919,1927,London,NHM-DIR
+Charles Tate Regan,Natural History Museum,Director,1927,1938,London,NHM-DIR
+Clive Forster Cooper,Natural History Museum,Director,1938,1947,London,NHM-DIR
+Norman Boyd Kinnear,Natural History Museum,Director,1947,1950,London,NHM-DIR
+Gavin Rylands de Beer,Natural History Museum,Director,1950,1960,London,NHM-DIR
+Terence Morrison-Scott,Natural History Museum,Director,1960,1968,London,NHM-DIR
+Gordon Claringbull,Natural History Museum,Director,1968,1976,London,NHM-DIR
+Ronald Hedley,Natural History Museum,Director,1976,1988,London,NHM-DIR
+Neil Chalmers,Natural History Museum,Director,1988,2004,London,NHM-DIR
+Michael Dixon,Natural History Museum,Director,2004,2020,London,NHM-DIR
+Doug Gurr,Natural History Museum,Director,2020,present,London,NHM-DIR
+Sir George Scharf,National Portrait Gallery,Director,1857,1895,London,NPG-DIR
+Sir Lionel Cust,National Portrait Gallery,Director,1895,1909,London,NPG-DIR
+Sir Charles John Holmes,National Portrait Gallery,Director,1909,1917,London,NPG-DIR
+James Milner,National Portrait Gallery,Director,1917,1927,London,NPG-DIR
+Sir Henry Hake,National Portrait Gallery,Director,1927,1951,London,NPG-DIR
+Charles Kingsley Adams,National Portrait Gallery,Director,1951,1964,London,NPG-DIR
+Sir David Piper,National Portrait Gallery,Director,1964,1967,London,NPG-DIR
+Sir Roy Strong,National Portrait Gallery,Director,1967,1974,London,NPG-DIR
+John Hayes,National Portrait Gallery,Director,1974,1994,London,NPG-DIR
+Charles Saumarez Smith,National Portrait Gallery,Director,1994,2002,London,NPG-DIR
+Sandy Nairne,National Portrait Gallery,Director,2002,2015,London,NPG-DIR
+Nicholas Cullinan,National Portrait Gallery,Director,2015,2024,London,NPG-DIR
+Victoria Siddall,National Portrait Gallery,Director,2024,present,London,NPG-DIR
+William T McCulloch,National Museum of Antiquities of Scotland,Director,1859,1869,Edinburgh,NMS-HIST
+Joseph Anderson,National Museum of Antiquities of Scotland,Director,1869,1913,Edinburgh,NMS-HIST
+Alexander O Curle,National Museum of Antiquities of Scotland,Director,1913,1919,Edinburgh,NMS-HIST
+John G Callander,National Museum of Antiquities of Scotland,Director,1919,1938,Edinburgh,NMS-HIST
+Arthur J H Edwards,National Museum of Antiquities of Scotland,Director,1938,1944,Edinburgh,NMS-HIST
+Gordon V Childe,National Museum of Antiquities of Scotland,Director,1944,1945,Edinburgh,NMS-HIST
+Robert B K Stevenson,National Museum of Antiquities of Scotland,Director,1946,1978,Edinburgh,NMS-HIST
+Alexander Fenton,National Museum of Antiquities of Scotland,Director,1978,1985,Edinburgh,NMS-HIST
+George Wilson,Royal Scottish Museum / predecessor,Director,1855,1859,Edinburgh,NMS-HIST
+Thomas C Archer,Royal Scottish Museum / predecessor,Director,1860,1885,Edinburgh,NMS-HIST
+Robert Murdoch Smith,Royal Scottish Museum / predecessor,Director,1885,1900,Edinburgh,NMS-HIST
+Francis Grant Ogilvie,Royal Scottish Museum / predecessor,Director,1900,1903,Edinburgh,NMS-HIST
+James J Dobbie,Royal Scottish Museum / predecessor,Director,1903,1909,Edinburgh,NMS-HIST
+David J Vallance,Royal Scottish Museum / predecessor,Acting Director,1909,1911,Edinburgh,NMS-HIST
+Thomas Carlaw Martin,Royal Scottish Museum / predecessor,Director,1911,1916,Edinburgh,NMS-HIST
+Alexander O Curle,Royal Scottish Museum / predecessor,Director,1916,1931,Edinburgh,NMS-HIST
+Edwin Ward,Royal Scottish Museum / predecessor,Director,1931,1934,Edinburgh,NMS-HIST
+Thomas Rowatt,Royal Scottish Museum / predecessor,Director,1934,1944,Edinburgh,NMS-HIST
+Douglas A Allan,Royal Scottish Museum / predecessor,Director,1945,1961,Edinburgh,NMS-HIST
+Ian Finlay,Royal Scottish Museum / predecessor,Director,1961,1971,Edinburgh,NMS-HIST
+Norman Tebble,Royal Scottish Museum / predecessor,Director,1971,1984,Edinburgh,NMS-HIST
+Robert Anderson,Royal Scottish Museum / predecessor,Director,1984,1985,Edinburgh,NMS-HIST
+Robert Anderson,National Museums Scotland,Director,1985,1992,Edinburgh,NMS-HIST
+Mark Jones,National Museums Scotland,Director,1992,2001,Edinburgh,NMS-HIST
+Gordon Rintoul,National Museums Scotland,Director,2002,2020,Edinburgh,NMS-HIST
+Chris Breward,National Museums Scotland,Director,2020,present,Edinburgh,NMS-HIST
+Peter Hall,Royal Shakespeare Company,Artistic Director,1960,1968,Stratford-upon-Avon,RSC-HIST
+Trevor Nunn,Royal Shakespeare Company,Artistic Director,1968,1986,Stratford-upon-Avon,RSC-HIST
+Terry Hands,Royal Shakespeare Company,Artistic Director / joint,1978,1991,Stratford-upon-Avon,RSC-HIST
+Adrian Noble,Royal Shakespeare Company,Artistic Director,1991,2003,Stratford-upon-Avon,RSC-HIST
+Michael Boyd,Royal Shakespeare Company,Artistic Director,2002,2012,Stratford-upon-Avon,RSC-HIST
+Gregory Doran,Royal Shakespeare Company,Artistic Director,2012,2022,Stratford-upon-Avon,RSC-HIST
+Daniel Evans,Royal Shakespeare Company,Co-Artistic Director,2023,present,Stratford-upon-Avon,RSC-HIST
+Tamara Harvey,Royal Shakespeare Company,Co-Artistic Director,2023,present,Stratford-upon-Avon,RSC-HIST
+Andrew Leveson,Royal Shakespeare Company,Executive Director,2024,present,Stratford-upon-Avon,RSC-HIST
+Laurence Olivier,National Theatre,Director,1963,1973,London,NT-HIST
+Peter Hall,National Theatre,Director,1973,1988,London,NT-HIST
+Richard Eyre,National Theatre,Director,1988,1997,London,NT-HIST
+Trevor Nunn,National Theatre,Director,1997,2003,London,NT-HIST
+Nicholas Hytner,National Theatre,Director,2003,2015,London,NT-HIST
+Rufus Norris,National Theatre,Director,2015,2025,London,NT-HIST
+Indhu Rubasingham,National Theatre,Director / Joint Chief Executive,2025,present,London,NT-HIST
+David Webster,Royal Ballet and Opera,General Administrator,1946,1970,London,RBO-HIST
+John Tooley,Royal Ballet and Opera,General Administrator,1970,1988,London,RBO-HIST
+Jeremy Isaacs,Royal Ballet and Opera,General Director,1988,1997,London,RBO-HIST
+Tony Hall,Royal Ballet and Opera,Chief Executive,2001,2013,London,RBO-HIST
+Alex Beard,Royal Ballet and Opera,Chief Executive,2013,present,London,RBO-HIST
+Georg Solti,Royal Ballet and Opera,"Music Director, Royal Opera",1961,1971,London,RBO-HIST
+Colin Davis,Royal Ballet and Opera,"Music Director, Royal Opera",1971,1987,London,RBO-HIST
+Bernard Haitink,Royal Ballet and Opera,"Music Director, Royal Opera",1987,2002,London,RBO-HIST
+Antonio Pappano,Royal Ballet and Opera,"Music Director, Royal Opera",2002,2024,London,RBO-HIST
+Jakub Hrůša,Royal Ballet and Opera,"Music Director, Royal Opera",2025,present,London,RBO-HIST
+Paul Findlay,Royal Ballet and Opera,"Director, Royal Opera",1987,1993,London,RBO-HIST
+Nicholas Payne,Royal Ballet and Opera,"Director, Royal Opera",1993,unknown,London,RBO-HIST
+Oliver Mears,Royal Ballet and Opera,Director of Opera,2017,present,London,RBO-HIST
+Alex Reedijk,Scottish Opera,General Director,2006,present,Glasgow,SO-CUR
+Stuart Stratford,Scottish Opera,Music Director,current,present,Glasgow,SO-CUR
+Peter Lawson,Scottish Opera,Chair,current,present,Glasgow,SO-CUR
+Anne Lyden,National Galleries of Scotland,Director-General,2024,present,Edinburgh,NGS-CUR
+Kathryn Thomson,National Museums Northern Ireland,Chief Executive,current,present,Belfast,NMNI-CUR
+Gordon Milligan,National Museums Northern Ireland,Chair,current,present,Belfast,NMNI-CUR
+Nicholas Cullinan,British Museum,Director,2024,present,London,BM-CUR
+Grace Chan,Arts Council England,National Council member,2025,2029,England,ACE-APPT-25
+Grace Chan,English National Ballet,Chief Operating Officer,current,current,London,ACE-APPT-25
+Grace Chan,Royal Opera House,Permanent post (role not specified in appointment biography),prior,prior,London,ACE-APPT-25
+Grace Chan,National Theatre,Permanent post (role not specified in appointment biography),prior,prior,London,ACE-APPT-25
+Grace Chan,London Theatre Company,Permanent post (role not specified in appointment biography),prior,prior,London,ACE-APPT-25
+Grace Chan,NESTA,Finance Director,prior,prior,London,ACE-APPT-25
+George Osborne,British Museum,Trustee / Board member,current,present,London,BM-GOV-26
+Muriel Gray,British Museum,Trustee / Board member,current,present,London,BM-GOV-26
+Mary Beard,British Museum,Trustee / Board member,current,present,London,BM-GOV-26
+Mervyn King,British Museum,Trustee / Board member,current,present,London,BM-GOV-26
+Grayson Perry,British Museum,Trustee / Board member,current,present,London,BM-GOV-26
+Amartya Sen,British Museum,Trustee / Board member,current,present,London,BM-GOV-26
+Diane Coyle,Royal Museums Greenwich,Trustee,current,present,London,RMG-APPT-26
+Sarah Sands,Royal Museums Greenwich,Trustee,current,present,London,RMG-APPT-26
+George Zambellas,Royal Museums Greenwich,Trustee,current,present,London,RMG-APPT-26
+John Booth,National Gallery,Chair,2021-08,2029-08-19,London,NG-BOARD-26
+Julie Gaskell,National Gallery,Trustee,2026-08-01,2030-07-31,London,NG-BOARD-26
+Catherine Goodman,National Gallery,Artist Trustee,2019-11-01,2027-10-31,London,NG-BOARD-26
+Sir John Kingman,National Gallery,Deputy Chair; Finance and Audit,2017-04-03,2027-03-13,London,NG-BOARD-26
+James Lambert,National Gallery,Trustee; Chair National Gallery Global,2021-12-23,2029-12-22,London,NG-BOARD-26
+David Marks,National Gallery,Trustee; Chair Masterplan Committee,2017-03-13,2027-06-12,London,NG-BOARD-26
+Andrew Marr,National Gallery,Cultural Trustee,2024-02-12,2028-02-11,London,NG-BOARD-26
+Tonya Nelson,National Gallery,Deputy Chair; Governance Committee,2018-07-02,2027-03-31,London,NG-BOARD-26
+Simon Patterson,National Gallery,Trustee,2027-01-01,2030-12-31,London,NG-BOARD-26
+Stuart Roden,National Gallery,Trustee,2019-11-01,2027-10-31,London,NG-BOARD-26
+Patricia Rubin,National Gallery,Academic Trustee; Tate Liaison Trustee,2024-11-29,2028-11-28,London,NG-BOARD-26
+Molly Stevens,National Gallery,Trustee; Scientific Consultative Group Chair,2018-07-02,2027-03-31,London,NG-BOARD-26
+Lord Daniel Finkelstein,British Museum,Trustee,2025,present,London,DCMS-16-25
+Tom Holland,British Museum,Trustee,2025,present,London,DCMS-16-25
+Tiffany Jenkins,British Museum,Trustee,2025,present,London,DCMS-16-25
+Martha Kearney,British Museum,Trustee,2025,present,London,DCMS-16-25
+Claudia Winkleman,British Museum,Trustee,2025,present,London,DCMS-16-25
+Nick Clarry,Tate,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25
+Sir Isaac Julien,Tate,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25
+Jack Kirkland,Tate,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25
+June Sarpong,Tate,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25
+Tim Richards,Tate,Trustee,2025-06-23,2029-06-22,London,TATE-APPT-25
+Mariella Frostrup,Victoria and Albert Museum,Trustee,2025,present,London,DCMS-16-25
+Andrew Keith,Victoria and Albert Museum,Trustee,2025,present,London,DCMS-16-25
+Akshata Murty,Victoria and Albert Museum,Trustee,2025,present,London,DCMS-16-25
+Nigel Newton,Victoria and Albert Museum,Trustee,2025,present,London,DCMS-16-25
+Victoria Nwosu-Hope,Victoria and Albert Museum,Trustee,2025,present,London,DCMS-16-25
+Pedro Pina,Victoria and Albert Museum,Trustee,2025,present,London,DCMS-16-25
+Baroness Minouche Shafik,Victoria and Albert Museum,Chair,2025-01-01,present,London,VA-BOARD-26
+Alexandra Butler,Royal Museums Greenwich,Trustee,2026-07-01,2030-06-30,London,RMG-APPT-26
+Sanjeev Gupta,Royal Museums Greenwich,Trustee,2026-07-01,2030-06-30,London,RMG-APPT-26
+Marshall Manson,Royal Museums Greenwich,Trustee,2026-07-01,2030-06-30,London,RMG-APPT-26
+Clare Anderson,Royal Museums Greenwich,Trustee,2026,present,London,RMG-APPT-26
+Lance Batchelor,Royal Museums Greenwich,Trustee,2026,present,London,RMG-APPT-26
+Sir Stephen Deuchar,Royal Museums Greenwich,Trustee,2026,present,London,RMG-APPT-26
