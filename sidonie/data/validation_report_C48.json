@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "build": "C48",
+  "people": 122,
+  "role_records": 131,
+  "institutional_sequences": 15,
+  "documented_moves": 8,
+  "calculated_same_institution_overlaps": 100,
+  "official_source_records": 13,
+  "three_search_modes": true,
+  "no_acquaintance_inference": true
+}

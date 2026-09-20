@@ -1,0 +1,101 @@
+institution,person_a,role_a,person_b,role_b,start,end,approx_years,source_ids,interpretation
+National Gallery,Sir William Boxall,Director,Sir Frederic William Burton,Director,1874,1874,1,NG-DIR;NG-DIR,institutional overlap only
+National Gallery,Sir Frederic William Burton,Director,Sir Edward John Poynter,Director,1894,1894,1,NG-DIR;NG-DIR,institutional overlap only
+National Gallery,Sir Charles Holroyd,Director,Sir Charles John Holmes,Director,1916,1916,1,NG-DIR;NG-DIR,institutional overlap only
+National Gallery,Sir Martin Davies,Director,Sir Michael Levey,Director,1973,1973,1,NG-DIR;NG-DIR,institutional overlap only
+National Gallery,Neil MacGregor,Director,Charles Saumarez Smith,Director,2002,2002,1,NG-DIR;NG-DIR,institutional overlap only
+National Gallery,Sir Nicholas Penny,Director,Gabriele Finaldi,Director,2015,2015,1,NG-DIR;NG-DIR,institutional overlap only
+Victoria and Albert Museum,Sir Philip Cunliffe-Owen,Director,John Henry Middleton,Director,1893,1893,1,VA-DIR;VA-DIR,institutional overlap only
+Victoria and Albert Museum,John Henry Middleton,Director,Sir Caspar Purdon Clarke,Director,1896,1896,1,VA-DIR;VA-DIR,institutional overlap only
+Victoria and Albert Museum,Sir Caspar Purdon Clarke,Director,Arthur Banks Skinner,Director,1905,1905,1,VA-DIR;VA-DIR,institutional overlap only
+Victoria and Albert Museum,Sir Cecil Harcourt Smith,Director,Sir Eric Maclagan,Director,1924,1924,1,VA-DIR;VA-DIR,institutional overlap only
+Victoria and Albert Museum,Sir Roy Strong,Director,Elizabeth Esteve-Coll,Director,1987,1987,1,VA-DIR;VA-DIR,institutional overlap only
+Victoria and Albert Museum,Elizabeth Esteve-Coll,Director,Alan Borg,Director,1995,1995,1,VA-DIR;VA-DIR,institutional overlap only
+Victoria and Albert Museum,Alan Borg,Director,Sir Mark Jones,Director,2001,2001,1,VA-DIR;VA-DIR,institutional overlap only
+Victoria and Albert Museum,Sir Mark Jones,Director,Martin Roth,Director,2011,2011,1,VA-DIR;VA-DIR,institutional overlap only
+Tate,Charles Holroyd,Keeper,D. S. MacColl,Keeper,1906,1906,1,TATE-DIR;TATE-DIR,institutional overlap only
+Tate,D. S. MacColl,Keeper,Charles Aitken,Keeper,1911,1911,1,TATE-DIR;TATE-DIR,institutional overlap only
+Tate,Charles Aitken,Director,J. B. Manson,Director,1930,1930,1,TATE-DIR;TATE-DIR,institutional overlap only
+Tate,J. B. Manson,Director,John Rothenstein,Director,1938,1938,1,TATE-DIR;TATE-DIR,institutional overlap only
+Tate,John Rothenstein,Director,Norman Reid,Director,1964,1964,1,TATE-DIR;TATE-DIR,institutional overlap only
+Tate,Alan Bowness,Director,Nicholas Serota,Director,1988,1988,1,TATE-DIR;TATE-DIR,institutional overlap only
+Tate,Nicholas Serota,Director,Maria Balshaw,Director,2017,2017,1,TATE-DIR;TATE-DIR,institutional overlap only
+Natural History Museum,William Henry Flower,Director,Edwin Ray Lankester,Director,1898,1898,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Lazarus Fletcher,Director,Sidney Frederick Harmer,Director,1919,1919,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Sidney Frederick Harmer,Director,Charles Tate Regan,Director,1927,1927,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Charles Tate Regan,Director,Clive Forster Cooper,Director,1938,1938,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Clive Forster Cooper,Director,Norman Boyd Kinnear,Director,1947,1947,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Norman Boyd Kinnear,Director,Gavin Rylands de Beer,Director,1950,1950,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Gavin Rylands de Beer,Director,Terence Morrison-Scott,Director,1960,1960,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Terence Morrison-Scott,Director,Gordon Claringbull,Director,1968,1968,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Gordon Claringbull,Director,Ronald Hedley,Director,1976,1976,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Ronald Hedley,Director,Neil Chalmers,Director,1988,1988,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Neil Chalmers,Director,Michael Dixon,Director,2004,2004,1,NHM-DIR;NHM-DIR,institutional overlap only
+Natural History Museum,Michael Dixon,Director,Doug Gurr,Director,2020,2020,1,NHM-DIR;NHM-DIR,institutional overlap only
+National Portrait Gallery,Sir George Scharf,Director,Sir Lionel Cust,Director,1895,1895,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Sir Lionel Cust,Director,Sir Charles John Holmes,Director,1909,1909,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Sir Charles John Holmes,Director,James Milner,Director,1917,1917,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,James Milner,Director,Sir Henry Hake,Director,1927,1927,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Sir Henry Hake,Director,Charles Kingsley Adams,Director,1951,1951,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Charles Kingsley Adams,Director,Sir David Piper,Director,1964,1964,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Sir David Piper,Director,Sir Roy Strong,Director,1967,1967,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Sir Roy Strong,Director,John Hayes,Director,1974,1974,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,John Hayes,Director,Charles Saumarez Smith,Director,1994,1994,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Charles Saumarez Smith,Director,Sandy Nairne,Director,2002,2002,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Sandy Nairne,Director,Nicholas Cullinan,Director,2015,2015,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Portrait Gallery,Nicholas Cullinan,Director,Victoria Siddall,Director,2024,2024,1,NPG-DIR;NPG-DIR,institutional overlap only
+National Museum of Antiquities of Scotland,William T McCulloch,Director,Joseph Anderson,Director,1869,1869,1,NMS-HIST;NMS-HIST,institutional overlap only
+National Museum of Antiquities of Scotland,Joseph Anderson,Director,Alexander O Curle,Director,1913,1913,1,NMS-HIST;NMS-HIST,institutional overlap only
+National Museum of Antiquities of Scotland,Alexander O Curle,Director,John G Callander,Director,1919,1919,1,NMS-HIST;NMS-HIST,institutional overlap only
+National Museum of Antiquities of Scotland,John G Callander,Director,Arthur J H Edwards,Director,1938,1938,1,NMS-HIST;NMS-HIST,institutional overlap only
+National Museum of Antiquities of Scotland,Arthur J H Edwards,Director,Gordon V Childe,Director,1944,1944,1,NMS-HIST;NMS-HIST,institutional overlap only
+National Museum of Antiquities of Scotland,Robert B K Stevenson,Director,Alexander Fenton,Director,1978,1978,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Thomas C Archer,Director,Robert Murdoch Smith,Director,1885,1885,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Robert Murdoch Smith,Director,Francis Grant Ogilvie,Director,1900,1900,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Francis Grant Ogilvie,Director,James J Dobbie,Director,1903,1903,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,James J Dobbie,Director,David J Vallance,Acting Director,1909,1909,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,David J Vallance,Acting Director,Thomas Carlaw Martin,Director,1911,1911,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Thomas Carlaw Martin,Director,Alexander O Curle,Director,1916,1916,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Alexander O Curle,Director,Edwin Ward,Director,1931,1931,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Edwin Ward,Director,Thomas Rowatt,Director,1934,1934,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Douglas A Allan,Director,Ian Finlay,Director,1961,1961,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Ian Finlay,Director,Norman Tebble,Director,1971,1971,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Scottish Museum / predecessor,Norman Tebble,Director,Robert Anderson,Director,1984,1984,1,NMS-HIST;NMS-HIST,institutional overlap only
+National Museums Scotland,Robert Anderson,Director,Mark Jones,Director,1992,1992,1,NMS-HIST;NMS-HIST,institutional overlap only
+National Museums Scotland,Gordon Rintoul,Director,Chris Breward,Director,2020,2020,1,NMS-HIST;NMS-HIST,institutional overlap only
+Royal Shakespeare Company,Peter Hall,Artistic Director,Trevor Nunn,Artistic Director,1968,1968,1,RSC-HIST;RSC-HIST,institutional overlap only
+Royal Shakespeare Company,Trevor Nunn,Artistic Director,Terry Hands,Artistic Director / joint,1978,1986,9,RSC-HIST;RSC-HIST,institutional overlap only
+Royal Shakespeare Company,Terry Hands,Artistic Director / joint,Adrian Noble,Artistic Director,1991,1991,1,RSC-HIST;RSC-HIST,institutional overlap only
+Royal Shakespeare Company,Adrian Noble,Artistic Director,Michael Boyd,Artistic Director,2002,2003,2,RSC-HIST;RSC-HIST,institutional overlap only
+Royal Shakespeare Company,Michael Boyd,Artistic Director,Gregory Doran,Artistic Director,2012,2012,1,RSC-HIST;RSC-HIST,institutional overlap only
+Royal Shakespeare Company,Daniel Evans,Co-Artistic Director,Tamara Harvey,Co-Artistic Director,2023,2026,4,RSC-HIST;RSC-HIST,institutional overlap only
+Royal Shakespeare Company,Daniel Evans,Co-Artistic Director,Andrew Leveson,Executive Director,2024,2026,3,RSC-HIST;RSC-HIST,institutional overlap only
+Royal Shakespeare Company,Tamara Harvey,Co-Artistic Director,Andrew Leveson,Executive Director,2024,2026,3,RSC-HIST;RSC-HIST,institutional overlap only
+National Theatre,Laurence Olivier,Director,Peter Hall,Director,1973,1973,1,NT-HIST;NT-HIST,institutional overlap only
+National Theatre,Peter Hall,Director,Richard Eyre,Director,1988,1988,1,NT-HIST;NT-HIST,institutional overlap only
+National Theatre,Richard Eyre,Director,Trevor Nunn,Director,1997,1997,1,NT-HIST;NT-HIST,institutional overlap only
+National Theatre,Trevor Nunn,Director,Nicholas Hytner,Director,2003,2003,1,NT-HIST;NT-HIST,institutional overlap only
+National Theatre,Nicholas Hytner,Director,Rufus Norris,Director,2015,2015,1,NT-HIST;NT-HIST,institutional overlap only
+National Theatre,Rufus Norris,Director,Indhu Rubasingham,Director / Joint Chief Executive,2025,2025,1,NT-HIST;NT-HIST,institutional overlap only
+Royal Ballet and Opera,David Webster,General Administrator,John Tooley,General Administrator,1970,1970,1,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,David Webster,General Administrator,Georg Solti,"Music Director, Royal Opera",1961,1970,10,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,John Tooley,General Administrator,Jeremy Isaacs,General Director,1988,1988,1,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,John Tooley,General Administrator,Georg Solti,"Music Director, Royal Opera",1970,1971,2,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,John Tooley,General Administrator,Colin Davis,"Music Director, Royal Opera",1971,1987,17,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,John Tooley,General Administrator,Bernard Haitink,"Music Director, Royal Opera",1987,1988,2,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,John Tooley,General Administrator,Paul Findlay,"Director, Royal Opera",1987,1988,2,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Jeremy Isaacs,General Director,Bernard Haitink,"Music Director, Royal Opera",1988,1997,10,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Jeremy Isaacs,General Director,Paul Findlay,"Director, Royal Opera",1988,1993,6,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Tony Hall,Chief Executive,Alex Beard,Chief Executive,2013,2013,1,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Tony Hall,Chief Executive,Bernard Haitink,"Music Director, Royal Opera",2001,2002,2,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Tony Hall,Chief Executive,Antonio Pappano,"Music Director, Royal Opera",2002,2013,12,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Alex Beard,Chief Executive,Antonio Pappano,"Music Director, Royal Opera",2013,2024,12,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Alex Beard,Chief Executive,Jakub Hrůša,"Music Director, Royal Opera",2025,2026,2,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Alex Beard,Chief Executive,Oliver Mears,Director of Opera,2017,2026,10,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Georg Solti,"Music Director, Royal Opera",Colin Davis,"Music Director, Royal Opera",1971,1971,1,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Colin Davis,"Music Director, Royal Opera",Bernard Haitink,"Music Director, Royal Opera",1987,1987,1,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Colin Davis,"Music Director, Royal Opera",Paul Findlay,"Director, Royal Opera",1987,1987,1,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Bernard Haitink,"Music Director, Royal Opera",Antonio Pappano,"Music Director, Royal Opera",2002,2002,1,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Bernard Haitink,"Music Director, Royal Opera",Paul Findlay,"Director, Royal Opera",1987,1993,7,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Antonio Pappano,"Music Director, Royal Opera",Oliver Mears,Director of Opera,2017,2024,8,RBO-HIST;RBO-HIST,institutional overlap only
+Royal Ballet and Opera,Jakub Hrůša,"Music Director, Royal Opera",Oliver Mears,Director of Opera,2025,2026,2,RBO-HIST;RBO-HIST,institutional overlap only
