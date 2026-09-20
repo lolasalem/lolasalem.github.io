@@ -1,0 +1,46 @@
+priority_score,entity_id,institution_name,nation,sector,missing_evidence
+9,inst-citizens-theatre,Citizens Theatre,Scotland,Theatre,audited finance; trustees; strategy claims; outputs
+9,inst-glasgow-school-of-art,Glasgow School of Art,Scotland,Art school,chair; audited finance; trustees; strategy claims; outputs
+9,inst-lyric-theatre-belfast,Lyric Theatre Belfast,Northern Ireland,Theatre,chair; audited finance; trustees; strategy claims; outputs
+9,inst-national-museum-wales,National Museum Wales,Wales,Museum group,chair; audited finance; trustees; strategy claims; outputs
+9,inst-national-museums-northern-ireland,National Museums Northern Ireland,Northern Ireland,Museum group,audited finance; trustees; strategy claims; outputs
+9,inst-national-museums-scotland,National Museums Scotland,Scotland,Museum group,audited finance; trustees; strategy claims; outputs
+9,inst-royal-conservatoire-of-scotland,Royal Conservatoire of Scotland,Scotland,Conservatoire,chair; audited finance; trustees; strategy claims; outputs
+9,inst-royal-lyceum-theatre-edinburgh,Royal Lyceum Theatre Edinburgh,Scotland,Theatre,audited finance; trustees; strategy claims; outputs
+9,inst-royal-welsh-college-of-music-drama,Royal Welsh College of Music & Drama,Wales,Conservatoire,audited finance; trustees; strategy claims; outputs
+9,inst-scottish-opera,Scottish Opera,Scotland,Opera,audited finance; trustees; strategy claims; outputs
+9,inst-welsh-national-opera,Welsh National Opera,Wales,Opera,chair; audited finance; trustees; strategy claims; outputs
+6,inst-arts-university-bournemouth,Arts University Bournemouth,England,Arts university,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-british-museum,British Museum,England,Museum,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-central-saint-martins,Central Saint Martins,England,Art and design school,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-courtauld-institute-of-art,Courtauld Institute of Art,England,Art history / conservation / gallery,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-english-national-opera,English National Opera,England,Opera,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-falmouth-university,Falmouth University,England,Creative arts university,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-goldsmiths-university-of-london,"Goldsmiths, University of London",England,Art / humanities university,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-guildhall-school-of-music-drama,Guildhall School of Music & Drama,England,Conservatoire,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-imperial-war-museums,Imperial War Museums,England,Museum group,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-liverpool-everyman-playhouse,Liverpool Everyman & Playhouse,England,Theatre,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-national-gallery,National Gallery,England,Gallery,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-national-museums-liverpool,National Museums Liverpool,England,Museum group,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-national-theatre,National Theatre,England,Theatre,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-natural-history-museum,Natural History Museum,England,Museum,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-northern-ballet,Northern Ballet,England,Ballet,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-norwich-university-of-the-arts,Norwich University of the Arts,England,Arts university,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-academy-of-music,Royal Academy of Music,England,Conservatoire,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-ballet-and-opera,Royal Ballet and Opera,England,Opera and ballet,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-birmingham-conservatoire,Royal Birmingham Conservatoire,England,Conservatoire,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-college-of-art,Royal College of Art,England,Art and design school,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-college-of-music,Royal College of Music,England,Conservatoire,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-exchange-theatre,Royal Exchange Theatre,England,Theatre,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-museums-greenwich,Royal Museums Greenwich,England,Museum group,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-royal-shakespeare-company,Royal Shakespeare Company,England,Theatre,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-sadler-s-wells,Sadler’s Wells,England,Dance / theatre,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-science-museum-group,Science Museum Group,England,Museum group,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-tate,Tate,England,Gallery group,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-trinity-laban-conservatoire-of-music-and-dance,Trinity Laban Conservatoire of Music and Dance,England,Conservatoire,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-university-of-the-arts-london,University of the Arts London,England,Art and design university,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+6,inst-victoria-and-albert-museum,Victoria and Albert Museum,England,Museum,legal entity; current leadership; chair; funding architecture; audited finance; trustees; strategy claims; outputs
+5,inst-birmingham-royal-ballet,Birmingham Royal Ballet,England,Ballet,chair; audited finance; trustees; strategy claims; outputs
+5,inst-bristol-old-vic,Bristol Old Vic,England,Theatre,chair; audited finance; trustees; strategy claims; outputs
+5,inst-opera-north,Opera North,England,Opera,chair; audited finance; trustees; strategy claims; outputs
+5,inst-royal-northern-college-of-music,Royal Northern College of Music,England,Conservatoire,chair; audited finance; trustees; strategy claims; outputs

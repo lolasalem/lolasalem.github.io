@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C36",
+  "canonical_institutions": 45,
+  "normalized_person_roles": 25,
+  "coverage_rows": 45,
+  "population_queue_rows": 45,
+  "full_name_ids_separated": true,
+  "missing_evidence_explicit": true,
+  "no_missing_as_zero": true
+}

@@ -1,0 +1,46 @@
+entity_id,public_name,legal_name,sector,location,nation,legal_context,current_leader,current_leader_role,chair,funding_architecture,prior_review_status,evidence_depth
+inst-royal-ballet-and-opera,Royal Ballet and Opera,,Opera and ballet,London,England,Charity,,,,,,registered
+inst-english-national-opera,English National Opera,,Opera,London / Greater Manchester transition,England,Charity / company,,,,,,registered
+inst-opera-north,Opera North,Opera North Ltd,Opera,Leeds,England,Charity / company,Richard Mantle,General Director,,Arts Council England; earned income; philanthropy,,deep-review
+inst-welsh-national-opera,Welsh National Opera,Welsh National Opera Ltd,Opera,Cardiff,Wales,Charity / company,Adele Thomas,General Director,,Arts Council of Wales; Arts Council England; earned income; philanthropy,,deep-review
+inst-scottish-opera,Scottish Opera,Scottish Opera,Opera,Glasgow,Scotland,Charity / company,Alex Reedijk OBE FRC,General Director,Peter Lawson CBE,Scottish Government support; earned income; philanthropy,,verified-current
+inst-birmingham-royal-ballet,Birmingham Royal Ballet,Birmingham Royal Ballet,Ballet,Birmingham,England,Charity / company,Carlos Acosta,Director,,Arts Council England; Birmingham support; earned income; philanthropy,,deep-review
+inst-northern-ballet,Northern Ballet,,Ballet,Leeds,England,Charity / company,,,,,,registered
+inst-national-theatre,National Theatre,,Theatre,London,England,Charity,,,,,,registered
+inst-royal-shakespeare-company,Royal Shakespeare Company,,Theatre,Stratford-upon-Avon,England,Charity,,,,,,registered
+inst-sadler-s-wells,Sadler’s Wells,,Dance / theatre,London,England,Charity,,,,,,registered
+inst-royal-exchange-theatre,Royal Exchange Theatre,,Theatre,Manchester,England,Charity,,,,,,registered
+inst-bristol-old-vic,Bristol Old Vic,Bristol Old Vic and Theatre Royal Trust Ltd,Theatre,Bristol,England,Charity,Nancy Medina,Artistic Director,,Arts Council England; local/public support; earned income; philanthropy,,deep-review
+inst-liverpool-everyman-playhouse,Liverpool Everyman & Playhouse,,Theatre,Liverpool,England,Charity,,,,,,registered
+inst-royal-lyceum-theatre-edinburgh,Royal Lyceum Theatre Edinburgh,Royal Lyceum Theatre Company Ltd,Theatre,Edinburgh,Scotland,Charity,James Brining,Artistic Director,Tari Lang,Creative Scotland; City of Edinburgh Council; earned income; philanthropy,,verified-current
+inst-citizens-theatre,Citizens Theatre,Citizens Theatre Ltd,Theatre,Glasgow,Scotland,Charity,Dominic Hill,Artistic Director & Joint CEO,Alison Newton,Creative Scotland; Glasgow City Council; earned income; philanthropy,,verified-current
+inst-lyric-theatre-belfast,Lyric Theatre Belfast,Lyric Theatre (NI),Theatre,Belfast,Northern Ireland,Charity,Jimmy Fay,Executive Producer,,Arts Council of Northern Ireland; earned income; philanthropy,,deep-review
+inst-royal-academy-of-music,Royal Academy of Music,,Conservatoire,London,England,Charity / higher education,,,,,,registered
+inst-royal-college-of-music,Royal College of Music,,Conservatoire,London,England,Charity / higher education,,,,,,registered
+inst-guildhall-school-of-music-drama,Guildhall School of Music & Drama,,Conservatoire,London,England,City of London institution,,,,,,registered
+inst-trinity-laban-conservatoire-of-music-and-dance,Trinity Laban Conservatoire of Music and Dance,,Conservatoire,London,England,Higher education / charity,,,,,,registered
+inst-royal-birmingham-conservatoire,Royal Birmingham Conservatoire,,Conservatoire,Birmingham,England,University conservatoire,,,,,,registered
+inst-royal-northern-college-of-music,Royal Northern College of Music,Royal Northern College of Music,Conservatoire,Manchester,England,Higher education / charity,Linda Merrick,Principal,,Office for Students / tuition / grants / earned / philanthropy,,deep-review
+inst-royal-welsh-college-of-music-drama,Royal Welsh College of Music & Drama,Royal Welsh College of Music & Drama Ltd,Conservatoire,Cardiff,Wales,Higher education,Helena Gaunt,Principal,Michael Plaut,Higher-education public funding / tuition / earned / philanthropy,,verified-current
+inst-royal-conservatoire-of-scotland,Royal Conservatoire of Scotland,Royal Conservatoire of Scotland,Conservatoire,Glasgow,Scotland,Higher education / charity,Jeffrey Sharkey,Principal,,Scottish Funding Council / tuition / earned / philanthropy,,verified-current
+inst-royal-college-of-art,Royal College of Art,,Art and design school,London,England,Higher education,,,,,,registered
+inst-university-of-the-arts-london,University of the Arts London,,Art and design university,London,England,Higher education / exempt charity,,,,,,registered
+inst-central-saint-martins,Central Saint Martins,,Art and design school,London,England,College of University of the Arts London,,,,,,registered
+inst-glasgow-school-of-art,Glasgow School of Art,The Glasgow School of Art,Art school,Glasgow,Scotland,Higher education / charity,Penny Macbeth,Director,,Scottish Funding Council / tuition / research / philanthropy,,deep-review
+inst-goldsmiths-university-of-london,"Goldsmiths, University of London",,Art / humanities university,London,England,Higher education,,,,,,registered
+inst-courtauld-institute-of-art,Courtauld Institute of Art,,Art history / conservation / gallery,London,England,Higher education / charity,,,,,,registered
+inst-falmouth-university,Falmouth University,,Creative arts university,Falmouth,England,Higher education,,,,,,registered
+inst-arts-university-bournemouth,Arts University Bournemouth,,Arts university,Poole,England,Higher education,,,,,,registered
+inst-norwich-university-of-the-arts,Norwich University of the Arts,,Arts university,Norwich,England,Higher education,,,,,,registered
+inst-british-museum,British Museum,,Museum,London,England,Exempt charity / statutory body,,,,,,registered
+inst-national-gallery,National Gallery,,Gallery,London,England,Exempt charity / statutory body,,,,,,registered
+inst-tate,Tate,,Gallery group,London / Liverpool,England,Exempt charity / statutory body,,,,,,registered
+inst-victoria-and-albert-museum,Victoria and Albert Museum,,Museum,London,England,Exempt charity / statutory body,,,,,,registered
+inst-natural-history-museum,Natural History Museum,,Museum,London,England,Exempt charity / statutory body,,,,,,registered
+inst-science-museum-group,Science Museum Group,,Museum group,England,England,Exempt charity / statutory body,,,,,,registered
+inst-national-museums-liverpool,National Museums Liverpool,,Museum group,Liverpool,England,Exempt charity / public body,,,,,,registered
+inst-imperial-war-museums,Imperial War Museums,,Museum group,England,England,Exempt charity / statutory body,,,,,,registered
+inst-royal-museums-greenwich,Royal Museums Greenwich,,Museum group,London,England,Exempt charity / public body,,,,,,registered
+inst-national-museum-wales,National Museum Wales,Amgueddfa Cymru – Museum Wales,Museum group,Wales,Wales,Welsh public body / charity context,Jane Richardson,Chief Executive,,Welsh Government Grant-in-Aid; earned income; grants/donations,,deep-review
+inst-national-museums-scotland,National Museums Scotland,National Museums Scotland,Museum group,Scotland,Scotland,Scottish public body / charity context,Chris Breward,Director,Ian Russell CBE,Scottish Government Grant-in-Aid; earned income; donations,,verified-current
+inst-national-museums-northern-ireland,National Museums Northern Ireland,National Museums NI,Museum group,Northern Ireland,Northern Ireland,Public body / charity context,Kathryn Thomson,Chief Executive,Gordon Milligan OBE,Department for Communities; earned income; grants/donations,,verified-current

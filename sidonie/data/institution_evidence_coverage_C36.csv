@@ -1,0 +1,46 @@
+entity_id,institution_name,nation,sector,legal_entity,current_leader,chair,funding_architecture,audited_finance_reconciled,trustees_complete,strategy_claims_ingested,outputs_ingested,next_tier
+inst-royal-ballet-and-opera,Royal Ballet and Opera,England,Opera and ballet,no,no,no,no,no,no,no,no,Tier 3 register
+inst-english-national-opera,English National Opera,England,Opera,no,no,no,no,no,no,no,no,Tier 3 register
+inst-opera-north,Opera North,England,Opera,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-welsh-national-opera,Welsh National Opera,Wales,Opera,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-scottish-opera,Scottish Opera,Scotland,Opera,yes,yes,yes,yes,no,no,no,no,Tier 1 forensic
+inst-birmingham-royal-ballet,Birmingham Royal Ballet,England,Ballet,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-northern-ballet,Northern Ballet,England,Ballet,no,no,no,no,no,no,no,no,Tier 3 register
+inst-national-theatre,National Theatre,England,Theatre,no,no,no,no,no,no,no,no,Tier 3 register
+inst-royal-shakespeare-company,Royal Shakespeare Company,England,Theatre,no,no,no,no,no,no,no,no,Tier 3 register
+inst-sadler-s-wells,Sadler’s Wells,England,Dance / theatre,no,no,no,no,no,no,no,no,Tier 3 register
+inst-royal-exchange-theatre,Royal Exchange Theatre,England,Theatre,no,no,no,no,no,no,no,no,Tier 3 register
+inst-bristol-old-vic,Bristol Old Vic,England,Theatre,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-liverpool-everyman-playhouse,Liverpool Everyman & Playhouse,England,Theatre,no,no,no,no,no,no,no,no,Tier 3 register
+inst-royal-lyceum-theatre-edinburgh,Royal Lyceum Theatre Edinburgh,Scotland,Theatre,yes,yes,yes,yes,no,no,no,no,Tier 1 forensic
+inst-citizens-theatre,Citizens Theatre,Scotland,Theatre,yes,yes,yes,yes,no,no,no,no,Tier 1 forensic
+inst-lyric-theatre-belfast,Lyric Theatre Belfast,Northern Ireland,Theatre,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-royal-academy-of-music,Royal Academy of Music,England,Conservatoire,no,no,no,no,no,no,no,no,Tier 3 register
+inst-royal-college-of-music,Royal College of Music,England,Conservatoire,no,no,no,no,no,no,no,no,Tier 3 register
+inst-guildhall-school-of-music-drama,Guildhall School of Music & Drama,England,Conservatoire,no,no,no,no,no,no,no,no,Tier 3 register
+inst-trinity-laban-conservatoire-of-music-and-dance,Trinity Laban Conservatoire of Music and Dance,England,Conservatoire,no,no,no,no,no,no,no,no,Tier 3 register
+inst-royal-birmingham-conservatoire,Royal Birmingham Conservatoire,England,Conservatoire,no,no,no,no,no,no,no,no,Tier 3 register
+inst-royal-northern-college-of-music,Royal Northern College of Music,England,Conservatoire,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-royal-welsh-college-of-music-drama,Royal Welsh College of Music & Drama,Wales,Conservatoire,yes,yes,yes,yes,no,no,no,no,Tier 1 forensic
+inst-royal-conservatoire-of-scotland,Royal Conservatoire of Scotland,Scotland,Conservatoire,yes,yes,no,yes,no,no,no,no,Tier 1 forensic
+inst-royal-college-of-art,Royal College of Art,England,Art and design school,no,no,no,no,no,no,no,no,Tier 3 register
+inst-university-of-the-arts-london,University of the Arts London,England,Art and design university,no,no,no,no,no,no,no,no,Tier 3 register
+inst-central-saint-martins,Central Saint Martins,England,Art and design school,no,no,no,no,no,no,no,no,Tier 3 register
+inst-glasgow-school-of-art,Glasgow School of Art,Scotland,Art school,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-goldsmiths-university-of-london,"Goldsmiths, University of London",England,Art / humanities university,no,no,no,no,no,no,no,no,Tier 3 register
+inst-courtauld-institute-of-art,Courtauld Institute of Art,England,Art history / conservation / gallery,no,no,no,no,no,no,no,no,Tier 3 register
+inst-falmouth-university,Falmouth University,England,Creative arts university,no,no,no,no,no,no,no,no,Tier 3 register
+inst-arts-university-bournemouth,Arts University Bournemouth,England,Arts university,no,no,no,no,no,no,no,no,Tier 3 register
+inst-norwich-university-of-the-arts,Norwich University of the Arts,England,Arts university,no,no,no,no,no,no,no,no,Tier 3 register
+inst-british-museum,British Museum,England,Museum,no,no,no,no,no,no,no,no,Tier 3 register
+inst-national-gallery,National Gallery,England,Gallery,no,no,no,no,no,no,no,no,Tier 3 register
+inst-tate,Tate,England,Gallery group,no,no,no,no,no,no,no,no,Tier 3 register
+inst-victoria-and-albert-museum,Victoria and Albert Museum,England,Museum,no,no,no,no,no,no,no,no,Tier 3 register
+inst-natural-history-museum,Natural History Museum,England,Museum,no,no,no,no,no,no,no,no,Tier 3 register
+inst-science-museum-group,Science Museum Group,England,Museum group,no,no,no,no,no,no,no,no,Tier 3 register
+inst-national-museums-liverpool,National Museums Liverpool,England,Museum group,no,no,no,no,no,no,no,no,Tier 3 register
+inst-imperial-war-museums,Imperial War Museums,England,Museum group,no,no,no,no,no,no,no,no,Tier 3 register
+inst-royal-museums-greenwich,Royal Museums Greenwich,England,Museum group,no,no,no,no,no,no,no,no,Tier 3 register
+inst-national-museum-wales,National Museum Wales,Wales,Museum group,yes,yes,no,yes,no,no,no,no,Tier 2 structured
+inst-national-museums-scotland,National Museums Scotland,Scotland,Museum group,yes,yes,yes,yes,no,no,no,no,Tier 1 forensic
+inst-national-museums-northern-ireland,National Museums Northern Ireland,Northern Ireland,Museum group,yes,yes,yes,yes,no,no,no,no,Tier 1 forensic

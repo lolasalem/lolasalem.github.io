@@ -1,0 +1,26 @@
+person_id,person_name,entity_id,institution_name,role,status,source_ids
+person-alex-reedijk-obe-frc,Alex Reedijk OBE FRC,inst-scottish-opera,Scottish Opera,General Director,current,SO1;SO2
+person-peter-lawson-cbe,Peter Lawson CBE,inst-scottish-opera,Scottish Opera,Chair,current,SO1;SO2
+person-stuart-stratford,Stuart Stratford,inst-scottish-opera,Scottish Opera,Music Director,current,SO1;SO2
+person-jeffrey-sharkey,Jeffrey Sharkey,inst-royal-conservatoire-of-scotland,Royal Conservatoire of Scotland,Principal,current,RCS1
+person-departure-announced-for-summer-2027,Departure announced for summer 2027,inst-royal-conservatoire-of-scotland,Royal Conservatoire of Scotland,Succession event,current,RCS1
+person-helena-gaunt,Helena Gaunt,inst-royal-welsh-college-of-music-drama,Royal Welsh College of Music & Drama,Principal,current,RWCMD1;RWCMD2
+person-michael-plaut,Michael Plaut,inst-royal-welsh-college-of-music-drama,Royal Welsh College of Music & Drama,Chair of Board,current,RWCMD1;RWCMD2
+person-tim-rhys-evans,Tim Rhys-Evans,inst-royal-welsh-college-of-music-drama,Royal Welsh College of Music & Drama,Director of Music,current,RWCMD1;RWCMD2
+person-sean-crowley,Sean Crowley,inst-royal-welsh-college-of-music-drama,Royal Welsh College of Music & Drama,Director of Drama,current,RWCMD1;RWCMD2
+person-chris-breward,Chris Breward,inst-national-museums-scotland,National Museums Scotland,Director,current,NMS1;NMS2
+person-ian-russell-cbe,Ian Russell CBE,inst-national-museums-scotland,National Museums Scotland,Chair,current,NMS1;NMS2
+person-sam-alberti,Sam Alberti,inst-national-museums-scotland,National Museums Scotland,Executive team,current,NMS1;NMS2
+person-ruth-gill,Ruth Gill,inst-national-museums-scotland,National Museums Scotland,senior leadership,current,NMS1;NMS2
+person-helen-ireland,Helen Ireland,inst-national-museums-scotland,National Museums Scotland,senior leadership,current,NMS1;NMS2
+person-keith-pentland,Keith Pentland,inst-national-museums-scotland,National Museums Scotland,senior leadership,current,NMS1;NMS2
+person-kathryn-thomson,Kathryn Thomson,inst-national-museums-northern-ireland,National Museums Northern Ireland,Chief Executive,current,NMNI1
+person-gordon-milligan-obe,Gordon Milligan OBE,inst-national-museums-northern-ireland,National Museums Northern Ireland,Chair,current,NMNI1
+person-william-blair,William Blair,inst-national-museums-northern-ireland,National Museums Northern Ireland,Director of Collections,current,NMNI1
+person-colin-catney,Colin Catney,inst-national-museums-northern-ireland,National Museums Northern Ireland,Chief Operating Officer,current,NMNI1
+person-dominic-hill,Dominic Hill,inst-citizens-theatre,Citizens Theatre,Artistic Director & Joint CEO,current,CITZ1;CITZ2
+person-alison-newton,Alison Newton,inst-citizens-theatre,Citizens Theatre,Chair,current,CITZ1;CITZ2
+person-kate-denby,Kate Denby,inst-citizens-theatre,Citizens Theatre,Executive Director & Joint CEO,current,CITZ1;CITZ2
+person-james-brining,James Brining,inst-royal-lyceum-theatre-edinburgh,Royal Lyceum Theatre Edinburgh,Artistic Director,current,LYC1
+person-tari-lang,Tari Lang,inst-royal-lyceum-theatre-edinburgh,Royal Lyceum Theatre Edinburgh,Chair,current,LYC1
+person-lyndsey-jackson,Lyndsey Jackson,inst-royal-lyceum-theatre-edinburgh,Royal Lyceum Theatre Edinburgh,Executive Director,current,LYC1
