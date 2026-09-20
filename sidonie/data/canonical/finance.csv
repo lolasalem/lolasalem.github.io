@@ -1,0 +1,7 @@
+finance_id,institution_id,period_start,period_end,line_item,amount_gbp,unit,legacy_source_id,locator,verification_status,introduced_in
+F000001,I000001,2024-04-01,2025-03-31,Total income,843062000,GBP,ACE-REV1,Summary of financial information (from ACE ARA 2024-25),verified,C44
+F000002,I000001,2024-04-01,2025-03-31,Taxpayer operating grant (Grant-in-Aid),578077000,GBP,ACE-REV1,Summary of financial information,verified,C44
+F000003,I000001,2024-04-01,2025-03-31,National Lottery,250259000,GBP,ACE-REV1,Summary of financial information,verified,C44
+F000004,I000001,2024-04-01,2025-03-31,Investment returns on Lottery Distribution Fund,12035000,GBP,ACE-REV1,Summary of financial information,verified,C44
+F000005,I000001,2024-04-01,2025-03-31,Other income,2691000,GBP,ACE-REV1,Summary of financial information,verified,C44
+F000006,I000001,2024-04-01,2025-03-31,Total expenditure,731085000,GBP,ACE-REV1,Summary of financial information,verified,C44

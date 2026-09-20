@@ -1,0 +1,2 @@
+change_id,date,record_id,field,old_value,new_value,reason,source_id,release
+CH000001,2026-09-20,DATABASE,schema,,canonical-v1,C01–C50 consolidated; canonical files are live source from C51,,C51

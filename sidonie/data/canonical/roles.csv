@@ -1,0 +1,182 @@
+role_id,person_id,institution_id,office,start_date,end_date,place,legacy_source_id,verification_status,introduced_in,last_modified_in
+R000001,P000126,I000024,Director,1855,1865,London,NG-DIR,source-scoped,C51,C51
+R000002,P000148,I000024,Director,1866,1874,London,NG-DIR,source-scoped,C51,C51
+R000003,P000130,I000024,Director,1874,1894,London,NG-DIR,source-scoped,C51,C51
+R000004,P000128,I000024,Director,1894,1904,London,NG-DIR,source-scoped,C51,C51
+R000005,P000124,I000024,Director,1906,1916,London,NG-DIR,source-scoped,C51,C51
+R000006,P000125,I000024,Director,1916,1928,London,NG-DIR,source-scoped,C51,C51
+R000007,P000121,I000024,Director,1929,1933,London,NG-DIR,source-scoped,C51,C51
+R000008,P000075,I000024,Director,1934,1945,London,NG-DIR,source-scoped,C51,C51
+R000009,P000144,I000024,Director,1946,1967,London,NG-DIR,source-scoped,C51,C51
+R000010,P000140,I000024,Director,1968,1973,London,NG-DIR,source-scoped,C51,C51
+R000011,P000141,I000024,Director,1973,1986,London,NG-DIR,source-scoped,C51,C51
+R000012,P000093,I000024,Director,1987,2002,London,NG-DIR,source-scoped,C51,C51
+R000013,P000024,I000024,Director,2002,2007,London,NG-DIR,source-scoped,C51,C51
+R000014,P000142,I000024,Director,2008,2015,London,NG-DIR,source-scoped,C51,C51
+R000015,P000043,I000024,Director,2015,present,London,NG-DIR,source-scoped,C51,C51
+R000016,P000132,I000056,Director / predecessor museums,1852,1873,London,VA-DIR,source-scoped,C51,C51
+R000017,P000143,I000056,Director,1874,1893,London,VA-DIR,source-scoped,C51,C51
+R000018,P000068,I000056,Director,1893,1896,London,VA-DIR,source-scoped,C51,C51
+R000019,P000122,I000056,Director,1896,1905,London,VA-DIR,source-scoped,C51,C51
+R000020,P000016,I000056,Director,1905,1908,London,VA-DIR,source-scoped,C51,C51
+R000021,P000123,I000056,Director,1909,1924,London,VA-DIR,source-scoped,C51,C51
+R000022,P000129,I000056,Director,1924,1944,London,VA-DIR,source-scoped,C51,C51
+R000023,P000137,I000056,Director,1945,1955,London,VA-DIR,source-scoped,C51,C51
+R000024,P000147,I000056,Director,1956,1966,London,VA-DIR,source-scoped,C51,C51
+R000025,P000136,I000056,Director,1967,1973,London,VA-DIR,source-scoped,C51,C51
+R000026,P000145,I000056,Director,1974,1987,London,VA-DIR,source-scoped,C51,C51
+R000027,P000041,I000056,Director,1987,1995,London,VA-DIR,source-scoped,C51,C51
+R000028,P000003,I000056,Director,1995,2001,London,VA-DIR,source-scoped,C51,C51
+R000029,P000139,I000056,Director,2001,2011,London,VA-DIR,source-scoped,C51,C51
+R000030,P000085,I000056,Director,2011,2016,London,VA-DIR,source-scoped,C51,C51
+R000031,P000163,I000056,Director,2017,present,London,VA-DIR,source-scoped,C51,C51
+R000032,P000022,I000053,Keeper,1897,1906,London,TATE-DIR,source-scoped,C51,C51
+R000033,P000031,I000053,Keeper,1906,1911,London,TATE-DIR,source-scoped,C51,C51
+R000034,P000021,I000053,Keeper,1911,1917,London,TATE-DIR,source-scoped,C51,C51
+R000035,P000021,I000053,Director,1917,1930,London,TATE-DIR,source-scoped,C51,C51
+R000036,P000058,I000053,Director,1930,1938,London,TATE-DIR,source-scoped,C51,C51
+R000037,P000069,I000053,Director,1938,1964,London,TATE-DIR,source-scoped,C51,C51
+R000038,P000101,I000053,Director,1964,1979,London,TATE-DIR,source-scoped,C51,C51
+R000039,P000004,I000053,Director,1980,1988,London,TATE-DIR,source-scoped,C51,C51
+R000040,P000097,I000053,Director,1988,2017,London,TATE-DIR,source-scoped,C51,C51
+R000041,P000080,I000053,Director,2017,present,London,TATE-DIR,source-scoped,C51,C51
+R000042,P000110,I000032,Superintendent,1856,1883,London,NHM-DIR,source-scoped,C51,C51
+R000043,P000166,I000032,Director,1884,1898,London,NHM-DIR,source-scoped,C51,C51
+R000044,P000039,I000032,Director,1898,1907,London,NHM-DIR,source-scoped,C51,C51
+R000045,P000078,I000032,Director,1909,1919,London,NHM-DIR,source-scoped,C51,C51
+R000046,P000119,I000032,Director,1919,1927,London,NHM-DIR,source-scoped,C51,C51
+R000047,P000025,I000032,Director,1927,1938,London,NHM-DIR,source-scoped,C51,C51
+R000048,P000029,I000032,Director,1938,1947,London,NHM-DIR,source-scoped,C51,C51
+R000049,P000100,I000032,Director,1947,1950,London,NHM-DIR,source-scoped,C51,C51
+R000050,P000044,I000032,Director,1950,1960,London,NHM-DIR,source-scoped,C51,C51
+R000051,P000152,I000032,Director,1960,1968,London,NHM-DIR,source-scoped,C51,C51
+R000052,P000049,I000032,Director,1968,1976,London,NHM-DIR,source-scoped,C51,C51
+R000053,P000114,I000032,Director,1976,1988,London,NHM-DIR,source-scoped,C51,C51
+R000054,P000092,I000032,Director,1988,2004,London,NHM-DIR,source-scoped,C51,C51
+R000055,P000089,I000032,Director,2004,2020,London,NHM-DIR,source-scoped,C51,C51
+R000056,P000037,I000032,Director,2020,present,London,NHM-DIR,source-scoped,C51,C51
+R000057,P000131,I000030,Director,1857,1895,London,NPG-DIR,source-scoped,C51,C51
+R000058,P000138,I000030,Director,1895,1909,London,NPG-DIR,source-scoped,C51,C51
+R000059,P000125,I000030,Director,1909,1917,London,NPG-DIR,source-scoped,C51,C51
+R000060,P000063,I000030,Director,1917,1927,London,NPG-DIR,source-scoped,C51,C51
+R000061,P000133,I000030,Director,1927,1951,London,NPG-DIR,source-scoped,C51,C51
+R000062,P000023,I000030,Director,1951,1964,London,NPG-DIR,source-scoped,C51,C51
+R000063,P000127,I000030,Director,1964,1967,London,NPG-DIR,source-scoped,C51,C51
+R000064,P000145,I000030,Director,1967,1974,London,NPG-DIR,source-scoped,C51,C51
+R000065,P000067,I000030,Director,1974,1994,London,NPG-DIR,source-scoped,C51,C51
+R000066,P000024,I000030,Director,1994,2002,London,NPG-DIR,source-scoped,C51,C51
+R000067,P000116,I000030,Director,2002,2015,London,NPG-DIR,source-scoped,C51,C51
+R000068,P000094,I000030,Director,2015,2024,London,NPG-DIR,source-scoped,C51,C51
+R000069,P000165,I000030,Director,2024,present,London,NPG-DIR,source-scoped,C51,C51
+R000070,P000167,I000026,Director,1859,1869,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000071,P000071,I000026,Director,1869,1913,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000072,P000008,I000026,Director,1913,1919,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000073,P000066,I000026,Director,1919,1938,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000074,P000017,I000026,Director,1938,1944,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000075,P000052,I000026,Director,1944,1945,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000076,P000112,I000026,Director,1946,1978,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000077,P000007,I000026,Director,1978,1985,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000078,P000047,I000047,Director,1855,1859,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000079,P000154,I000047,Director,1860,1885,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000080,P000113,I000047,Director,1885,1900,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000081,P000042,I000047,Director,1900,1903,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000082,P000061,I000047,Director,1903,1909,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000083,P000033,I000047,Acting Director,1909,1911,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000084,P000155,I000047,Director,1911,1916,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000085,P000008,I000047,Director,1916,1931,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000086,P000040,I000047,Director,1931,1934,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000087,P000156,I000047,Director,1934,1944,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000088,P000038,I000047,Director,1945,1961,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000089,P000056,I000047,Director,1961,1971,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000090,P000102,I000047,Director,1971,1984,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000091,P000111,I000047,Director,1984,1985,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000092,P000111,I000029,Director,1985,1992,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000093,P000082,I000029,Director,1992,2001,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000094,P000051,I000029,Director,2002,2020,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000095,P000026,I000029,Director,2020,present,Edinburgh,NMS-HIST,source-scoped,C51,C51
+R000096,P000107,I000048,Artistic Director,1960,1968,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000097,P000162,I000048,Artistic Director,1968,1986,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000098,P000153,I000048,Artistic Director / joint,1978,1991,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000099,P000001,I000048,Artistic Director,1991,2003,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000100,P000088,I000048,Artistic Director,2002,2012,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000101,P000055,I000048,Artistic Director,2012,2022,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000102,P000032,I000048,Co-Artistic Director,2023,present,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000103,P000151,I000048,Co-Artistic Director,2023,present,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000104,P000012,I000048,Executive Director,2024,present,Stratford-upon-Avon,RSC-HIST,source-scoped,C51,C51
+R000105,P000077,I000031,Director,1963,1973,London,NT-HIST,source-scoped,C51,C51
+R000106,P000107,I000031,Director,1973,1988,London,NT-HIST,source-scoped,C51,C51
+R000107,P000109,I000031,Director,1988,1997,London,NT-HIST,source-scoped,C51,C51
+R000108,P000162,I000031,Director,1997,2003,London,NT-HIST,source-scoped,C51,C51
+R000109,P000095,I000031,Director,2003,2015,London,NT-HIST,source-scoped,C51,C51
+R000110,P000115,I000031,Director,2015,2025,London,NT-HIST,source-scoped,C51,C51
+R000111,P000057,I000031,Director / Joint Chief Executive,2025,present,London,NT-HIST,source-scoped,C51,C51
+R000112,P000035,I000037,General Administrator,1946,1970,London,RBO-HIST,source-scoped,C51,C51
+R000113,P000070,I000037,General Administrator,1970,1988,London,RBO-HIST,source-scoped,C51,C51
+R000114,P000064,I000037,General Director,1988,1997,London,RBO-HIST,source-scoped,C51,C51
+R000115,P000160,I000037,Chief Executive,2001,2013,London,RBO-HIST,source-scoped,C51,C51
+R000116,P000005,I000037,Chief Executive,2013,present,London,RBO-HIST,source-scoped,C51,C51
+R000117,P000045,I000037,"Music Director, Royal Opera",1961,1971,London,RBO-HIST,source-scoped,C51,C51
+R000118,P000030,I000037,"Music Director, Royal Opera",1971,1987,London,RBO-HIST,source-scoped,C51,C51
+R000119,P000019,I000037,"Music Director, Royal Opera",1987,2002,London,RBO-HIST,source-scoped,C51,C51
+R000120,P000015,I000037,"Music Director, Royal Opera",2002,2024,London,RBO-HIST,source-scoped,C51,C51
+R000121,P000060,I000037,"Music Director, Royal Opera",2025,present,London,RBO-HIST,source-scoped,C51,C51
+R000122,P000105,I000037,"Director, Royal Opera",1987,1993,London,RBO-HIST,source-scoped,C51,C51
+R000123,P000096,I000037,"Director, Royal Opera",1993,unknown,London,RBO-HIST,source-scoped,C51,C51
+R000124,P000103,I000037,Director of Opera,2017,present,London,RBO-HIST,source-scoped,C51,C51
+R000125,P000006,I000052,General Director,2006,present,Glasgow,SO-CUR,source-scoped,C51,C51
+R000126,P000150,I000052,Music Director,current,present,Glasgow,SO-CUR,source-scoped,C51,C51
+R000127,P000108,I000052,Chair,current,present,Glasgow,SO-CUR,source-scoped,C51,C51
+R000128,P000014,I000023,Director-General,2024,present,Edinburgh,NGS-CUR,source-scoped,C51,C51
+R000129,P000074,I000028,Chief Executive,current,present,Belfast,NMNI-CUR,source-scoped,C51,C51
+R000130,P000050,I000028,Chair,current,present,Belfast,NMNI-CUR,source-scoped,C51,C51
+R000131,P000094,I000005,Director,2024,present,London,BM-CUR,source-scoped,C51,C51
+R000132,P000053,I000001,National Council member,2025,2029,England,ACE-APPT-25,source-scoped,C51,C51
+R000133,P000053,I000009,Chief Operating Officer,current,current,London,ACE-APPT-25,source-scoped,C51,C51
+R000134,P000053,I000046,Permanent post (role not specified in appointment biography),prior,prior,London,ACE-APPT-25,source-scoped,C51,C51
+R000135,P000053,I000031,Permanent post (role not specified in appointment biography),prior,prior,London,ACE-APPT-25,source-scoped,C51,C51
+R000136,P000053,I000019,Permanent post (role not specified in appointment biography),prior,prior,London,ACE-APPT-25,source-scoped,C51,C51
+R000137,P000053,I000021,Finance Director,prior,prior,London,ACE-APPT-25,source-scoped,C51,C51
+R000138,P000046,I000005,Trustee / Board member,current,present,London,BM-GOV-26,source-scoped,C51,C51
+R000139,P000091,I000005,Trustee / Board member,current,present,London,BM-GOV-26,source-scoped,C51,C51
+R000140,P000086,I000005,Trustee / Board member,current,present,London,BM-GOV-26,source-scoped,C51,C51
+R000141,P000087,I000005,Trustee / Board member,current,present,London,BM-GOV-26,source-scoped,C51,C51
+R000142,P000054,I000005,Trustee / Board member,current,present,London,BM-GOV-26,source-scoped,C51,C51
+R000143,P000010,I000005,Trustee / Board member,current,present,London,BM-GOV-26,source-scoped,C51,C51
+R000144,P000036,I000044,Trustee,current,present,London,RMG-APPT-26,source-scoped,C51,C51
+R000145,P000118,I000044,Trustee,current,present,London,RMG-APPT-26,source-scoped,C51,C51
+R000146,P000048,I000044,Trustee,current,present,London,RMG-APPT-26,source-scoped,C51,C51
+R000147,P000065,I000024,Chair,2021-08,2029-08-19,London,NG-BOARD-26,source-scoped,C51,C51
+R000148,P000072,I000024,Trustee,2026-08-01,2030-07-31,London,NG-BOARD-26,source-scoped,C51,C51
+R000149,P000020,I000024,Artist Trustee,2019-11-01,2027-10-31,London,NG-BOARD-26,source-scoped,C51,C51
+R000150,P000135,I000024,Deputy Chair; Finance and Audit,2017-04-03,2027-03-13,London,NG-BOARD-26,source-scoped,C51,C51
+R000151,P000062,I000024,Trustee; Chair National Gallery Global,2021-12-23,2029-12-22,London,NG-BOARD-26,source-scoped,C51,C51
+R000152,P000034,I000024,Trustee; Chair Masterplan Committee,2017-03-13,2027-06-12,London,NG-BOARD-26,source-scoped,C51,C51
+R000153,P000013,I000024,Cultural Trustee,2024-02-12,2028-02-11,London,NG-BOARD-26,source-scoped,C51,C51
+R000154,P000161,I000024,Deputy Chair; Governance Committee,2018-07-02,2027-03-31,London,NG-BOARD-26,source-scoped,C51,C51
+R000155,P000120,I000024,Trustee,2027-01-01,2030-12-31,London,NG-BOARD-26,source-scoped,C51,C51
+R000156,P000149,I000024,Trustee,2019-11-01,2027-10-31,London,NG-BOARD-26,source-scoped,C51,C51
+R000157,P000104,I000024,Academic Trustee; Tate Liaison Trustee,2024-11-29,2028-11-28,London,NG-BOARD-26,source-scoped,C51,C51
+R000158,P000090,I000024,Trustee; Scientific Consultative Group Chair,2018-07-02,2027-03-31,London,NG-BOARD-26,source-scoped,C51,C51
+R000159,P000079,I000005,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000160,P000159,I000005,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000161,P000157,I000005,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000162,P000084,I000005,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000163,P000028,I000005,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000164,P000098,I000053,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25,source-scoped,C51,C51
+R000165,P000134,I000053,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25,source-scoped,C51,C51
+R000166,P000059,I000053,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25,source-scoped,C51,C51
+R000167,P000073,I000053,Trustee,2025-03-24,2029-03-23,London,TATE-APPT-25,source-scoped,C51,C51
+R000168,P000158,I000053,Trustee,2025-06-23,2029-06-22,London,TATE-APPT-25,source-scoped,C51,C51
+R000169,P000081,I000056,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000170,P000011,I000056,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000171,P000002,I000056,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000172,P000099,I000056,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000173,P000164,I000056,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000174,P000106,I000056,Trustee,2025,present,London,DCMS-16-25,source-scoped,C51,C51
+R000175,P000018,I000056,Chair,2025-01-01,present,London,VA-BOARD-26,source-scoped,C51,C51
+R000176,P000009,I000044,Trustee,2026-07-01,2030-06-30,London,RMG-APPT-26,source-scoped,C51,C51
+R000177,P000117,I000044,Trustee,2026-07-01,2030-06-30,London,RMG-APPT-26,source-scoped,C51,C51
+R000178,P000083,I000044,Trustee,2026-07-01,2030-06-30,London,RMG-APPT-26,source-scoped,C51,C51
+R000179,P000027,I000044,Trustee,2026,present,London,RMG-APPT-26,source-scoped,C51,C51
+R000180,P000076,I000044,Trustee,2026,present,London,RMG-APPT-26,source-scoped,C51,C51
+R000181,P000146,I000044,Trustee,2026,present,London,RMG-APPT-26,source-scoped,C51,C51

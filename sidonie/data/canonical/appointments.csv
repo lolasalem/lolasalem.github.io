@@ -1,0 +1,7 @@
+appointment_id,appointing_actor,relationship,office,institution_id,legacy_source_id,status,introduced_in
+A000001,Secretary of State,appoints,Arts Council England Chair,I000001,ACE1,formal,C49
+A000002,Secretary of State,appoints,National Council members (except London Area Chair),I000001,ACE1,formal,C49
+A000003,Mayor of London,appoints subject to Secretary of State approval,London Area Chair,I000001,ACE1,formal,C49
+A000004,National Council,appoints subject to Secretary of State approval,Chief Executive,I000001,ACE1,formal,C49
+A000005,Prime Minister,appoints,Chair,I000051,SMG1,formal,C49
+A000006,Science Museum Group Board,appoints with Prime Minister approval,Chief Executive,I000051,SMG1,formal,C49

@@ -1,0 +1,805 @@
+gap_id,record_id,record_type,gap,status,introduced_in
+G000001,I000037,institution,legal identity,open,C39
+G000002,I000037,institution,executive leadership,open,C39
+G000003,I000037,institution,chair,open,C39
+G000004,I000037,institution,funding architecture,open,C39
+G000005,I000037,institution,exact legal power/governing instrument,open,C39
+G000006,I000037,institution,reconciled audited money-in streams,open,C39
+G000007,I000037,institution,money-out routes,open,C39
+G000008,I000037,institution,formal decision authority,open,C39
+G000009,I000037,institution,artistic/cultural judgement mechanism,open,C39
+G000010,I000037,institution,complete governing board,open,C39
+G000011,I000037,institution,appointment routes,open,C39
+G000012,I000037,institution,scrutiny/accountability powers,open,C39
+G000013,I000037,institution,quantified capacity evidence,open,C39
+G000014,I000037,institution,strategy claim extraction,open,C39
+G000015,I000037,institution,operational commitments,open,C39
+G000016,I000037,institution,measurable targets,open,C39
+G000017,I000037,institution,claim-linked budget,open,C39
+G000018,I000037,institution,outputs,open,C39
+G000019,I000037,institution,results,open,C39
+G000020,I000010,institution,legal identity,open,C39
+G000021,I000010,institution,executive leadership,open,C39
+G000022,I000010,institution,chair,open,C39
+G000023,I000010,institution,funding architecture,open,C39
+G000024,I000010,institution,exact legal power/governing instrument,open,C39
+G000025,I000010,institution,reconciled audited money-in streams,open,C39
+G000026,I000010,institution,money-out routes,open,C39
+G000027,I000010,institution,formal decision authority,open,C39
+G000028,I000010,institution,artistic/cultural judgement mechanism,open,C39
+G000029,I000010,institution,complete governing board,open,C39
+G000030,I000010,institution,appointment routes,open,C39
+G000031,I000010,institution,scrutiny/accountability powers,open,C39
+G000032,I000010,institution,quantified capacity evidence,open,C39
+G000033,I000010,institution,strategy claim extraction,open,C39
+G000034,I000010,institution,operational commitments,open,C39
+G000035,I000010,institution,measurable targets,open,C39
+G000036,I000010,institution,claim-linked budget,open,C39
+G000037,I000010,institution,outputs,open,C39
+G000038,I000010,institution,results,open,C39
+G000039,I000035,institution,chair,open,C39
+G000040,I000035,institution,exact legal power/governing instrument,open,C39
+G000041,I000035,institution,reconciled audited money-in streams,open,C39
+G000042,I000035,institution,money-out routes,open,C39
+G000043,I000035,institution,formal decision authority,open,C39
+G000044,I000035,institution,artistic/cultural judgement mechanism,open,C39
+G000045,I000035,institution,complete governing board,open,C39
+G000046,I000035,institution,appointment routes,open,C39
+G000047,I000035,institution,scrutiny/accountability powers,open,C39
+G000048,I000035,institution,quantified capacity evidence,open,C39
+G000049,I000035,institution,strategy claim extraction,open,C39
+G000050,I000035,institution,operational commitments,open,C39
+G000051,I000035,institution,measurable targets,open,C39
+G000052,I000035,institution,claim-linked budget,open,C39
+G000053,I000035,institution,outputs,open,C39
+G000054,I000035,institution,results,open,C39
+G000055,I000057,institution,chair,open,C39
+G000056,I000057,institution,exact legal power/governing instrument,open,C39
+G000057,I000057,institution,reconciled audited money-in streams,open,C39
+G000058,I000057,institution,money-out routes,open,C39
+G000059,I000057,institution,formal decision authority,open,C39
+G000060,I000057,institution,artistic/cultural judgement mechanism,open,C39
+G000061,I000057,institution,complete governing board,open,C39
+G000062,I000057,institution,appointment routes,open,C39
+G000063,I000057,institution,scrutiny/accountability powers,open,C39
+G000064,I000057,institution,quantified capacity evidence,open,C39
+G000065,I000057,institution,strategy claim extraction,open,C39
+G000066,I000057,institution,operational commitments,open,C39
+G000067,I000057,institution,measurable targets,open,C39
+G000068,I000057,institution,claim-linked budget,open,C39
+G000069,I000057,institution,outputs,open,C39
+G000070,I000057,institution,results,open,C39
+G000071,I000052,institution,exact legal power/governing instrument,open,C39
+G000072,I000052,institution,reconciled audited money-in streams,open,C39
+G000073,I000052,institution,money-out routes,open,C39
+G000074,I000052,institution,formal decision authority,open,C39
+G000075,I000052,institution,artistic/cultural judgement mechanism,open,C39
+G000076,I000052,institution,complete governing board,open,C39
+G000077,I000052,institution,appointment routes,open,C39
+G000078,I000052,institution,scrutiny/accountability powers,open,C39
+G000079,I000052,institution,quantified capacity evidence,open,C39
+G000080,I000052,institution,strategy claim extraction,open,C39
+G000081,I000052,institution,operational commitments,open,C39
+G000082,I000052,institution,measurable targets,open,C39
+G000083,I000052,institution,claim-linked budget,open,C39
+G000084,I000052,institution,outputs,open,C39
+G000085,I000052,institution,results,open,C39
+G000086,I000003,institution,chair,open,C39
+G000087,I000003,institution,exact legal power/governing instrument,open,C39
+G000088,I000003,institution,reconciled audited money-in streams,open,C39
+G000089,I000003,institution,money-out routes,open,C39
+G000090,I000003,institution,formal decision authority,open,C39
+G000091,I000003,institution,artistic/cultural judgement mechanism,open,C39
+G000092,I000003,institution,complete governing board,open,C39
+G000093,I000003,institution,appointment routes,open,C39
+G000094,I000003,institution,scrutiny/accountability powers,open,C39
+G000095,I000003,institution,quantified capacity evidence,open,C39
+G000096,I000003,institution,strategy claim extraction,open,C39
+G000097,I000003,institution,operational commitments,open,C39
+G000098,I000003,institution,measurable targets,open,C39
+G000099,I000003,institution,claim-linked budget,open,C39
+G000100,I000003,institution,outputs,open,C39
+G000101,I000003,institution,results,open,C39
+G000102,I000033,institution,legal identity,open,C39
+G000103,I000033,institution,executive leadership,open,C39
+G000104,I000033,institution,chair,open,C39
+G000105,I000033,institution,funding architecture,open,C39
+G000106,I000033,institution,exact legal power/governing instrument,open,C39
+G000107,I000033,institution,reconciled audited money-in streams,open,C39
+G000108,I000033,institution,money-out routes,open,C39
+G000109,I000033,institution,formal decision authority,open,C39
+G000110,I000033,institution,artistic/cultural judgement mechanism,open,C39
+G000111,I000033,institution,complete governing board,open,C39
+G000112,I000033,institution,appointment routes,open,C39
+G000113,I000033,institution,scrutiny/accountability powers,open,C39
+G000114,I000033,institution,quantified capacity evidence,open,C39
+G000115,I000033,institution,strategy claim extraction,open,C39
+G000116,I000033,institution,operational commitments,open,C39
+G000117,I000033,institution,measurable targets,open,C39
+G000118,I000033,institution,claim-linked budget,open,C39
+G000119,I000033,institution,outputs,open,C39
+G000120,I000033,institution,results,open,C39
+G000121,I000031,institution,legal identity,open,C39
+G000122,I000031,institution,executive leadership,open,C39
+G000123,I000031,institution,chair,open,C39
+G000124,I000031,institution,funding architecture,open,C39
+G000125,I000031,institution,exact legal power/governing instrument,open,C39
+G000126,I000031,institution,reconciled audited money-in streams,open,C39
+G000127,I000031,institution,money-out routes,open,C39
+G000128,I000031,institution,formal decision authority,open,C39
+G000129,I000031,institution,artistic/cultural judgement mechanism,open,C39
+G000130,I000031,institution,complete governing board,open,C39
+G000131,I000031,institution,appointment routes,open,C39
+G000132,I000031,institution,scrutiny/accountability powers,open,C39
+G000133,I000031,institution,quantified capacity evidence,open,C39
+G000134,I000031,institution,strategy claim extraction,open,C39
+G000135,I000031,institution,operational commitments,open,C39
+G000136,I000031,institution,measurable targets,open,C39
+G000137,I000031,institution,claim-linked budget,open,C39
+G000138,I000031,institution,outputs,open,C39
+G000139,I000031,institution,results,open,C39
+G000140,I000048,institution,legal identity,open,C39
+G000141,I000048,institution,executive leadership,open,C39
+G000142,I000048,institution,chair,open,C39
+G000143,I000048,institution,funding architecture,open,C39
+G000144,I000048,institution,exact legal power/governing instrument,open,C39
+G000145,I000048,institution,reconciled audited money-in streams,open,C39
+G000146,I000048,institution,money-out routes,open,C39
+G000147,I000048,institution,formal decision authority,open,C39
+G000148,I000048,institution,artistic/cultural judgement mechanism,open,C39
+G000149,I000048,institution,complete governing board,open,C39
+G000150,I000048,institution,appointment routes,open,C39
+G000151,I000048,institution,scrutiny/accountability powers,open,C39
+G000152,I000048,institution,quantified capacity evidence,open,C39
+G000153,I000048,institution,strategy claim extraction,open,C39
+G000154,I000048,institution,operational commitments,open,C39
+G000155,I000048,institution,measurable targets,open,C39
+G000156,I000048,institution,claim-linked budget,open,C39
+G000157,I000048,institution,outputs,open,C39
+G000158,I000048,institution,results,open,C39
+G000159,I000050,institution,legal identity,open,C39
+G000160,I000050,institution,executive leadership,open,C39
+G000161,I000050,institution,chair,open,C39
+G000162,I000050,institution,funding architecture,open,C39
+G000163,I000050,institution,exact legal power/governing instrument,open,C39
+G000164,I000050,institution,reconciled audited money-in streams,open,C39
+G000165,I000050,institution,money-out routes,open,C39
+G000166,I000050,institution,formal decision authority,open,C39
+G000167,I000050,institution,artistic/cultural judgement mechanism,open,C39
+G000168,I000050,institution,complete governing board,open,C39
+G000169,I000050,institution,appointment routes,open,C39
+G000170,I000050,institution,scrutiny/accountability powers,open,C39
+G000171,I000050,institution,quantified capacity evidence,open,C39
+G000172,I000050,institution,strategy claim extraction,open,C39
+G000173,I000050,institution,operational commitments,open,C39
+G000174,I000050,institution,measurable targets,open,C39
+G000175,I000050,institution,claim-linked budget,open,C39
+G000176,I000050,institution,outputs,open,C39
+G000177,I000050,institution,results,open,C39
+G000178,I000042,institution,legal identity,open,C39
+G000179,I000042,institution,executive leadership,open,C39
+G000180,I000042,institution,chair,open,C39
+G000181,I000042,institution,funding architecture,open,C39
+G000182,I000042,institution,exact legal power/governing instrument,open,C39
+G000183,I000042,institution,reconciled audited money-in streams,open,C39
+G000184,I000042,institution,money-out routes,open,C39
+G000185,I000042,institution,formal decision authority,open,C39
+G000186,I000042,institution,artistic/cultural judgement mechanism,open,C39
+G000187,I000042,institution,complete governing board,open,C39
+G000188,I000042,institution,appointment routes,open,C39
+G000189,I000042,institution,scrutiny/accountability powers,open,C39
+G000190,I000042,institution,quantified capacity evidence,open,C39
+G000191,I000042,institution,strategy claim extraction,open,C39
+G000192,I000042,institution,operational commitments,open,C39
+G000193,I000042,institution,measurable targets,open,C39
+G000194,I000042,institution,claim-linked budget,open,C39
+G000195,I000042,institution,outputs,open,C39
+G000196,I000042,institution,results,open,C39
+G000197,I000004,institution,chair,open,C39
+G000198,I000004,institution,exact legal power/governing instrument,open,C39
+G000199,I000004,institution,reconciled audited money-in streams,open,C39
+G000200,I000004,institution,money-out routes,open,C39
+G000201,I000004,institution,formal decision authority,open,C39
+G000202,I000004,institution,artistic/cultural judgement mechanism,open,C39
+G000203,I000004,institution,complete governing board,open,C39
+G000204,I000004,institution,appointment routes,open,C39
+G000205,I000004,institution,scrutiny/accountability powers,open,C39
+G000206,I000004,institution,quantified capacity evidence,open,C39
+G000207,I000004,institution,strategy claim extraction,open,C39
+G000208,I000004,institution,operational commitments,open,C39
+G000209,I000004,institution,measurable targets,open,C39
+G000210,I000004,institution,claim-linked budget,open,C39
+G000211,I000004,institution,outputs,open,C39
+G000212,I000004,institution,results,open,C39
+G000213,I000018,institution,legal identity,open,C39
+G000214,I000018,institution,executive leadership,open,C39
+G000215,I000018,institution,chair,open,C39
+G000216,I000018,institution,funding architecture,open,C39
+G000217,I000018,institution,exact legal power/governing instrument,open,C39
+G000218,I000018,institution,reconciled audited money-in streams,open,C39
+G000219,I000018,institution,money-out routes,open,C39
+G000220,I000018,institution,formal decision authority,open,C39
+G000221,I000018,institution,artistic/cultural judgement mechanism,open,C39
+G000222,I000018,institution,complete governing board,open,C39
+G000223,I000018,institution,appointment routes,open,C39
+G000224,I000018,institution,scrutiny/accountability powers,open,C39
+G000225,I000018,institution,quantified capacity evidence,open,C39
+G000226,I000018,institution,strategy claim extraction,open,C39
+G000227,I000018,institution,operational commitments,open,C39
+G000228,I000018,institution,measurable targets,open,C39
+G000229,I000018,institution,claim-linked budget,open,C39
+G000230,I000018,institution,outputs,open,C39
+G000231,I000018,institution,results,open,C39
+G000232,I000043,institution,exact legal power/governing instrument,open,C39
+G000233,I000043,institution,reconciled audited money-in streams,open,C39
+G000234,I000043,institution,money-out routes,open,C39
+G000235,I000043,institution,formal decision authority,open,C39
+G000236,I000043,institution,artistic/cultural judgement mechanism,open,C39
+G000237,I000043,institution,complete governing board,open,C39
+G000238,I000043,institution,appointment routes,open,C39
+G000239,I000043,institution,scrutiny/accountability powers,open,C39
+G000240,I000043,institution,quantified capacity evidence,open,C39
+G000241,I000043,institution,strategy claim extraction,open,C39
+G000242,I000043,institution,operational commitments,open,C39
+G000243,I000043,institution,measurable targets,open,C39
+G000244,I000043,institution,claim-linked budget,open,C39
+G000245,I000043,institution,outputs,open,C39
+G000246,I000043,institution,results,open,C39
+G000247,I000007,institution,exact legal power/governing instrument,open,C39
+G000248,I000007,institution,reconciled audited money-in streams,open,C39
+G000249,I000007,institution,money-out routes,open,C39
+G000250,I000007,institution,formal decision authority,open,C39
+G000251,I000007,institution,artistic/cultural judgement mechanism,open,C39
+G000252,I000007,institution,complete governing board,open,C39
+G000253,I000007,institution,appointment routes,open,C39
+G000254,I000007,institution,scrutiny/accountability powers,open,C39
+G000255,I000007,institution,quantified capacity evidence,open,C39
+G000256,I000007,institution,strategy claim extraction,open,C39
+G000257,I000007,institution,operational commitments,open,C39
+G000258,I000007,institution,measurable targets,open,C39
+G000259,I000007,institution,claim-linked budget,open,C39
+G000260,I000007,institution,outputs,open,C39
+G000261,I000007,institution,results,open,C39
+G000262,I000020,institution,chair,open,C39
+G000263,I000020,institution,exact legal power/governing instrument,open,C39
+G000264,I000020,institution,reconciled audited money-in streams,open,C39
+G000265,I000020,institution,money-out routes,open,C39
+G000266,I000020,institution,formal decision authority,open,C39
+G000267,I000020,institution,artistic/cultural judgement mechanism,open,C39
+G000268,I000020,institution,complete governing board,open,C39
+G000269,I000020,institution,appointment routes,open,C39
+G000270,I000020,institution,scrutiny/accountability powers,open,C39
+G000271,I000020,institution,quantified capacity evidence,open,C39
+G000272,I000020,institution,strategy claim extraction,open,C39
+G000273,I000020,institution,operational commitments,open,C39
+G000274,I000020,institution,measurable targets,open,C39
+G000275,I000020,institution,claim-linked budget,open,C39
+G000276,I000020,institution,outputs,open,C39
+G000277,I000020,institution,results,open,C39
+G000278,I000036,institution,legal identity,open,C39
+G000279,I000036,institution,executive leadership,open,C39
+G000280,I000036,institution,chair,open,C39
+G000281,I000036,institution,funding architecture,open,C39
+G000282,I000036,institution,exact legal power/governing instrument,open,C39
+G000283,I000036,institution,reconciled audited money-in streams,open,C39
+G000284,I000036,institution,money-out routes,open,C39
+G000285,I000036,institution,formal decision authority,open,C39
+G000286,I000036,institution,artistic/cultural judgement mechanism,open,C39
+G000287,I000036,institution,complete governing board,open,C39
+G000288,I000036,institution,appointment routes,open,C39
+G000289,I000036,institution,scrutiny/accountability powers,open,C39
+G000290,I000036,institution,quantified capacity evidence,open,C39
+G000291,I000036,institution,strategy claim extraction,open,C39
+G000292,I000036,institution,operational commitments,open,C39
+G000293,I000036,institution,measurable targets,open,C39
+G000294,I000036,institution,claim-linked budget,open,C39
+G000295,I000036,institution,outputs,open,C39
+G000296,I000036,institution,results,open,C39
+G000297,I000040,institution,legal identity,open,C39
+G000298,I000040,institution,executive leadership,open,C39
+G000299,I000040,institution,chair,open,C39
+G000300,I000040,institution,funding architecture,open,C39
+G000301,I000040,institution,exact legal power/governing instrument,open,C39
+G000302,I000040,institution,reconciled audited money-in streams,open,C39
+G000303,I000040,institution,money-out routes,open,C39
+G000304,I000040,institution,formal decision authority,open,C39
+G000305,I000040,institution,artistic/cultural judgement mechanism,open,C39
+G000306,I000040,institution,complete governing board,open,C39
+G000307,I000040,institution,appointment routes,open,C39
+G000308,I000040,institution,scrutiny/accountability powers,open,C39
+G000309,I000040,institution,quantified capacity evidence,open,C39
+G000310,I000040,institution,strategy claim extraction,open,C39
+G000311,I000040,institution,operational commitments,open,C39
+G000312,I000040,institution,measurable targets,open,C39
+G000313,I000040,institution,claim-linked budget,open,C39
+G000314,I000040,institution,outputs,open,C39
+G000315,I000040,institution,results,open,C39
+G000316,I000015,institution,legal identity,open,C39
+G000317,I000015,institution,executive leadership,open,C39
+G000318,I000015,institution,chair,open,C39
+G000319,I000015,institution,funding architecture,open,C39
+G000320,I000015,institution,exact legal power/governing instrument,open,C39
+G000321,I000015,institution,reconciled audited money-in streams,open,C39
+G000322,I000015,institution,money-out routes,open,C39
+G000323,I000015,institution,formal decision authority,open,C39
+G000324,I000015,institution,artistic/cultural judgement mechanism,open,C39
+G000325,I000015,institution,complete governing board,open,C39
+G000326,I000015,institution,appointment routes,open,C39
+G000327,I000015,institution,scrutiny/accountability powers,open,C39
+G000328,I000015,institution,quantified capacity evidence,open,C39
+G000329,I000015,institution,strategy claim extraction,open,C39
+G000330,I000015,institution,operational commitments,open,C39
+G000331,I000015,institution,measurable targets,open,C39
+G000332,I000015,institution,claim-linked budget,open,C39
+G000333,I000015,institution,outputs,open,C39
+G000334,I000015,institution,results,open,C39
+G000335,I000054,institution,legal identity,open,C39
+G000336,I000054,institution,executive leadership,open,C39
+G000337,I000054,institution,chair,open,C39
+G000338,I000054,institution,funding architecture,open,C39
+G000339,I000054,institution,exact legal power/governing instrument,open,C39
+G000340,I000054,institution,reconciled audited money-in streams,open,C39
+G000341,I000054,institution,money-out routes,open,C39
+G000342,I000054,institution,formal decision authority,open,C39
+G000343,I000054,institution,artistic/cultural judgement mechanism,open,C39
+G000344,I000054,institution,complete governing board,open,C39
+G000345,I000054,institution,appointment routes,open,C39
+G000346,I000054,institution,scrutiny/accountability powers,open,C39
+G000347,I000054,institution,quantified capacity evidence,open,C39
+G000348,I000054,institution,strategy claim extraction,open,C39
+G000349,I000054,institution,operational commitments,open,C39
+G000350,I000054,institution,measurable targets,open,C39
+G000351,I000054,institution,claim-linked budget,open,C39
+G000352,I000054,institution,outputs,open,C39
+G000353,I000054,institution,results,open,C39
+G000354,I000038,institution,legal identity,open,C39
+G000355,I000038,institution,executive leadership,open,C39
+G000356,I000038,institution,chair,open,C39
+G000357,I000038,institution,funding architecture,open,C39
+G000358,I000038,institution,exact legal power/governing instrument,open,C39
+G000359,I000038,institution,reconciled audited money-in streams,open,C39
+G000360,I000038,institution,money-out routes,open,C39
+G000361,I000038,institution,formal decision authority,open,C39
+G000362,I000038,institution,artistic/cultural judgement mechanism,open,C39
+G000363,I000038,institution,complete governing board,open,C39
+G000364,I000038,institution,appointment routes,open,C39
+G000365,I000038,institution,scrutiny/accountability powers,open,C39
+G000366,I000038,institution,quantified capacity evidence,open,C39
+G000367,I000038,institution,strategy claim extraction,open,C39
+G000368,I000038,institution,operational commitments,open,C39
+G000369,I000038,institution,measurable targets,open,C39
+G000370,I000038,institution,claim-linked budget,open,C39
+G000371,I000038,institution,outputs,open,C39
+G000372,I000038,institution,results,open,C39
+G000373,I000045,institution,chair,open,C39
+G000374,I000045,institution,exact legal power/governing instrument,open,C39
+G000375,I000045,institution,reconciled audited money-in streams,open,C39
+G000376,I000045,institution,money-out routes,open,C39
+G000377,I000045,institution,formal decision authority,open,C39
+G000378,I000045,institution,artistic/cultural judgement mechanism,open,C39
+G000379,I000045,institution,complete governing board,open,C39
+G000380,I000045,institution,appointment routes,open,C39
+G000381,I000045,institution,scrutiny/accountability powers,open,C39
+G000382,I000045,institution,quantified capacity evidence,open,C39
+G000383,I000045,institution,strategy claim extraction,open,C39
+G000384,I000045,institution,operational commitments,open,C39
+G000385,I000045,institution,measurable targets,open,C39
+G000386,I000045,institution,claim-linked budget,open,C39
+G000387,I000045,institution,outputs,open,C39
+G000388,I000045,institution,results,open,C39
+G000389,I000049,institution,exact legal power/governing instrument,open,C39
+G000390,I000049,institution,reconciled audited money-in streams,open,C39
+G000391,I000049,institution,money-out routes,open,C39
+G000392,I000049,institution,formal decision authority,open,C39
+G000393,I000049,institution,artistic/cultural judgement mechanism,open,C39
+G000394,I000049,institution,complete governing board,open,C39
+G000395,I000049,institution,appointment routes,open,C39
+G000396,I000049,institution,scrutiny/accountability powers,open,C39
+G000397,I000049,institution,quantified capacity evidence,open,C39
+G000398,I000049,institution,strategy claim extraction,open,C39
+G000399,I000049,institution,operational commitments,open,C39
+G000400,I000049,institution,measurable targets,open,C39
+G000401,I000049,institution,claim-linked budget,open,C39
+G000402,I000049,institution,outputs,open,C39
+G000403,I000049,institution,results,open,C39
+G000404,I000041,institution,chair,open,C39
+G000405,I000041,institution,exact legal power/governing instrument,open,C39
+G000406,I000041,institution,reconciled audited money-in streams,open,C39
+G000407,I000041,institution,money-out routes,open,C39
+G000408,I000041,institution,formal decision authority,open,C39
+G000409,I000041,institution,artistic/cultural judgement mechanism,open,C39
+G000410,I000041,institution,complete governing board,open,C39
+G000411,I000041,institution,appointment routes,open,C39
+G000412,I000041,institution,scrutiny/accountability powers,open,C39
+G000413,I000041,institution,quantified capacity evidence,open,C39
+G000414,I000041,institution,strategy claim extraction,open,C39
+G000415,I000041,institution,operational commitments,open,C39
+G000416,I000041,institution,measurable targets,open,C39
+G000417,I000041,institution,claim-linked budget,open,C39
+G000418,I000041,institution,outputs,open,C39
+G000419,I000041,institution,results,open,C39
+G000420,I000039,institution,legal identity,open,C39
+G000421,I000039,institution,executive leadership,open,C39
+G000422,I000039,institution,chair,open,C39
+G000423,I000039,institution,funding architecture,open,C39
+G000424,I000039,institution,exact legal power/governing instrument,open,C39
+G000425,I000039,institution,reconciled audited money-in streams,open,C39
+G000426,I000039,institution,money-out routes,open,C39
+G000427,I000039,institution,formal decision authority,open,C39
+G000428,I000039,institution,artistic/cultural judgement mechanism,open,C39
+G000429,I000039,institution,complete governing board,open,C39
+G000430,I000039,institution,appointment routes,open,C39
+G000431,I000039,institution,scrutiny/accountability powers,open,C39
+G000432,I000039,institution,quantified capacity evidence,open,C39
+G000433,I000039,institution,strategy claim extraction,open,C39
+G000434,I000039,institution,operational commitments,open,C39
+G000435,I000039,institution,measurable targets,open,C39
+G000436,I000039,institution,claim-linked budget,open,C39
+G000437,I000039,institution,outputs,open,C39
+G000438,I000039,institution,results,open,C39
+G000439,I000055,institution,legal identity,open,C39
+G000440,I000055,institution,executive leadership,open,C39
+G000441,I000055,institution,chair,open,C39
+G000442,I000055,institution,funding architecture,open,C39
+G000443,I000055,institution,exact legal power/governing instrument,open,C39
+G000444,I000055,institution,reconciled audited money-in streams,open,C39
+G000445,I000055,institution,money-out routes,open,C39
+G000446,I000055,institution,formal decision authority,open,C39
+G000447,I000055,institution,artistic/cultural judgement mechanism,open,C39
+G000448,I000055,institution,complete governing board,open,C39
+G000449,I000055,institution,appointment routes,open,C39
+G000450,I000055,institution,scrutiny/accountability powers,open,C39
+G000451,I000055,institution,quantified capacity evidence,open,C39
+G000452,I000055,institution,strategy claim extraction,open,C39
+G000453,I000055,institution,operational commitments,open,C39
+G000454,I000055,institution,measurable targets,open,C39
+G000455,I000055,institution,claim-linked budget,open,C39
+G000456,I000055,institution,outputs,open,C39
+G000457,I000055,institution,results,open,C39
+G000458,I000006,institution,legal identity,open,C39
+G000459,I000006,institution,executive leadership,open,C39
+G000460,I000006,institution,chair,open,C39
+G000461,I000006,institution,funding architecture,open,C39
+G000462,I000006,institution,exact legal power/governing instrument,open,C39
+G000463,I000006,institution,reconciled audited money-in streams,open,C39
+G000464,I000006,institution,money-out routes,open,C39
+G000465,I000006,institution,formal decision authority,open,C39
+G000466,I000006,institution,artistic/cultural judgement mechanism,open,C39
+G000467,I000006,institution,complete governing board,open,C39
+G000468,I000006,institution,appointment routes,open,C39
+G000469,I000006,institution,scrutiny/accountability powers,open,C39
+G000470,I000006,institution,quantified capacity evidence,open,C39
+G000471,I000006,institution,strategy claim extraction,open,C39
+G000472,I000006,institution,operational commitments,open,C39
+G000473,I000006,institution,measurable targets,open,C39
+G000474,I000006,institution,claim-linked budget,open,C39
+G000475,I000006,institution,outputs,open,C39
+G000476,I000006,institution,results,open,C39
+G000477,I000012,institution,chair,open,C39
+G000478,I000012,institution,exact legal power/governing instrument,open,C39
+G000479,I000012,institution,reconciled audited money-in streams,open,C39
+G000480,I000012,institution,money-out routes,open,C39
+G000481,I000012,institution,formal decision authority,open,C39
+G000482,I000012,institution,artistic/cultural judgement mechanism,open,C39
+G000483,I000012,institution,complete governing board,open,C39
+G000484,I000012,institution,appointment routes,open,C39
+G000485,I000012,institution,scrutiny/accountability powers,open,C39
+G000486,I000012,institution,quantified capacity evidence,open,C39
+G000487,I000012,institution,strategy claim extraction,open,C39
+G000488,I000012,institution,operational commitments,open,C39
+G000489,I000012,institution,measurable targets,open,C39
+G000490,I000012,institution,claim-linked budget,open,C39
+G000491,I000012,institution,outputs,open,C39
+G000492,I000012,institution,results,open,C39
+G000493,I000013,institution,legal identity,open,C39
+G000494,I000013,institution,executive leadership,open,C39
+G000495,I000013,institution,chair,open,C39
+G000496,I000013,institution,funding architecture,open,C39
+G000497,I000013,institution,exact legal power/governing instrument,open,C39
+G000498,I000013,institution,reconciled audited money-in streams,open,C39
+G000499,I000013,institution,money-out routes,open,C39
+G000500,I000013,institution,formal decision authority,open,C39
+G000501,I000013,institution,artistic/cultural judgement mechanism,open,C39
+G000502,I000013,institution,complete governing board,open,C39
+G000503,I000013,institution,appointment routes,open,C39
+G000504,I000013,institution,scrutiny/accountability powers,open,C39
+G000505,I000013,institution,quantified capacity evidence,open,C39
+G000506,I000013,institution,strategy claim extraction,open,C39
+G000507,I000013,institution,operational commitments,open,C39
+G000508,I000013,institution,measurable targets,open,C39
+G000509,I000013,institution,claim-linked budget,open,C39
+G000510,I000013,institution,outputs,open,C39
+G000511,I000013,institution,results,open,C39
+G000512,I000008,institution,legal identity,open,C39
+G000513,I000008,institution,executive leadership,open,C39
+G000514,I000008,institution,chair,open,C39
+G000515,I000008,institution,funding architecture,open,C39
+G000516,I000008,institution,exact legal power/governing instrument,open,C39
+G000517,I000008,institution,reconciled audited money-in streams,open,C39
+G000518,I000008,institution,money-out routes,open,C39
+G000519,I000008,institution,formal decision authority,open,C39
+G000520,I000008,institution,artistic/cultural judgement mechanism,open,C39
+G000521,I000008,institution,complete governing board,open,C39
+G000522,I000008,institution,appointment routes,open,C39
+G000523,I000008,institution,scrutiny/accountability powers,open,C39
+G000524,I000008,institution,quantified capacity evidence,open,C39
+G000525,I000008,institution,strategy claim extraction,open,C39
+G000526,I000008,institution,operational commitments,open,C39
+G000527,I000008,institution,measurable targets,open,C39
+G000528,I000008,institution,claim-linked budget,open,C39
+G000529,I000008,institution,outputs,open,C39
+G000530,I000008,institution,results,open,C39
+G000531,I000011,institution,legal identity,open,C39
+G000532,I000011,institution,executive leadership,open,C39
+G000533,I000011,institution,chair,open,C39
+G000534,I000011,institution,funding architecture,open,C39
+G000535,I000011,institution,exact legal power/governing instrument,open,C39
+G000536,I000011,institution,reconciled audited money-in streams,open,C39
+G000537,I000011,institution,money-out routes,open,C39
+G000538,I000011,institution,formal decision authority,open,C39
+G000539,I000011,institution,artistic/cultural judgement mechanism,open,C39
+G000540,I000011,institution,complete governing board,open,C39
+G000541,I000011,institution,appointment routes,open,C39
+G000542,I000011,institution,scrutiny/accountability powers,open,C39
+G000543,I000011,institution,quantified capacity evidence,open,C39
+G000544,I000011,institution,strategy claim extraction,open,C39
+G000545,I000011,institution,operational commitments,open,C39
+G000546,I000011,institution,measurable targets,open,C39
+G000547,I000011,institution,claim-linked budget,open,C39
+G000548,I000011,institution,outputs,open,C39
+G000549,I000011,institution,results,open,C39
+G000550,I000002,institution,legal identity,open,C39
+G000551,I000002,institution,executive leadership,open,C39
+G000552,I000002,institution,chair,open,C39
+G000553,I000002,institution,funding architecture,open,C39
+G000554,I000002,institution,exact legal power/governing instrument,open,C39
+G000555,I000002,institution,reconciled audited money-in streams,open,C39
+G000556,I000002,institution,money-out routes,open,C39
+G000557,I000002,institution,formal decision authority,open,C39
+G000558,I000002,institution,artistic/cultural judgement mechanism,open,C39
+G000559,I000002,institution,complete governing board,open,C39
+G000560,I000002,institution,appointment routes,open,C39
+G000561,I000002,institution,scrutiny/accountability powers,open,C39
+G000562,I000002,institution,quantified capacity evidence,open,C39
+G000563,I000002,institution,strategy claim extraction,open,C39
+G000564,I000002,institution,operational commitments,open,C39
+G000565,I000002,institution,measurable targets,open,C39
+G000566,I000002,institution,claim-linked budget,open,C39
+G000567,I000002,institution,outputs,open,C39
+G000568,I000002,institution,results,open,C39
+G000569,I000034,institution,legal identity,open,C39
+G000570,I000034,institution,executive leadership,open,C39
+G000571,I000034,institution,chair,open,C39
+G000572,I000034,institution,funding architecture,open,C39
+G000573,I000034,institution,exact legal power/governing instrument,open,C39
+G000574,I000034,institution,reconciled audited money-in streams,open,C39
+G000575,I000034,institution,money-out routes,open,C39
+G000576,I000034,institution,formal decision authority,open,C39
+G000577,I000034,institution,artistic/cultural judgement mechanism,open,C39
+G000578,I000034,institution,complete governing board,open,C39
+G000579,I000034,institution,appointment routes,open,C39
+G000580,I000034,institution,scrutiny/accountability powers,open,C39
+G000581,I000034,institution,quantified capacity evidence,open,C39
+G000582,I000034,institution,strategy claim extraction,open,C39
+G000583,I000034,institution,operational commitments,open,C39
+G000584,I000034,institution,measurable targets,open,C39
+G000585,I000034,institution,claim-linked budget,open,C39
+G000586,I000034,institution,outputs,open,C39
+G000587,I000034,institution,results,open,C39
+G000588,I000005,institution,legal identity,open,C39
+G000589,I000005,institution,executive leadership,open,C39
+G000590,I000005,institution,chair,open,C39
+G000591,I000005,institution,funding architecture,open,C39
+G000592,I000005,institution,exact legal power/governing instrument,open,C39
+G000593,I000005,institution,reconciled audited money-in streams,open,C39
+G000594,I000005,institution,money-out routes,open,C39
+G000595,I000005,institution,formal decision authority,open,C39
+G000596,I000005,institution,artistic/cultural judgement mechanism,open,C39
+G000597,I000005,institution,complete governing board,open,C39
+G000598,I000005,institution,appointment routes,open,C39
+G000599,I000005,institution,scrutiny/accountability powers,open,C39
+G000600,I000005,institution,quantified capacity evidence,open,C39
+G000601,I000005,institution,strategy claim extraction,open,C39
+G000602,I000005,institution,operational commitments,open,C39
+G000603,I000005,institution,measurable targets,open,C39
+G000604,I000005,institution,claim-linked budget,open,C39
+G000605,I000005,institution,outputs,open,C39
+G000606,I000005,institution,results,open,C39
+G000607,I000024,institution,legal identity,open,C39
+G000608,I000024,institution,executive leadership,open,C39
+G000609,I000024,institution,chair,open,C39
+G000610,I000024,institution,funding architecture,open,C39
+G000611,I000024,institution,exact legal power/governing instrument,open,C39
+G000612,I000024,institution,reconciled audited money-in streams,open,C39
+G000613,I000024,institution,money-out routes,open,C39
+G000614,I000024,institution,formal decision authority,open,C39
+G000615,I000024,institution,artistic/cultural judgement mechanism,open,C39
+G000616,I000024,institution,complete governing board,open,C39
+G000617,I000024,institution,appointment routes,open,C39
+G000618,I000024,institution,scrutiny/accountability powers,open,C39
+G000619,I000024,institution,quantified capacity evidence,open,C39
+G000620,I000024,institution,strategy claim extraction,open,C39
+G000621,I000024,institution,operational commitments,open,C39
+G000622,I000024,institution,measurable targets,open,C39
+G000623,I000024,institution,claim-linked budget,open,C39
+G000624,I000024,institution,outputs,open,C39
+G000625,I000024,institution,results,open,C39
+G000626,I000053,institution,legal identity,open,C39
+G000627,I000053,institution,executive leadership,open,C39
+G000628,I000053,institution,chair,open,C39
+G000629,I000053,institution,funding architecture,open,C39
+G000630,I000053,institution,exact legal power/governing instrument,open,C39
+G000631,I000053,institution,reconciled audited money-in streams,open,C39
+G000632,I000053,institution,money-out routes,open,C39
+G000633,I000053,institution,formal decision authority,open,C39
+G000634,I000053,institution,artistic/cultural judgement mechanism,open,C39
+G000635,I000053,institution,complete governing board,open,C39
+G000636,I000053,institution,appointment routes,open,C39
+G000637,I000053,institution,scrutiny/accountability powers,open,C39
+G000638,I000053,institution,quantified capacity evidence,open,C39
+G000639,I000053,institution,strategy claim extraction,open,C39
+G000640,I000053,institution,operational commitments,open,C39
+G000641,I000053,institution,measurable targets,open,C39
+G000642,I000053,institution,claim-linked budget,open,C39
+G000643,I000053,institution,outputs,open,C39
+G000644,I000053,institution,results,open,C39
+G000645,I000056,institution,legal identity,open,C39
+G000646,I000056,institution,executive leadership,open,C39
+G000647,I000056,institution,chair,open,C39
+G000648,I000056,institution,funding architecture,open,C39
+G000649,I000056,institution,exact legal power/governing instrument,open,C39
+G000650,I000056,institution,reconciled audited money-in streams,open,C39
+G000651,I000056,institution,money-out routes,open,C39
+G000652,I000056,institution,formal decision authority,open,C39
+G000653,I000056,institution,artistic/cultural judgement mechanism,open,C39
+G000654,I000056,institution,complete governing board,open,C39
+G000655,I000056,institution,appointment routes,open,C39
+G000656,I000056,institution,scrutiny/accountability powers,open,C39
+G000657,I000056,institution,quantified capacity evidence,open,C39
+G000658,I000056,institution,strategy claim extraction,open,C39
+G000659,I000056,institution,operational commitments,open,C39
+G000660,I000056,institution,measurable targets,open,C39
+G000661,I000056,institution,claim-linked budget,open,C39
+G000662,I000056,institution,outputs,open,C39
+G000663,I000056,institution,results,open,C39
+G000664,I000032,institution,legal identity,open,C39
+G000665,I000032,institution,executive leadership,open,C39
+G000666,I000032,institution,chair,open,C39
+G000667,I000032,institution,funding architecture,open,C39
+G000668,I000032,institution,exact legal power/governing instrument,open,C39
+G000669,I000032,institution,reconciled audited money-in streams,open,C39
+G000670,I000032,institution,money-out routes,open,C39
+G000671,I000032,institution,formal decision authority,open,C39
+G000672,I000032,institution,artistic/cultural judgement mechanism,open,C39
+G000673,I000032,institution,complete governing board,open,C39
+G000674,I000032,institution,appointment routes,open,C39
+G000675,I000032,institution,scrutiny/accountability powers,open,C39
+G000676,I000032,institution,quantified capacity evidence,open,C39
+G000677,I000032,institution,strategy claim extraction,open,C39
+G000678,I000032,institution,operational commitments,open,C39
+G000679,I000032,institution,measurable targets,open,C39
+G000680,I000032,institution,claim-linked budget,open,C39
+G000681,I000032,institution,outputs,open,C39
+G000682,I000032,institution,results,open,C39
+G000683,I000051,institution,legal identity,open,C39
+G000684,I000051,institution,executive leadership,open,C39
+G000685,I000051,institution,chair,open,C39
+G000686,I000051,institution,funding architecture,open,C39
+G000687,I000051,institution,exact legal power/governing instrument,open,C39
+G000688,I000051,institution,reconciled audited money-in streams,open,C39
+G000689,I000051,institution,money-out routes,open,C39
+G000690,I000051,institution,formal decision authority,open,C39
+G000691,I000051,institution,artistic/cultural judgement mechanism,open,C39
+G000692,I000051,institution,complete governing board,open,C39
+G000693,I000051,institution,appointment routes,open,C39
+G000694,I000051,institution,scrutiny/accountability powers,open,C39
+G000695,I000051,institution,quantified capacity evidence,open,C39
+G000696,I000051,institution,strategy claim extraction,open,C39
+G000697,I000051,institution,operational commitments,open,C39
+G000698,I000051,institution,measurable targets,open,C39
+G000699,I000051,institution,claim-linked budget,open,C39
+G000700,I000051,institution,outputs,open,C39
+G000701,I000051,institution,results,open,C39
+G000702,I000027,institution,legal identity,open,C39
+G000703,I000027,institution,executive leadership,open,C39
+G000704,I000027,institution,chair,open,C39
+G000705,I000027,institution,funding architecture,open,C39
+G000706,I000027,institution,exact legal power/governing instrument,open,C39
+G000707,I000027,institution,reconciled audited money-in streams,open,C39
+G000708,I000027,institution,money-out routes,open,C39
+G000709,I000027,institution,formal decision authority,open,C39
+G000710,I000027,institution,artistic/cultural judgement mechanism,open,C39
+G000711,I000027,institution,complete governing board,open,C39
+G000712,I000027,institution,appointment routes,open,C39
+G000713,I000027,institution,scrutiny/accountability powers,open,C39
+G000714,I000027,institution,quantified capacity evidence,open,C39
+G000715,I000027,institution,strategy claim extraction,open,C39
+G000716,I000027,institution,operational commitments,open,C39
+G000717,I000027,institution,measurable targets,open,C39
+G000718,I000027,institution,claim-linked budget,open,C39
+G000719,I000027,institution,outputs,open,C39
+G000720,I000027,institution,results,open,C39
+G000721,I000016,institution,legal identity,open,C39
+G000722,I000016,institution,executive leadership,open,C39
+G000723,I000016,institution,chair,open,C39
+G000724,I000016,institution,funding architecture,open,C39
+G000725,I000016,institution,exact legal power/governing instrument,open,C39
+G000726,I000016,institution,reconciled audited money-in streams,open,C39
+G000727,I000016,institution,money-out routes,open,C39
+G000728,I000016,institution,formal decision authority,open,C39
+G000729,I000016,institution,artistic/cultural judgement mechanism,open,C39
+G000730,I000016,institution,complete governing board,open,C39
+G000731,I000016,institution,appointment routes,open,C39
+G000732,I000016,institution,scrutiny/accountability powers,open,C39
+G000733,I000016,institution,quantified capacity evidence,open,C39
+G000734,I000016,institution,strategy claim extraction,open,C39
+G000735,I000016,institution,operational commitments,open,C39
+G000736,I000016,institution,measurable targets,open,C39
+G000737,I000016,institution,claim-linked budget,open,C39
+G000738,I000016,institution,outputs,open,C39
+G000739,I000016,institution,results,open,C39
+G000740,I000044,institution,legal identity,open,C39
+G000741,I000044,institution,executive leadership,open,C39
+G000742,I000044,institution,chair,open,C39
+G000743,I000044,institution,funding architecture,open,C39
+G000744,I000044,institution,exact legal power/governing instrument,open,C39
+G000745,I000044,institution,reconciled audited money-in streams,open,C39
+G000746,I000044,institution,money-out routes,open,C39
+G000747,I000044,institution,formal decision authority,open,C39
+G000748,I000044,institution,artistic/cultural judgement mechanism,open,C39
+G000749,I000044,institution,complete governing board,open,C39
+G000750,I000044,institution,appointment routes,open,C39
+G000751,I000044,institution,scrutiny/accountability powers,open,C39
+G000752,I000044,institution,quantified capacity evidence,open,C39
+G000753,I000044,institution,strategy claim extraction,open,C39
+G000754,I000044,institution,operational commitments,open,C39
+G000755,I000044,institution,measurable targets,open,C39
+G000756,I000044,institution,claim-linked budget,open,C39
+G000757,I000044,institution,outputs,open,C39
+G000758,I000044,institution,results,open,C39
+G000759,I000025,institution,chair,open,C39
+G000760,I000025,institution,exact legal power/governing instrument,open,C39
+G000761,I000025,institution,reconciled audited money-in streams,open,C39
+G000762,I000025,institution,money-out routes,open,C39
+G000763,I000025,institution,formal decision authority,open,C39
+G000764,I000025,institution,artistic/cultural judgement mechanism,open,C39
+G000765,I000025,institution,complete governing board,open,C39
+G000766,I000025,institution,appointment routes,open,C39
+G000767,I000025,institution,scrutiny/accountability powers,open,C39
+G000768,I000025,institution,quantified capacity evidence,open,C39
+G000769,I000025,institution,strategy claim extraction,open,C39
+G000770,I000025,institution,operational commitments,open,C39
+G000771,I000025,institution,measurable targets,open,C39
+G000772,I000025,institution,claim-linked budget,open,C39
+G000773,I000025,institution,outputs,open,C39
+G000774,I000025,institution,results,open,C39
+G000775,I000029,institution,exact legal power/governing instrument,open,C39
+G000776,I000029,institution,reconciled audited money-in streams,open,C39
+G000777,I000029,institution,money-out routes,open,C39
+G000778,I000029,institution,formal decision authority,open,C39
+G000779,I000029,institution,artistic/cultural judgement mechanism,open,C39
+G000780,I000029,institution,complete governing board,open,C39
+G000781,I000029,institution,appointment routes,open,C39
+G000782,I000029,institution,scrutiny/accountability powers,open,C39
+G000783,I000029,institution,quantified capacity evidence,open,C39
+G000784,I000029,institution,strategy claim extraction,open,C39
+G000785,I000029,institution,operational commitments,open,C39
+G000786,I000029,institution,measurable targets,open,C39
+G000787,I000029,institution,claim-linked budget,open,C39
+G000788,I000029,institution,outputs,open,C39
+G000789,I000029,institution,results,open,C39
+G000790,I000028,institution,exact legal power/governing instrument,open,C39
+G000791,I000028,institution,reconciled audited money-in streams,open,C39
+G000792,I000028,institution,money-out routes,open,C39
+G000793,I000028,institution,formal decision authority,open,C39
+G000794,I000028,institution,artistic/cultural judgement mechanism,open,C39
+G000795,I000028,institution,complete governing board,open,C39
+G000796,I000028,institution,appointment routes,open,C39
+G000797,I000028,institution,scrutiny/accountability powers,open,C39
+G000798,I000028,institution,quantified capacity evidence,open,C39
+G000799,I000028,institution,strategy claim extraction,open,C39
+G000800,I000028,institution,operational commitments,open,C39
+G000801,I000028,institution,measurable targets,open,C39
+G000802,I000028,institution,claim-linked budget,open,C39
+G000803,I000028,institution,outputs,open,C39
+G000804,I000028,institution,results,open,C39

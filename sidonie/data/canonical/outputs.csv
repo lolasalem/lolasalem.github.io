@@ -1,0 +1,14 @@
+output_id,entity_ref,period,indicator,value,unit,legacy_source_id,locator,notes,introduced_in
+O000001,all-sponsored-museums,2024/25,physical_visits,42000000,visits,DCMS-PI-2425,Headline §2.1,Official total; 41.8m for museums open in all comparison periods,C46
+O000002,all-sponsored-museums,2024/25,unique_website_visits,145000000,visits,DCMS-PI-2425,Headline §2.1,Release says over 145m,C46
+O000003,all-sponsored-museums,2024/25,child_visits_under_16,7700000,visits,DCMS-PI-2425,Headline §2.2,Approximate,C46
+O000004,all-sponsored-museums,2024/25,overseas_visits,19400000,visits,DCMS-PI-2425,Headline §2.2,Estimated,C46
+O000005,all-sponsored-museums,2024/25,domestic_visits,22600000,visits,DCMS-PI-2425,Headline §2.2,Estimated,C46
+O000006,all-sponsored-museums,2024/25,onsite_organised_activity_under18,1700000,instances,DCMS-PI-2425,Headline §2.3,Approximate,C46
+O000007,all-sponsored-museums,2024/25,formal_education_under18,1800000,visits,DCMS-PI-2425,Headline §2.3,Approximate,C46
+O000008,all-sponsored-museums,2024/25,recommend_visit_mean,93.5,percent,DCMS-PI-2425,Headline §2.4,Mean proportion across museums,C46
+O000009,all-sponsored-museums,2024/25,uk_loan_venues,1078,venues,DCMS-PI-2425,Headline §2.5,Official count,C46
+O000010,all-sponsored-museums,2024/25,self_generated_income_total,1300000000,GBP,DCMS-PI-2425,Headline §2.6,Rounded total,C46
+O000011,all-sponsored-museums,2024/25,fundraising_contributed_income,1200000000,GBP,DCMS-PI-2425,Headline §2.6,Rounded; 89% of total self-generated income,C46
+O000012,all-sponsored-museums,2024/25,admissions_income,71000000,GBP,DCMS-PI-2425,Headline §2.6,Rounded,C46
+O000013,all-sponsored-museums,2024/25,trading_net_profit,70000000,GBP,DCMS-PI-2425,Headline §2.6,Rounded,C46
