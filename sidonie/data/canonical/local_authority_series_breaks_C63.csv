@@ -1,0 +1,3 @@
+from_year,to_year,break_type,description,comparability,reader_rule
+2008/09,2016/17,annual workbook block,"Individual annual RO5 workbooks; original £000 values, labels, sheet and cell locators retained.",qualified,Do not splice reorganised authorities automatically.
+2016/17,2017/18,source-format boundary,Annual workbook to machine-readable multi-year dataset.,check before trend inference,Six displayed service labels map exactly; authority identifiers/source format change.
