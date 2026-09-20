@@ -1,0 +1,7 @@
+entity_id,reporting_entity,period_start,period_end,line_item,amount_gbp,unit,source_id,locator,status
+arts-council-england,Arts Council England,2024-04-01,2025-03-31,Total income,843062000,GBP,ACE-REV1,Summary of financial information (from ACE ARA 2024-25),verified
+arts-council-england,Arts Council England,2024-04-01,2025-03-31,Taxpayer operating grant (Grant-in-Aid),578077000,GBP,ACE-REV1,Summary of financial information,verified
+arts-council-england,Arts Council England,2024-04-01,2025-03-31,National Lottery,250259000,GBP,ACE-REV1,Summary of financial information,verified
+arts-council-england,Arts Council England,2024-04-01,2025-03-31,Investment returns on Lottery Distribution Fund,12035000,GBP,ACE-REV1,Summary of financial information,verified
+arts-council-england,Arts Council England,2024-04-01,2025-03-31,Other income,2691000,GBP,ACE-REV1,Summary of financial information,verified
+arts-council-england,Arts Council England,2024-04-01,2025-03-31,Total expenditure,731085000,GBP,ACE-REV1,Summary of financial information,verified

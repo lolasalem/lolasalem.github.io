@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "C44",
+  "verified_finance_lines": 6,
+  "current_2025_26_account_sources_verified": 4,
+  "official_output_source_families": 2,
+  "institution_queue": 19,
+  "derived_metrics": 3,
+  "audited_amounts_not_invented": true,
+  "lottery_separate_from_taxpayer": true
+}

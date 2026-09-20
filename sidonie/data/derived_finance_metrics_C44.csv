@@ -1,0 +1,4 @@
+entity_id,period,metric,value,guardrail
+arts-council-england,2024/25,Taxpayer operating grant share of recognised income,0.6856874108903023,"Derived from verified ACE summary lines; descriptive, not an independence score"
+arts-council-england,2024/25,National Lottery share of recognised income,0.2968453091231724,Lottery is not taxpayer funding
+arts-council-england,2024/25,Other income share,0.003191936061641967,As reported in official summary
